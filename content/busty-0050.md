@@ -1,5 +1,5 @@
 ---
-date: 2020-11-07
+date: 2020-11-08
 title: "駒込・田端"
 cover: "https://unsplash.it/1152/300/?random?BirchintheRoses"
 categories:
@@ -21,15 +21,15 @@ description: "キーワード別チャイエス嬢情報"
 
 ### カップ表記
 
-|店名|C|D|E|
-|:--|:---:|:---:|:---:|
-|[ストーリー](http://www.ko-story.com/) <br />@JR駒込駅南口||[8](https://www.google.com/search?q=site%3Awww.ko-story.com/+D)||
-|[てもみや](http://ko-relax.info/) <br />@JR駒込駅東口|[3](https://www.google.com/search?q=site%3Ako-relax.info/+C)|[8](https://www.google.com/search?q=site%3Ako-relax.info/+D)|[7](https://www.google.com/search?q=site%3Ako-relax.info/+E)|
-|[癒しの森](http://iyashinomori.oks.bz/) <br />@JR駒込駅南口||||
-|[うさぎ](http://koukou.ests.co/) <br />@JR駒込駅北口||[4](https://www.google.com/search?q=site%3Akoukou.ests.co/+D)||
-|[癒処](http://relaxation.red/) <br />@JR駒込駅北口||||
-|**[ねこちゃん](http://www.nekochan.masg.info/)** <br />@JR駒込駅東口|[1](https://www.google.com/search?q=site%3Awww.nekochan.masg.info/+C)|[2](https://www.google.com/search?q=site%3Awww.nekochan.masg.info/+D)|[2](https://www.google.com/search?q=site%3Awww.nekochan.masg.info/+E)|
-|[エピソード](https://episode.tyo.cm/) <br />@JR駒込駅東口|[14](https://www.google.com/search?q=site%3Aepisode.tyo.cm/+C)|[16](https://www.google.com/search?q=site%3Aepisode.tyo.cm/+D)|[4](https://www.google.com/search?q=site%3Aepisode.tyo.cm/+E)|
+|店名|C|D|E|F|
+|:--|:---:|:---:|:---:|:---:|
+|[ストーリー](http://www.ko-story.com/) <br />@JR駒込駅南口||[8](https://www.google.com/search?q=site%3Awww.ko-story.com/+D)|||
+|[てもみや](http://ko-relax.info/) <br />@JR駒込駅東口|[3](https://www.google.com/search?q=site%3Ako-relax.info/+C)|[8](https://www.google.com/search?q=site%3Ako-relax.info/+D)|[7](https://www.google.com/search?q=site%3Ako-relax.info/+E)||
+|[癒しの森](http://iyashinomori.oks.bz/) <br />@JR駒込駅南口|||||
+|[うさぎ](http://koukou.ests.co/) <br />@JR駒込駅北口||[4](https://www.google.com/search?q=site%3Akoukou.ests.co/+D)|||
+|[癒処](http://relaxation.red/) <br />@JR駒込駅北口|||||
+|[ねこちゃん](http://www.nekochan.masg.info/) <br />@JR駒込駅東口|[1](https://www.google.com/search?q=site%3Awww.nekochan.masg.info/+C)|[2](https://www.google.com/search?q=site%3Awww.nekochan.masg.info/+D)|[2](https://www.google.com/search?q=site%3Awww.nekochan.masg.info/+E)||
+|[エピソード](https://episode.tyo.cm/) <br />@JR駒込駅東口|[18](https://www.google.com/search?q=site%3Aepisode.tyo.cm/+C)|[24](https://www.google.com/search?q=site%3Aepisode.tyo.cm/+D)|[8](https://www.google.com/search?q=site%3Aepisode.tyo.cm/+E)|[4](https://www.google.com/search?q=site%3Aepisode.tyo.cm/+F)|
 
 
 
@@ -38,15 +38,15 @@ description: "キーワード別チャイエス嬢情報"
 
 ### バスト表記
 
-|店名|81|85|86|88|89|90|91|
-|:--|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|[ストーリー](http://www.ko-story.com/) <br />@JR駒込駅南口||||[6](https://www.google.com/search?q=site%3Awww.ko-story.com/+88)|[2](https://www.google.com/search?q=site%3Awww.ko-story.com/+89)|||
-|[てもみや](http://ko-relax.info/) <br />@JR駒込駅東口||||||||
-|[癒しの森](http://iyashinomori.oks.bz/) <br />@JR駒込駅南口||||||||
-|[うさぎ](http://koukou.ests.co/) <br />@JR駒込駅北口||[2](https://www.google.com/search?q=site%3Akoukou.ests.co/+85)|[2](https://www.google.com/search?q=site%3Akoukou.ests.co/+86)|||||
-|[癒処](http://relaxation.red/) <br />@JR駒込駅北口||||||||
-|**[ねこちゃん](http://www.nekochan.masg.info/)** <br />@JR駒込駅東口|[1](https://www.google.com/search?q=site%3Awww.nekochan.masg.info/+81)|||[3](https://www.google.com/search?q=site%3Awww.nekochan.masg.info/+88)||[1](https://www.google.com/search?q=site%3Awww.nekochan.masg.info/+90)||
-|[エピソード](https://episode.tyo.cm/) <br />@JR駒込駅東口||[8](https://www.google.com/search?q=site%3Aepisode.tyo.cm/+85)|[8](https://www.google.com/search?q=site%3Aepisode.tyo.cm/+86)||||[4](https://www.google.com/search?q=site%3Aepisode.tyo.cm/+91)|
+|店名|81|85|86|87|88|89|90|91|
+|:--|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|[ストーリー](http://www.ko-story.com/) <br />@JR駒込駅南口|||||[6](https://www.google.com/search?q=site%3Awww.ko-story.com/+88)|[2](https://www.google.com/search?q=site%3Awww.ko-story.com/+89)|||
+|[てもみや](http://ko-relax.info/) <br />@JR駒込駅東口|||||||||
+|[癒しの森](http://iyashinomori.oks.bz/) <br />@JR駒込駅南口|||||||||
+|[うさぎ](http://koukou.ests.co/) <br />@JR駒込駅北口||[2](https://www.google.com/search?q=site%3Akoukou.ests.co/+85)|[2](https://www.google.com/search?q=site%3Akoukou.ests.co/+86)||||||
+|[癒処](http://relaxation.red/) <br />@JR駒込駅北口|||||||||
+|[ねこちゃん](http://www.nekochan.masg.info/) <br />@JR駒込駅東口|[1](https://www.google.com/search?q=site%3Awww.nekochan.masg.info/+81)||||[3](https://www.google.com/search?q=site%3Awww.nekochan.masg.info/+88)||[1](https://www.google.com/search?q=site%3Awww.nekochan.masg.info/+90)||
+|[エピソード](https://episode.tyo.cm/) <br />@JR駒込駅東口||[12](https://www.google.com/search?q=site%3Aepisode.tyo.cm/+85)|[12](https://www.google.com/search?q=site%3Aepisode.tyo.cm/+86)|[4](https://www.google.com/search?q=site%3Aepisode.tyo.cm/+87)||[4](https://www.google.com/search?q=site%3Aepisode.tyo.cm/+89)||[4](https://www.google.com/search?q=site%3Aepisode.tyo.cm/+91)|
 
 
 
@@ -62,6 +62,6 @@ description: "キーワード別チャイエス嬢情報"
 |[癒しの森](http://iyashinomori.oks.bz/) <br />@JR駒込駅南口|
 |[うさぎ](http://koukou.ests.co/) <br />@JR駒込駅北口|
 |[癒処](http://relaxation.red/) <br />@JR駒込駅北口|
-|**[ねこちゃん](http://www.nekochan.masg.info/)** <br />@JR駒込駅東口|
+|[ねこちゃん](http://www.nekochan.masg.info/) <br />@JR駒込駅東口|
 |[エピソード](https://episode.tyo.cm/) <br />@JR駒込駅東口|
 

@@ -1,5 +1,5 @@
 ---
-date: 2020-11-07
+date: 2020-11-08
 title: "池袋"
 cover: "https://unsplash.it/1152/300/?random?BirchintheRoses"
 categories:
@@ -24,14 +24,14 @@ description: "キーワード別チャイエス嬢情報"
 |店名|C|D|E|F|G|H|
 |:--|:---:|:---:|:---:|:---:|:---:|:---:|
 |[シャーロット姫](http://www.i-rlx.info/) <br />@JR池袋駅西口(北)|[18](https://www.google.com/search?q=site%3Awww.i-rlx.info/+C)|[4](https://www.google.com/search?q=site%3Awww.i-rlx.info/+D)|[1](https://www.google.com/search?q=site%3Awww.i-rlx.info/+E)||||
-|**[New RELAX TIME](https://www.relax-es.net/)** <br />@JR池袋駅西口(北)|[64](https://www.google.com/search?q=site%3Awww.relax-es.net/+C)|[128](https://www.google.com/search?q=site%3Awww.relax-es.net/+D)|[121](https://www.google.com/search?q=site%3Awww.relax-es.net/+E)|[24](https://www.google.com/search?q=site%3Awww.relax-es.net/+F)|||
-|**[For you](http://heal-treat.com/)** <br />@JR池袋駅西口|[26](https://www.google.com/search?q=site%3Aheal-treat.com/+C)|[3](https://www.google.com/search?q=site%3Aheal-treat.com/+D)|[3](https://www.google.com/search?q=site%3Aheal-treat.com/+E)|[1](https://www.google.com/search?q=site%3Aheal-treat.com/+F)|||
-|**[AromaAngels～池袋アロマエンジェルズ～](https://www.aroma-angels.net/)** <br />@JR池袋駅西口|[76](https://www.google.com/search?q=site%3Awww.aroma-angels.net/+C)|[29](https://www.google.com/search?q=site%3Awww.aroma-angels.net/+D)|[2](https://www.google.com/search?q=site%3Awww.aroma-angels.net/+E)||||
-|[恋](http://koi.este.work/) <br />@JR池袋駅西口|[12](https://www.google.com/search?q=site%3Akoi.este.work/+C)|[18](https://www.google.com/search?q=site%3Akoi.este.work/+D)|||||
+|[New RELAX TIME](https://www.relax-es.net/) <br />@JR池袋駅西口(北)|[64](https://www.google.com/search?q=site%3Awww.relax-es.net/+C)|[129](https://www.google.com/search?q=site%3Awww.relax-es.net/+D)|[127](https://www.google.com/search?q=site%3Awww.relax-es.net/+E)|[24](https://www.google.com/search?q=site%3Awww.relax-es.net/+F)|||
+|[For you](http://heal-treat.com/) <br />@JR池袋駅西口|[26](https://www.google.com/search?q=site%3Aheal-treat.com/+C)|[3](https://www.google.com/search?q=site%3Aheal-treat.com/+D)|[3](https://www.google.com/search?q=site%3Aheal-treat.com/+E)|[1](https://www.google.com/search?q=site%3Aheal-treat.com/+F)|||
+|[AromaAngels～池袋アロマエンジェルズ～](https://www.aroma-angels.net/) <br />@JR池袋駅西口|[75](https://www.google.com/search?q=site%3Awww.aroma-angels.net/+C)|[29](https://www.google.com/search?q=site%3Awww.aroma-angels.net/+D)|[2](https://www.google.com/search?q=site%3Awww.aroma-angels.net/+E)||||
+|[恋](http://koi.este.work/) <br />@JR池袋駅西口|[14](https://www.google.com/search?q=site%3Akoi.este.work/+C)|[21](https://www.google.com/search?q=site%3Akoi.este.work/+D)|||||
 |[CoCo8 ココエイト](http://www.coco-8.jp/) <br />@JR池袋駅西口|||||||
 |[月の恋](http://tsukinokoi.com/) <br />@JR池袋駅西口|||||||
 |[心パラダイス](http://new-paradise.net/) <br />@JR池袋駅西口|||||||
-|[ハニービー](http://honeybee2.com/) <br />@JR池袋駅西口(北)|[389](https://www.google.com/search?q=site%3Ahoneybee2.com/+C)|[239](https://www.google.com/search?q=site%3Ahoneybee2.com/+D)|||[53](https://www.google.com/search?q=site%3Ahoneybee2.com/+G)||
+|[ハニービー](http://honeybee2.com/) <br />@JR池袋駅西口(北)|[373](https://www.google.com/search?q=site%3Ahoneybee2.com/+C)|[235](https://www.google.com/search?q=site%3Ahoneybee2.com/+D)|||[52](https://www.google.com/search?q=site%3Ahoneybee2.com/+G)||
 |[満足堂](http://es-manzokudou.com/) <br />@JR池袋駅東口|[10](https://www.google.com/search?q=site%3Aes-manzokudou.com/+C)|[7](https://www.google.com/search?q=site%3Aes-manzokudou.com/+D)|||||
 |[MONA・LIZA モナ・リザ](http://monaliza.xyz/) <br />@JR池袋駅西口|[8](https://www.google.com/search?q=site%3Amonaliza.xyz/+C)||||||
 |[台湾幸運リラクゼーション](http://esthe-treat.com/) <br />@JR池袋駅西口|||||||
@@ -39,7 +39,7 @@ description: "キーワード別チャイエス嬢情報"
 |[洗体マニア](http://manian-ikebukuro.com/) <br />@JR池袋駅東口|||||||
 |[スイートマット](http://c-sun2.com/) <br />@JR池袋駅西口|||||||
 |[For You](http://suiteroom.este88.com/) <br />@JR池袋駅西口|||||||
-|**[アワ国党](http://awakoku.net/)** <br />@JR池袋駅西口|[19](https://www.google.com/search?q=site%3Aawakoku.net/+C)||||||
+|[アワ国党](http://awakoku.net/) <br />@JR池袋駅西口|[19](https://www.google.com/search?q=site%3Aawakoku.net/+C)||||||
 |[水木花](http://hanamizuki.jpn.cm/) <br />@JR池袋駅東口||||||[2](https://www.google.com/search?q=site%3Ahanamizuki.jpn.cm/+H)|
 |[満月堂](http://mangetsudou.tyo.cm/) <br />@JR池袋駅西口|[18](https://www.google.com/search?q=site%3Amangetsudou.tyo.cm/+C)|[2](https://www.google.com/search?q=site%3Amangetsudou.tyo.cm/+D)|||||
 |[花水木](http://es-hana.work/) <br />@JR池袋駅西口(北)|||||||
@@ -47,7 +47,7 @@ description: "キーワード別チャイエス嬢情報"
 |[美の庵](http://esthe-japan.work/binoansalon/) <br />@JR池袋駅西口|||||||
 |[美少女学園](http://moemoe.jpest.net/) <br />@JR池袋駅西口|||||||
 |[花の恋](https://hanakoi.relax-place.com/) <br />@JR池袋駅西口(北)|||||||
-|**[香・kuo](http://iris.iest.info/)** <br />@JR池袋駅東口|[31](https://www.google.com/search?q=site%3Airis.iest.info/+C)|[108](https://www.google.com/search?q=site%3Airis.iest.info/+D)|[12](https://www.google.com/search?q=site%3Airis.iest.info/+E)||||
+|[香・kuo](http://iris.iest.info/) <br />@JR池袋駅東口|[13](https://www.google.com/search?q=site%3Airis.iest.info/+C)|[24](https://www.google.com/search?q=site%3Airis.iest.info/+D)|[6](https://www.google.com/search?q=site%3Airis.iest.info/+E)||||
 
 
 
@@ -59,14 +59,14 @@ description: "キーワード別チャイエス嬢情報"
 |店名|80|81|82|83|84|85|86|87|88|89|90|91|95|
 |:--|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |[シャーロット姫](http://www.i-rlx.info/) <br />@JR池袋駅西口(北)|||[2](https://www.google.com/search?q=site%3Awww.i-rlx.info/+82)|||[10](https://www.google.com/search?q=site%3Awww.i-rlx.info/+85)|[2](https://www.google.com/search?q=site%3Awww.i-rlx.info/+86)||[1](https://www.google.com/search?q=site%3Awww.i-rlx.info/+88)|[2](https://www.google.com/search?q=site%3Awww.i-rlx.info/+89)||||
-|**[New RELAX TIME](https://www.relax-es.net/)** <br />@JR池袋駅西口(北)||||||||[78](https://www.google.com/search?q=site%3Awww.relax-es.net/+87)|[102](https://www.google.com/search?q=site%3Awww.relax-es.net/+88)|[105](https://www.google.com/search?q=site%3Awww.relax-es.net/+89)||||
-|**[For you](http://heal-treat.com/)** <br />@JR池袋駅西口|[1](https://www.google.com/search?q=site%3Aheal-treat.com/+80)|||[1](https://www.google.com/search?q=site%3Aheal-treat.com/+83)||[3](https://www.google.com/search?q=site%3Aheal-treat.com/+85)|[2](https://www.google.com/search?q=site%3Aheal-treat.com/+86)|[1](https://www.google.com/search?q=site%3Aheal-treat.com/+87)|[2](https://www.google.com/search?q=site%3Aheal-treat.com/+88)||[1](https://www.google.com/search?q=site%3Aheal-treat.com/+90)|||
-|**[AromaAngels～池袋アロマエンジェルズ～](https://www.aroma-angels.net/)** <br />@JR池袋駅西口||||[6](https://www.google.com/search?q=site%3Awww.aroma-angels.net/+83)||[16](https://www.google.com/search?q=site%3Awww.aroma-angels.net/+85)|[10](https://www.google.com/search?q=site%3Awww.aroma-angels.net/+86)|[10](https://www.google.com/search?q=site%3Awww.aroma-angels.net/+87)|[7](https://www.google.com/search?q=site%3Awww.aroma-angels.net/+88)|[1](https://www.google.com/search?q=site%3Awww.aroma-angels.net/+89)||||
-|[恋](http://koi.este.work/) <br />@JR池袋駅西口||||[18](https://www.google.com/search?q=site%3Akoi.este.work/+83)||[6](https://www.google.com/search?q=site%3Akoi.este.work/+85)|[6](https://www.google.com/search?q=site%3Akoi.este.work/+86)|||||||
+|[New RELAX TIME](https://www.relax-es.net/) <br />@JR池袋駅西口(北)||||||||[79](https://www.google.com/search?q=site%3Awww.relax-es.net/+87)|[105](https://www.google.com/search?q=site%3Awww.relax-es.net/+88)|[108](https://www.google.com/search?q=site%3Awww.relax-es.net/+89)||||
+|[For you](http://heal-treat.com/) <br />@JR池袋駅西口|[1](https://www.google.com/search?q=site%3Aheal-treat.com/+80)|||[1](https://www.google.com/search?q=site%3Aheal-treat.com/+83)||[3](https://www.google.com/search?q=site%3Aheal-treat.com/+85)|[2](https://www.google.com/search?q=site%3Aheal-treat.com/+86)|[1](https://www.google.com/search?q=site%3Aheal-treat.com/+87)|[2](https://www.google.com/search?q=site%3Aheal-treat.com/+88)||[1](https://www.google.com/search?q=site%3Aheal-treat.com/+90)|||
+|[AromaAngels～池袋アロマエンジェルズ～](https://www.aroma-angels.net/) <br />@JR池袋駅西口||||[6](https://www.google.com/search?q=site%3Awww.aroma-angels.net/+83)||[16](https://www.google.com/search?q=site%3Awww.aroma-angels.net/+85)|[10](https://www.google.com/search?q=site%3Awww.aroma-angels.net/+86)|[10](https://www.google.com/search?q=site%3Awww.aroma-angels.net/+87)|[7](https://www.google.com/search?q=site%3Awww.aroma-angels.net/+88)|[1](https://www.google.com/search?q=site%3Awww.aroma-angels.net/+89)||||
+|[恋](http://koi.este.work/) <br />@JR池袋駅西口||||[21](https://www.google.com/search?q=site%3Akoi.este.work/+83)||[7](https://www.google.com/search?q=site%3Akoi.este.work/+85)|[7](https://www.google.com/search?q=site%3Akoi.este.work/+86)|||||||
 |[CoCo8 ココエイト](http://www.coco-8.jp/) <br />@JR池袋駅西口|||||||[2](https://www.google.com/search?q=site%3Awww.coco-8.jp/+86)||[1](https://www.google.com/search?q=site%3Awww.coco-8.jp/+88)||[1](https://www.google.com/search?q=site%3Awww.coco-8.jp/+90)|||
 |[月の恋](http://tsukinokoi.com/) <br />@JR池袋駅西口||||||||||||||
 |[心パラダイス](http://new-paradise.net/) <br />@JR池袋駅西口||||||[1](https://www.google.com/search?q=site%3Anew-paradise.net/+85)|[3](https://www.google.com/search?q=site%3Anew-paradise.net/+86)|||[2](https://www.google.com/search?q=site%3Anew-paradise.net/+89)|[3](https://www.google.com/search?q=site%3Anew-paradise.net/+90)|[5](https://www.google.com/search?q=site%3Anew-paradise.net/+91)||
-|[ハニービー](http://honeybee2.com/) <br />@JR池袋駅西口(北)|||[150](https://www.google.com/search?q=site%3Ahoneybee2.com/+82)|[124](https://www.google.com/search?q=site%3Ahoneybee2.com/+83)|[292](https://www.google.com/search?q=site%3Ahoneybee2.com/+84)||||[115](https://www.google.com/search?q=site%3Ahoneybee2.com/+88)|||||
+|[ハニービー](http://honeybee2.com/) <br />@JR池袋駅西口(北)|||[138](https://www.google.com/search?q=site%3Ahoneybee2.com/+82)|[122](https://www.google.com/search?q=site%3Ahoneybee2.com/+83)|[287](https://www.google.com/search?q=site%3Ahoneybee2.com/+84)||||[113](https://www.google.com/search?q=site%3Ahoneybee2.com/+88)|||||
 |[満足堂](http://es-manzokudou.com/) <br />@JR池袋駅東口|||||[1](https://www.google.com/search?q=site%3Aes-manzokudou.com/+84)||[7](https://www.google.com/search?q=site%3Aes-manzokudou.com/+86)|[8](https://www.google.com/search?q=site%3Aes-manzokudou.com/+87)|[2](https://www.google.com/search?q=site%3Aes-manzokudou.com/+88)|||||
 |[MONA・LIZA モナ・リザ](http://monaliza.xyz/) <br />@JR池袋駅西口||||||||||||||
 |[台湾幸運リラクゼーション](http://esthe-treat.com/) <br />@JR池袋駅西口||||||||||||||
@@ -74,7 +74,7 @@ description: "キーワード別チャイエス嬢情報"
 |[洗体マニア](http://manian-ikebukuro.com/) <br />@JR池袋駅東口||||||||||||||
 |[スイートマット](http://c-sun2.com/) <br />@JR池袋駅西口||[4](https://www.google.com/search?q=site%3Ac-sun2.com/+81)|[10](https://www.google.com/search?q=site%3Ac-sun2.com/+82)|[10](https://www.google.com/search?q=site%3Ac-sun2.com/+83)|[8](https://www.google.com/search?q=site%3Ac-sun2.com/+84)|[4](https://www.google.com/search?q=site%3Ac-sun2.com/+85)||||||||
 |[For You](http://suiteroom.este88.com/) <br />@JR池袋駅西口||||||||||||||
-|**[アワ国党](http://awakoku.net/)** <br />@JR池袋駅西口|||[1](https://www.google.com/search?q=site%3Aawakoku.net/+82)|[3](https://www.google.com/search?q=site%3Aawakoku.net/+83)|[2](https://www.google.com/search?q=site%3Aawakoku.net/+84)|[2](https://www.google.com/search?q=site%3Aawakoku.net/+85)|[1](https://www.google.com/search?q=site%3Aawakoku.net/+86)|[1](https://www.google.com/search?q=site%3Aawakoku.net/+87)|[1](https://www.google.com/search?q=site%3Aawakoku.net/+88)|||||
+|[アワ国党](http://awakoku.net/) <br />@JR池袋駅西口|||[1](https://www.google.com/search?q=site%3Aawakoku.net/+82)|[3](https://www.google.com/search?q=site%3Aawakoku.net/+83)|[2](https://www.google.com/search?q=site%3Aawakoku.net/+84)|[2](https://www.google.com/search?q=site%3Aawakoku.net/+85)|[1](https://www.google.com/search?q=site%3Aawakoku.net/+86)|[1](https://www.google.com/search?q=site%3Aawakoku.net/+87)|[1](https://www.google.com/search?q=site%3Aawakoku.net/+88)|||||
 |[水木花](http://hanamizuki.jpn.cm/) <br />@JR池袋駅東口|||||||||[1](https://www.google.com/search?q=site%3Ahanamizuki.jpn.cm/+88)||||[1](https://www.google.com/search?q=site%3Ahanamizuki.jpn.cm/+95)|
 |[満月堂](http://mangetsudou.tyo.cm/) <br />@JR池袋駅西口|[2](https://www.google.com/search?q=site%3Amangetsudou.tyo.cm/+80)|||[2](https://www.google.com/search?q=site%3Amangetsudou.tyo.cm/+83)|[4](https://www.google.com/search?q=site%3Amangetsudou.tyo.cm/+84)|||||||||
 |[花水木](http://es-hana.work/) <br />@JR池袋駅西口(北)||||||||||||||
@@ -82,7 +82,7 @@ description: "キーワード別チャイエス嬢情報"
 |[美の庵](http://esthe-japan.work/binoansalon/) <br />@JR池袋駅西口||||||||||||||
 |[美少女学園](http://moemoe.jpest.net/) <br />@JR池袋駅西口||||||||||||||
 |[花の恋](https://hanakoi.relax-place.com/) <br />@JR池袋駅西口(北)||||||||||||||
-|**[香・kuo](http://iris.iest.info/)** <br />@JR池袋駅東口|||||[12](https://www.google.com/search?q=site%3Airis.iest.info/+84)|[36](https://www.google.com/search?q=site%3Airis.iest.info/+85)|[36](https://www.google.com/search?q=site%3Airis.iest.info/+86)|[48](https://www.google.com/search?q=site%3Airis.iest.info/+87)||||||
+|[香・kuo](http://iris.iest.info/) <br />@JR池袋駅東口||||||[6](https://www.google.com/search?q=site%3Airis.iest.info/+85)|[6](https://www.google.com/search?q=site%3Airis.iest.info/+86)|[18](https://www.google.com/search?q=site%3Airis.iest.info/+87)||||||
 
 
 
@@ -94,9 +94,9 @@ description: "キーワード別チャイエス嬢情報"
 |店名|セクシー|
 |:--|:---:|
 |[シャーロット姫](http://www.i-rlx.info/) <br />@JR池袋駅西口(北)||
-|**[New RELAX TIME](https://www.relax-es.net/)** <br />@JR池袋駅西口(北)||
-|**[For you](http://heal-treat.com/)** <br />@JR池袋駅西口|[1](https://www.google.com/search?q=site%3Aheal-treat.com/+セクシー)|
-|**[AromaAngels～池袋アロマエンジェルズ～](https://www.aroma-angels.net/)** <br />@JR池袋駅西口||
+|[New RELAX TIME](https://www.relax-es.net/) <br />@JR池袋駅西口(北)||
+|[For you](http://heal-treat.com/) <br />@JR池袋駅西口|[1](https://www.google.com/search?q=site%3Aheal-treat.com/+セクシー)|
+|[AromaAngels～池袋アロマエンジェルズ～](https://www.aroma-angels.net/) <br />@JR池袋駅西口||
 |[恋](http://koi.este.work/) <br />@JR池袋駅西口||
 |[CoCo8 ココエイト](http://www.coco-8.jp/) <br />@JR池袋駅西口||
 |[月の恋](http://tsukinokoi.com/) <br />@JR池袋駅西口|[1](https://www.google.com/search?q=site%3Atsukinokoi.com/+セクシー)|
@@ -109,7 +109,7 @@ description: "キーワード別チャイエス嬢情報"
 |[洗体マニア](http://manian-ikebukuro.com/) <br />@JR池袋駅東口||
 |[スイートマット](http://c-sun2.com/) <br />@JR池袋駅西口||
 |[For You](http://suiteroom.este88.com/) <br />@JR池袋駅西口||
-|**[アワ国党](http://awakoku.net/)** <br />@JR池袋駅西口||
+|[アワ国党](http://awakoku.net/) <br />@JR池袋駅西口||
 |[水木花](http://hanamizuki.jpn.cm/) <br />@JR池袋駅東口||
 |[満月堂](http://mangetsudou.tyo.cm/) <br />@JR池袋駅西口||
 |[花水木](http://es-hana.work/) <br />@JR池袋駅西口(北)||
@@ -117,5 +117,5 @@ description: "キーワード別チャイエス嬢情報"
 |[美の庵](http://esthe-japan.work/binoansalon/) <br />@JR池袋駅西口||
 |[美少女学園](http://moemoe.jpest.net/) <br />@JR池袋駅西口||
 |[花の恋](https://hanakoi.relax-place.com/) <br />@JR池袋駅西口(北)||
-|**[香・kuo](http://iris.iest.info/)** <br />@JR池袋駅東口||
+|[香・kuo](http://iris.iest.info/) <br />@JR池袋駅東口||
 
