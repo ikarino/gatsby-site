@@ -1,5 +1,5 @@
 ---
-date: 2020-11-08
+date: 2020-11-09
 title: "神奈川地区"
 cover: "https://unsplash.it/1152/300/?random?BirchintheRoses"
 categories:
@@ -62,7 +62,7 @@ description: "キーワード別チャイエス嬢情報"
 |[リブレス](http://es-libres.com/) <br />@JR東戸塚駅西口|[1](https://www.google.com/search?q=site%3Aes-libres.com/+C)|[2](https://www.google.com/search?q=site%3Aes-libres.com/+D)|[1](https://www.google.com/search?q=site%3Aes-libres.com/+E)|||
 |[元気モリモリ](http://www.genkimori.esjp.info/) <br />@JR戸塚駅|[1](https://www.google.com/search?q=site%3Awww.genkimori.esjp.info/+C)|[3](https://www.google.com/search?q=site%3Awww.genkimori.esjp.info/+D)||||
 |[猫娘](http://www.nekomusume.masg.info/) <br />@JR藤沢駅南口|[8](https://www.google.com/search?q=site%3Awww.nekomusume.masg.info/+C)|[16](https://www.google.com/search?q=site%3Awww.nekomusume.masg.info/+D)||||
-|[夢都美](http://www.airi-est.xyz/) <br />@JR小田原駅東口|[13](https://www.google.com/search?q=site%3Awww.airi-est.xyz/+C)|||||
+|[夢都美](http://www.airi-est.xyz/) <br />@JR小田原駅東口|[10](https://www.google.com/search?q=site%3Awww.airi-est.xyz/+C)|||||
 |[魔法の女王](http://civebt.xyz/) <br />@湘南台駅西口|||[8](https://www.google.com/search?q=site%3Acivebt.xyz/+E)||[4](https://www.google.com/search?q=site%3Acivebt.xyz/+G)|
 
 
