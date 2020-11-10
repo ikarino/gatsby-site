@@ -1,5 +1,5 @@
 ---
-date: 2020-11-09
+date: 2020-11-10
 title: "秋葉原・神田"
 cover: "https://unsplash.it/1152/300/?random?BirchintheRoses"
 categories:
@@ -23,8 +23,8 @@ description: "キーワード別チャイエス嬢情報"
 
 |店名|C|D|E|F|G|H|
 |:--|:---:|:---:|:---:|:---:|:---:|:---:|
-|[康楽園](https://www.a-side.com/k-kourakuen/) <br />@JR神田駅北口|[21](https://www.google.com/search?q=site%3Awww.a-side.com/k-kourakuen/+C)|[45](https://www.google.com/search?q=site%3Awww.a-side.com/k-kourakuen/+D)|[13](https://www.google.com/search?q=site%3Awww.a-side.com/k-kourakuen/+E)|[2](https://www.google.com/search?q=site%3Awww.a-side.com/k-kourakuen/+F)|[1](https://www.google.com/search?q=site%3Awww.a-side.com/k-kourakuen/+G)||
-|[温](https://kanda-on.work/) <br />@JR神田駅西口|[42](https://www.google.com/search?q=site%3Akanda-on.work/+C)|||[32](https://www.google.com/search?q=site%3Akanda-on.work/+F)|||
+|[康楽園](https://www.a-side.com/k-kourakuen/) <br />@JR神田駅北口|[21](https://www.google.com/search?q=site%3Awww.a-side.com/k-kourakuen/+C)|[44](https://www.google.com/search?q=site%3Awww.a-side.com/k-kourakuen/+D)|[15](https://www.google.com/search?q=site%3Awww.a-side.com/k-kourakuen/+E)|[2](https://www.google.com/search?q=site%3Awww.a-side.com/k-kourakuen/+F)|[1](https://www.google.com/search?q=site%3Awww.a-side.com/k-kourakuen/+G)||
+|[温](https://kanda-on.work/) <br />@JR神田駅西口|[44](https://www.google.com/search?q=site%3Akanda-on.work/+C)|||[32](https://www.google.com/search?q=site%3Akanda-on.work/+F)|||
 |[ビーチの薫](https://kanda-massage.com/) <br />@JR神田駅東口|[2](https://www.google.com/search?q=site%3Akanda-massage.com/+C)|[4](https://www.google.com/search?q=site%3Akanda-massage.com/+D)|[1](https://www.google.com/search?q=site%3Akanda-massage.com/+E)|[3](https://www.google.com/search?q=site%3Akanda-massage.com/+F)|||
 |[元気モリモリ](http://genki-morix2.asia/) <br />@JR神田駅東口|[9](https://www.google.com/search?q=site%3Agenki-morix2.asia/+C)||||||
 |[健康坊](http://kenkoubo.link) <br />@JR神田駅北口|[4](https://www.google.com/search?q=site%3Akenkoubo.link+C)|[6](https://www.google.com/search?q=site%3Akenkoubo.link+D)|||||
@@ -33,7 +33,7 @@ description: "キーワード別チャイエス嬢情報"
 |[恋の日](http://esthe-aroma.pink/) <br />@JR神田駅東口|[2](https://www.google.com/search?q=site%3Aesthe-aroma.pink/+C)|[4](https://www.google.com/search?q=site%3Aesthe-aroma.pink/+D)|[1](https://www.google.com/search?q=site%3Aesthe-aroma.pink/+E)||||
 |[AKB](http://x-akb.info/) <br />@JR浅草橋駅東口|[18](https://www.google.com/search?q=site%3Ax-akb.info/+C)|[10](https://www.google.com/search?q=site%3Ax-akb.info/+D)||[1](https://www.google.com/search?q=site%3Ax-akb.info/+F)|||
 |[百合](http://yuri.es-relax.info/) <br />@JR神田駅東口||[12](https://www.google.com/search?q=site%3Ayuri.es-relax.info/+D)|||||
-|[NeNe～ネネ～](http://nene-kanda.net/index.html) <br />@JR神田駅北口|[26](https://www.google.com/search?q=site%3Anene-kanda.net/index.html+C)|[3](https://www.google.com/search?q=site%3Anene-kanda.net/index.html+D)|[3](https://www.google.com/search?q=site%3Anene-kanda.net/index.html+E)|[4](https://www.google.com/search?q=site%3Anene-kanda.net/index.html+F)|||
+|[NeNe～ネネ～](http://nene-kanda.net/index.html) <br />@JR神田駅北口|[32](https://www.google.com/search?q=site%3Anene-kanda.net/index.html+C)|[4](https://www.google.com/search?q=site%3Anene-kanda.net/index.html+D)|[4](https://www.google.com/search?q=site%3Anene-kanda.net/index.html+E)|[4](https://www.google.com/search?q=site%3Anene-kanda.net/index.html+F)|||
 |[奇縁～きえん～](http://www.kien-es.info/) <br />@JR秋葉原駅電気街口|[4](https://www.google.com/search?q=site%3Awww.kien-es.info/+C)|[5](https://www.google.com/search?q=site%3Awww.kien-es.info/+D)|||||
 |[RAVE レイヴ](http://www.rave.masg.info/) <br />@JR秋葉原駅昭和通り口||[6](https://www.google.com/search?q=site%3Awww.rave.masg.info/+D)||[2](https://www.google.com/search?q=site%3Awww.rave.masg.info/+F)|[1](https://www.google.com/search?q=site%3Awww.rave.masg.info/+G)||
 |[恋の花](http://kaede.tyo.cm/) <br />@JR神田駅東口|[2](https://www.google.com/search?q=site%3Akaede.tyo.cm/+C)|[22](https://www.google.com/search?q=site%3Akaede.tyo.cm/+D)|[5](https://www.google.com/search?q=site%3Akaede.tyo.cm/+E)|[1](https://www.google.com/search?q=site%3Akaede.tyo.cm/+F)|||
@@ -53,12 +53,12 @@ description: "キーワード別チャイエス嬢情報"
 |[少女学園](https://gakuen.jpn.vin/) <br />@JR秋葉原駅昭和通り口||[2](https://www.google.com/search?q=site%3Agakuen.jpn.vin/+D)|[6](https://www.google.com/search?q=site%3Agakuen.jpn.vin/+E)|[2](https://www.google.com/search?q=site%3Agakuen.jpn.vin/+F)|||
 |[癒しの森](http://massage-esthe.xyz/) <br />@JR神田駅西口|||||||
 |[森の香り](https://mori-kaori.tyo.cm/) <br />@JR秋葉原駅昭和通り口|[15](https://www.google.com/search?q=site%3Amori-kaori.tyo.cm/+C)|[28](https://www.google.com/search?q=site%3Amori-kaori.tyo.cm/+D)|[2](https://www.google.com/search?q=site%3Amori-kaori.tyo.cm/+E)|[18](https://www.google.com/search?q=site%3Amori-kaori.tyo.cm/+F)|||
-|[癒処～ゆどころ](http://yudokoro.xyz/) <br />@JR神田駅北口|[50](https://www.google.com/search?q=site%3Ayudokoro.xyz/+C)|[50](https://www.google.com/search?q=site%3Ayudokoro.xyz/+D)|[50](https://www.google.com/search?q=site%3Ayudokoro.xyz/+E)||||
+|[癒処～ゆどころ](http://yudokoro.xyz/) <br />@JR神田駅北口|[47](https://www.google.com/search?q=site%3Ayudokoro.xyz/+C)|[75](https://www.google.com/search?q=site%3Ayudokoro.xyz/+D)|[56](https://www.google.com/search?q=site%3Ayudokoro.xyz/+E)|[28](https://www.google.com/search?q=site%3Ayudokoro.xyz/+F)|[28](https://www.google.com/search?q=site%3Ayudokoro.xyz/+G)||
 |[秋麗～しゅうれい～](http://aroma-est.biz/) <br />@JR秋葉原駅電気街口|[8](https://www.google.com/search?q=site%3Aaroma-est.biz/+C)|[16](https://www.google.com/search?q=site%3Aaroma-est.biz/+D)|[8](https://www.google.com/search?q=site%3Aaroma-est.biz/+E)||||
 |[パンダマッサージ](https://yumegokochi1.com/) <br />@JR秋葉原駅昭和通り口|||||||
-|[明日香](http://relax-esthe.pink/) <br />@JR秋葉原駅昭和通り口|[12](https://www.google.com/search?q=site%3Arelax-esthe.pink/+C)|[4](https://www.google.com/search?q=site%3Arelax-esthe.pink/+D)|[1](https://www.google.com/search?q=site%3Arelax-esthe.pink/+E)||||
 |[順風](http://junpu.jpest.net/) <br />@JR秋葉原駅昭和通り口|[3](https://www.google.com/search?q=site%3Ajunpu.jpest.net/+C)|[1](https://www.google.com/search?q=site%3Ajunpu.jpest.net/+D)|||||
-|[リフレッシュサロン](http://refresh-salon.tokyo/) <br />@JR神田駅西口|[31](https://www.google.com/search?q=site%3Arefresh-salon.tokyo/+C)|[12](https://www.google.com/search?q=site%3Arefresh-salon.tokyo/+D)|[2](https://www.google.com/search?q=site%3Arefresh-salon.tokyo/+E)||[2](https://www.google.com/search?q=site%3Arefresh-salon.tokyo/+G)||
+|[リフレッシュサロン](http://refresh-salon.tokyo/) <br />@JR神田駅西口|[37](https://www.google.com/search?q=site%3Arefresh-salon.tokyo/+C)|[12](https://www.google.com/search?q=site%3Arefresh-salon.tokyo/+D)|[2](https://www.google.com/search?q=site%3Arefresh-salon.tokyo/+E)||[2](https://www.google.com/search?q=site%3Arefresh-salon.tokyo/+G)||
+|[花水木](http://xn--vckg5a9gugx77p8s4b.biz/) <br />@JR秋葉原駅昭和通り口||[2](https://www.google.com/search?q=site%3Axn--vckg5a9gugx77p8s4b.biz/+D)|[1](https://www.google.com/search?q=site%3Axn--vckg5a9gugx77p8s4b.biz/+E)||||
 
 
 
@@ -69,7 +69,7 @@ description: "キーワード別チャイエス嬢情報"
 
 |店名|81|82|83|84|85|86|87|88|89|90|91|95|
 |:--|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|[康楽園](https://www.a-side.com/k-kourakuen/) <br />@JR神田駅北口||[3](https://www.google.com/search?q=site%3Awww.a-side.com/k-kourakuen/+82)|[4](https://www.google.com/search?q=site%3Awww.a-side.com/k-kourakuen/+83)|[10](https://www.google.com/search?q=site%3Awww.a-side.com/k-kourakuen/+84)|[26](https://www.google.com/search?q=site%3Awww.a-side.com/k-kourakuen/+85)|[17](https://www.google.com/search?q=site%3Awww.a-side.com/k-kourakuen/+86)|[14](https://www.google.com/search?q=site%3Awww.a-side.com/k-kourakuen/+87)|[6](https://www.google.com/search?q=site%3Awww.a-side.com/k-kourakuen/+88)|[2](https://www.google.com/search?q=site%3Awww.a-side.com/k-kourakuen/+89)|[2](https://www.google.com/search?q=site%3Awww.a-side.com/k-kourakuen/+90)||[1](https://www.google.com/search?q=site%3Awww.a-side.com/k-kourakuen/+95)|
+|[康楽園](https://www.a-side.com/k-kourakuen/) <br />@JR神田駅北口||[3](https://www.google.com/search?q=site%3Awww.a-side.com/k-kourakuen/+82)|[3](https://www.google.com/search?q=site%3Awww.a-side.com/k-kourakuen/+83)|[8](https://www.google.com/search?q=site%3Awww.a-side.com/k-kourakuen/+84)|[26](https://www.google.com/search?q=site%3Awww.a-side.com/k-kourakuen/+85)|[21](https://www.google.com/search?q=site%3Awww.a-side.com/k-kourakuen/+86)|[13](https://www.google.com/search?q=site%3Awww.a-side.com/k-kourakuen/+87)|[7](https://www.google.com/search?q=site%3Awww.a-side.com/k-kourakuen/+88)|[2](https://www.google.com/search?q=site%3Awww.a-side.com/k-kourakuen/+89)|[3](https://www.google.com/search?q=site%3Awww.a-side.com/k-kourakuen/+90)||[1](https://www.google.com/search?q=site%3Awww.a-side.com/k-kourakuen/+95)|
 |[温](https://kanda-on.work/) <br />@JR神田駅西口|||||||||||||
 |[ビーチの薫](https://kanda-massage.com/) <br />@JR神田駅東口|||[2](https://www.google.com/search?q=site%3Akanda-massage.com/+83)|[2](https://www.google.com/search?q=site%3Akanda-massage.com/+84)|[2](https://www.google.com/search?q=site%3Akanda-massage.com/+85)|[1](https://www.google.com/search?q=site%3Akanda-massage.com/+86)|[2](https://www.google.com/search?q=site%3Akanda-massage.com/+87)|[1](https://www.google.com/search?q=site%3Akanda-massage.com/+88)|||||
 |[元気モリモリ](http://genki-morix2.asia/) <br />@JR神田駅東口||||[2](https://www.google.com/search?q=site%3Agenki-morix2.asia/+84)|[4](https://www.google.com/search?q=site%3Agenki-morix2.asia/+85)|[2](https://www.google.com/search?q=site%3Agenki-morix2.asia/+86)|[9](https://www.google.com/search?q=site%3Agenki-morix2.asia/+87)|[2](https://www.google.com/search?q=site%3Agenki-morix2.asia/+88)|[1](https://www.google.com/search?q=site%3Agenki-morix2.asia/+89)||||
@@ -102,9 +102,9 @@ description: "キーワード別チャイエス嬢情報"
 |[癒処～ゆどころ](http://yudokoro.xyz/) <br />@JR神田駅北口|||||||||||||
 |[秋麗～しゅうれい～](http://aroma-est.biz/) <br />@JR秋葉原駅電気街口||[4](https://www.google.com/search?q=site%3Aaroma-est.biz/+82)||[4](https://www.google.com/search?q=site%3Aaroma-est.biz/+84)|[8](https://www.google.com/search?q=site%3Aaroma-est.biz/+85)|[8](https://www.google.com/search?q=site%3Aaroma-est.biz/+86)|[4](https://www.google.com/search?q=site%3Aaroma-est.biz/+87)|[4](https://www.google.com/search?q=site%3Aaroma-est.biz/+88)|||||
 |[パンダマッサージ](https://yumegokochi1.com/) <br />@JR秋葉原駅昭和通り口|||||||||||||
-|[明日香](http://relax-esthe.pink/) <br />@JR秋葉原駅昭和通り口|||||[1](https://www.google.com/search?q=site%3Arelax-esthe.pink/+85)|[3](https://www.google.com/search?q=site%3Arelax-esthe.pink/+86)|[1](https://www.google.com/search?q=site%3Arelax-esthe.pink/+87)||||||
 |[順風](http://junpu.jpest.net/) <br />@JR秋葉原駅昭和通り口||||[1](https://www.google.com/search?q=site%3Ajunpu.jpest.net/+84)|||[1](https://www.google.com/search?q=site%3Ajunpu.jpest.net/+87)||||||
 |[リフレッシュサロン](http://refresh-salon.tokyo/) <br />@JR神田駅西口|||||||||||||
+|[花水木](http://xn--vckg5a9gugx77p8s4b.biz/) <br />@JR秋葉原駅昭和通り口||||||[3](https://www.google.com/search?q=site%3Axn--vckg5a9gugx77p8s4b.biz/+86)|||||||
 
 
 
@@ -148,7 +148,7 @@ description: "キーワード別チャイエス嬢情報"
 |[癒処～ゆどころ](http://yudokoro.xyz/) <br />@JR神田駅北口|||||||
 |[秋麗～しゅうれい～](http://aroma-est.biz/) <br />@JR秋葉原駅電気街口|||||||
 |[パンダマッサージ](https://yumegokochi1.com/) <br />@JR秋葉原駅昭和通り口|||||||
-|[明日香](http://relax-esthe.pink/) <br />@JR秋葉原駅昭和通り口|||||||
 |[順風](http://junpu.jpest.net/) <br />@JR秋葉原駅昭和通り口|||[6](https://www.google.com/search?q=site%3Ajunpu.jpest.net/+乳)|[6](https://www.google.com/search?q=site%3Ajunpu.jpest.net/+巨乳)|||
 |[リフレッシュサロン](http://refresh-salon.tokyo/) <br />@JR神田駅西口|||||||
+|[花水木](http://xn--vckg5a9gugx77p8s4b.biz/) <br />@JR秋葉原駅昭和通り口|||||||
 
