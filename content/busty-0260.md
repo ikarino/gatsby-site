@@ -1,5 +1,5 @@
 ---
-date: 2020-11-09
+date: 2020-11-10
 title: "京王・小田急線沿線"
 cover: "https://unsplash.it/1152/300/?random?BirchintheRoses"
 categories:
@@ -32,7 +32,7 @@ description: "キーワード別チャイエス嬢情報"
 |[癒し苑](http://iyashien-est.com/) <br />@府中駅南口|[7](https://www.google.com/search?q=site%3Aiyashien-est.com/+C)|||||
 |[静香](http://shizuka2015.net/) <br />@下北沢駅南口|[7](https://www.google.com/search?q=site%3Ashizuka2015.net/+C)|||||
 |[花水木](http://hanamizuki.tyo.cm/) <br />@府中駅南口|[27](https://www.google.com/search?q=site%3Ahanamizuki.tyo.cm/+C)|[21](https://www.google.com/search?q=site%3Ahanamizuki.tyo.cm/+D)||||
-|[ろうまん](http://arm-rlx.com/) <br />@千歳船橋駅南口|[15](https://www.google.com/search?q=site%3Aarm-rlx.com/+C)|||||
+|[ろうまん](http://arm-rlx.com/) <br />@千歳船橋駅南口|[17](https://www.google.com/search?q=site%3Aarm-rlx.com/+C)|||||
 |[レインボー](https://es-relax.tokyo/) <br />@千歳烏山駅北口|[18](https://www.google.com/search?q=site%3Aes-relax.tokyo/+C)|[55](https://www.google.com/search?q=site%3Aes-relax.tokyo/+D)|[46](https://www.google.com/search?q=site%3Aes-relax.tokyo/+E)|[7](https://www.google.com/search?q=site%3Aes-relax.tokyo/+F)||
 |[花の香](http://relax-esthe.net/) <br />@つつじヶ丘駅北口||||||
 |[for you](http://aroma-relax.red/) <br />@代々木上原駅南口||[16](https://www.google.com/search?q=site%3Aaroma-relax.red/+D)|[4](https://www.google.com/search?q=site%3Aaroma-relax.red/+E)|||
@@ -256,7 +256,7 @@ description: "キーワード別チャイエス嬢情報"
 |[Crescent -クレッセント-](http://www.dhdwdjw.xyz/) <br />@笹塚駅北口||||[1](https://www.google.com/search?q=site%3Awww.dhdwdjw.xyz/+胸)|
 |[らくらく](http://rakuraku.iest.info/) <br />@府中駅南口|||||
 |[37℃](http://37.esnavi.work/) <br />@幡ヶ谷駅|||||
-|[Lyrical -リリカル-](http://www.koruliop.xyz/) <br />@笹塚駅北口||[16](https://www.google.com/search?q=site%3Awww.koruliop.xyz/+乳)|[14](https://www.google.com/search?q=site%3Awww.koruliop.xyz/+巨乳)||
+|[Lyrical -リリカル-](http://www.koruliop.xyz/) <br />@笹塚駅北口||[15](https://www.google.com/search?q=site%3Awww.koruliop.xyz/+乳)|[14](https://www.google.com/search?q=site%3Awww.koruliop.xyz/+巨乳)||
 |[Lom -ロム-](http://est70.jp/lom/) <br />@登戸駅|||||
 |[プレシャス](http://pre-cious.work/) <br />@JR稲田堤駅|||||
 |[エターナル](http://eternal-tokyo.net/) <br />@明大前駅中央口|||||

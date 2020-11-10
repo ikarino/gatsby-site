@@ -1,5 +1,5 @@
 ---
-date: 2020-11-09
+date: 2020-11-10
 title: "赤羽・東十条・王子・板橋"
 cover: "https://unsplash.it/1152/300/?random?BirchintheRoses"
 categories:
