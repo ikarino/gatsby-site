@@ -1,5 +1,5 @@
 ---
-date: 2020-11-10
+date: 2020-11-11
 title: "錦糸町・亀戸・新小岩"
 cover: "https://unsplash.it/1152/300/?random?BirchintheRoses"
 categories:
@@ -25,6 +25,7 @@ description: "キーワード別チャイエス嬢情報"
 |:--|:---:|:---:|:---:|:---:|:---:|
 |[Cherry](http://cherry-esthe.com/) <br />@JR錦糸町駅南口||||||
 |[SHERRY](http://www.sherry.relaxjp.info/) <br />@JR錦糸町駅南口|[8](https://www.google.com/search?q=site%3Awww.sherry.relaxjp.info/+C)|[24](https://www.google.com/search?q=site%3Awww.sherry.relaxjp.info/+D)||[8](https://www.google.com/search?q=site%3Awww.sherry.relaxjp.info/+G)||
+|[千椿](http://sentsubaki.asia/) <br />@JR亀戸駅東口||||||
 |[雅芳](http://www.o-miyabi.com/) <br />@JR新小岩駅南口|[12](https://www.google.com/search?q=site%3Awww.o-miyabi.com/+C)|[4](https://www.google.com/search?q=site%3Awww.o-miyabi.com/+D)|||[2](https://www.google.com/search?q=site%3Awww.o-miyabi.com/+H)|
 |[エルグランデ-elgrande-](http://el-grande.asia/) <br />@JR新小岩駅南口||||||
 |[リラックスの森](http://ipidiw.com/relaxnomori/) <br />@森下駅A4口||||||
@@ -47,7 +48,7 @@ description: "キーワード別チャイエス嬢情報"
 |[恋人](http://kameido.info/) <br />@JR亀戸駅北口|[15](https://www.google.com/search?q=site%3Akameido.info/+C)|||||
 |[ひまわり](http://www.himawari-shinkoiwa.com/) <br />@JR新小岩駅南口|[11](https://www.google.com/search?q=site%3Awww.himawari-shinkoiwa.com/+C)|[6](https://www.google.com/search?q=site%3Awww.himawari-shinkoiwa.com/+D)||||
 |[韓国アカスリ](http://k-akasuri.xyz/) <br />@JR亀戸駅北口|[1](https://www.google.com/search?q=site%3Ak-akasuri.xyz/+C)|[3](https://www.google.com/search?q=site%3Ak-akasuri.xyz/+D)||||
-|[あわわ](http://www.awawa-es.info/) <br />@JR錦糸町駅南口|[2](https://www.google.com/search?q=site%3Awww.awawa-es.info/+C)|[16](https://www.google.com/search?q=site%3Awww.awawa-es.info/+D)||||
+|[あわわ](http://www.awawa-es.info/) <br />@JR錦糸町駅南口|[2](https://www.google.com/search?q=site%3Awww.awawa-es.info/+C)|[14](https://www.google.com/search?q=site%3Awww.awawa-es.info/+D)||||
 |[なな](http://nanaesute.pw/) <br />@JR錦糸町駅|[7](https://www.google.com/search?q=site%3Ananaesute.pw/+C)|||||
 |[桜](http://miyabi-aroma.xyz/) <br />@JR亀戸駅東口||||||
 |[恋](http://es-koibito.work/) <br />@JR錦糸町駅南口|[7](https://www.google.com/search?q=site%3Aes-koibito.work/+C)|||||
@@ -69,6 +70,7 @@ description: "キーワード別チャイエス嬢情報"
 |:--|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |[Cherry](http://cherry-esthe.com/) <br />@JR錦糸町駅南口|||||||||||||||
 |[SHERRY](http://www.sherry.relaxjp.info/) <br />@JR錦糸町駅南口|||||[16](https://www.google.com/search?q=site%3Awww.sherry.relaxjp.info/+86)|[16](https://www.google.com/search?q=site%3Awww.sherry.relaxjp.info/+87)|[8](https://www.google.com/search?q=site%3Awww.sherry.relaxjp.info/+88)||||||||
+|[千椿](http://sentsubaki.asia/) <br />@JR亀戸駅東口|||||||||||||||
 |[雅芳](http://www.o-miyabi.com/) <br />@JR新小岩駅南口|||[2](https://www.google.com/search?q=site%3Awww.o-miyabi.com/+84)|[4](https://www.google.com/search?q=site%3Awww.o-miyabi.com/+85)|[2](https://www.google.com/search?q=site%3Awww.o-miyabi.com/+86)|||[6](https://www.google.com/search?q=site%3Awww.o-miyabi.com/+89)||||||[2](https://www.google.com/search?q=site%3Awww.o-miyabi.com/+98)|
 |[エルグランデ-elgrande-](http://el-grande.asia/) <br />@JR新小岩駅南口|||||||||||||||
 |[リラックスの森](http://ipidiw.com/relaxnomori/) <br />@森下駅A4口|||||[1](https://www.google.com/search?q=site%3Aipidiw.com/relaxnomori/+86)||||[2](https://www.google.com/search?q=site%3Aipidiw.com/relaxnomori/+90)||[1](https://www.google.com/search?q=site%3Aipidiw.com/relaxnomori/+93)||||
@@ -91,7 +93,7 @@ description: "キーワード別チャイエス嬢情報"
 |[恋人](http://kameido.info/) <br />@JR亀戸駅北口|||||||||||||||
 |[ひまわり](http://www.himawari-shinkoiwa.com/) <br />@JR新小岩駅南口|||||[2](https://www.google.com/search?q=site%3Awww.himawari-shinkoiwa.com/+86)|[4](https://www.google.com/search?q=site%3Awww.himawari-shinkoiwa.com/+87)|||||||||
 |[韓国アカスリ](http://k-akasuri.xyz/) <br />@JR亀戸駅北口||||||[1](https://www.google.com/search?q=site%3Ak-akasuri.xyz/+87)|[2](https://www.google.com/search?q=site%3Ak-akasuri.xyz/+88)|[1](https://www.google.com/search?q=site%3Ak-akasuri.xyz/+89)|||||||
-|[あわわ](http://www.awawa-es.info/) <br />@JR錦糸町駅南口||||[8](https://www.google.com/search?q=site%3Awww.awawa-es.info/+85)||[8](https://www.google.com/search?q=site%3Awww.awawa-es.info/+87)|[2](https://www.google.com/search?q=site%3Awww.awawa-es.info/+88)|[4](https://www.google.com/search?q=site%3Awww.awawa-es.info/+89)|||||||
+|[あわわ](http://www.awawa-es.info/) <br />@JR錦糸町駅南口||||[6](https://www.google.com/search?q=site%3Awww.awawa-es.info/+85)||[8](https://www.google.com/search?q=site%3Awww.awawa-es.info/+87)|[2](https://www.google.com/search?q=site%3Awww.awawa-es.info/+88)|[4](https://www.google.com/search?q=site%3Awww.awawa-es.info/+89)|||||||
 |[なな](http://nanaesute.pw/) <br />@JR錦糸町駅|||||||||||||||
 |[桜](http://miyabi-aroma.xyz/) <br />@JR亀戸駅東口|||||||||||||||
 |[恋](http://es-koibito.work/) <br />@JR錦糸町駅南口||||[2](https://www.google.com/search?q=site%3Aes-koibito.work/+85)|[1](https://www.google.com/search?q=site%3Aes-koibito.work/+86)|||[1](https://www.google.com/search?q=site%3Aes-koibito.work/+89)|||||||
@@ -113,6 +115,7 @@ description: "キーワード別チャイエス嬢情報"
 |:--|:---:|:---:|:---:|
 |[Cherry](http://cherry-esthe.com/) <br />@JR錦糸町駅南口||||
 |[SHERRY](http://www.sherry.relaxjp.info/) <br />@JR錦糸町駅南口||||
+|[千椿](http://sentsubaki.asia/) <br />@JR亀戸駅東口||||
 |[雅芳](http://www.o-miyabi.com/) <br />@JR新小岩駅南口||||
 |[エルグランデ-elgrande-](http://el-grande.asia/) <br />@JR新小岩駅南口||||
 |[リラックスの森](http://ipidiw.com/relaxnomori/) <br />@森下駅A4口||||
