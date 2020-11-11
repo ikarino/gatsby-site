@@ -1,5 +1,5 @@
 ---
-date: 2020-11-10
+date: 2020-11-11
 title: "西日暮里・日暮里・鶯谷"
 cover: "https://unsplash.it/1152/300/?random?BirchintheRoses"
 categories:
@@ -41,7 +41,7 @@ description: "キーワード別チャイエス嬢情報"
 |[もみの木](https://mominoki.tyo.ac/) <br />@町屋駅1番出口|[13](https://www.google.com/search?q=site%3Amominoki.tyo.ac/+C)|[20](https://www.google.com/search?q=site%3Amominoki.tyo.ac/+D)||||
 |[回楽苑](https://nippori-massage.com/) <br />@JR鶯谷駅北口||||||
 |[ラベンダー](http://e-lavender.xyz/) <br />@JR三河島駅|[14](https://www.google.com/search?q=site%3Ae-lavender.xyz/+C)|||||
-|[パジャマ](http://massage-aroma.pink/) <br />@JR日暮里駅東口|[1](https://www.google.com/search?q=site%3Amassage-aroma.pink/+C)|[5](https://www.google.com/search?q=site%3Amassage-aroma.pink/+D)||||
+|[パジャマ](http://massage-aroma.pink/) <br />@JR日暮里駅東口||[6](https://www.google.com/search?q=site%3Amassage-aroma.pink/+D)||||
 
 
 
