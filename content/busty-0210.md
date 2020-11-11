@@ -1,5 +1,5 @@
 ---
-date: 2020-11-10
+date: 2020-11-11
 title: "赤羽・東十条・王子・板橋"
 cover: "https://unsplash.it/1152/300/?random?BirchintheRoses"
 categories:
@@ -47,6 +47,8 @@ description: "キーワード別チャイエス嬢情報"
 |[Cocosia ～ココシア～](http://www.cocosia.work/) <br />@JR赤羽駅西口|[15](https://www.google.com/search?q=site%3Awww.cocosia.work/+C)|[10](https://www.google.com/search?q=site%3Awww.cocosia.work/+D)|[6](https://www.google.com/search?q=site%3Awww.cocosia.work/+E)|
 |[Aroma Dream ～アロマドリーム～](https://dream.ests.jp/) <br />@JR赤羽駅東口|[16](https://www.google.com/search?q=site%3Adream.ests.jp/+C)|[8](https://www.google.com/search?q=site%3Adream.ests.jp/+D)|[2](https://www.google.com/search?q=site%3Adream.ests.jp/+E)|
 |[Love Sea](https://higashijujo-mensesthe.com/) <br />@JR東十条駅北口||||
+|[羽の恋](http://www.hanekoi.relaxjp.info/) <br />@JR赤羽駅東口||[4](https://www.google.com/search?q=site%3Awww.hanekoi.relaxjp.info/+D)||
+|[KEYメンズエステ](http://ace-esthe.com/) <br />@JR赤羽駅東口|[18](https://www.google.com/search?q=site%3Aace-esthe.com/+C)|||
 
 
 
@@ -81,6 +83,8 @@ description: "キーワード別チャイエス嬢情報"
 |[Cocosia ～ココシア～](http://www.cocosia.work/) <br />@JR赤羽駅西口||||[2](https://www.google.com/search?q=site%3Awww.cocosia.work/+85)|[8](https://www.google.com/search?q=site%3Awww.cocosia.work/+86)|[6](https://www.google.com/search?q=site%3Awww.cocosia.work/+87)|||||
 |[Aroma Dream ～アロマドリーム～](https://dream.ests.jp/) <br />@JR赤羽駅東口||[2](https://www.google.com/search?q=site%3Adream.ests.jp/+83)||[4](https://www.google.com/search?q=site%3Adream.ests.jp/+85)|[4](https://www.google.com/search?q=site%3Adream.ests.jp/+86)|[2](https://www.google.com/search?q=site%3Adream.ests.jp/+87)|||||
 |[Love Sea](https://higashijujo-mensesthe.com/) <br />@JR東十条駅北口|||||||||||
+|[羽の恋](http://www.hanekoi.relaxjp.info/) <br />@JR赤羽駅東口||||||[4](https://www.google.com/search?q=site%3Awww.hanekoi.relaxjp.info/+87)|||||
+|[KEYメンズエステ](http://ace-esthe.com/) <br />@JR赤羽駅東口|||||||||||
 
 
 
@@ -115,4 +119,6 @@ description: "キーワード別チャイエス嬢情報"
 |[Cocosia ～ココシア～](http://www.cocosia.work/) <br />@JR赤羽駅西口||
 |[Aroma Dream ～アロマドリーム～](https://dream.ests.jp/) <br />@JR赤羽駅東口||
 |[Love Sea](https://higashijujo-mensesthe.com/) <br />@JR東十条駅北口||
+|[羽の恋](http://www.hanekoi.relaxjp.info/) <br />@JR赤羽駅東口||
+|[KEYメンズエステ](http://ace-esthe.com/) <br />@JR赤羽駅東口||
 
