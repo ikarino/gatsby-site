@@ -1,5 +1,5 @@
 ---
-date: 2020-11-12
+date: 2020-11-14
 title: "上野・御徒町"
 cover: "https://unsplash.it/1152/300/?random?BirchintheRoses"
 categories:
@@ -39,7 +39,7 @@ description: "キーワード別チャイエス嬢情報"
 |[月夜](http://www.rosa-es.info/) <br />@JR上野駅浅草口||||||
 |[憩](http://ikoi.ies.fun/) <br />@JR御徒町駅南口||||||
 |[喜手-きしゅ-](http://okachi-mg.com/) <br />@JR御徒町駅南口||||||
-|[マカロン](http://www.macaron.esjoho.com/) <br />@JR御徒町駅北口|[61](https://www.google.com/search?q=site%3Awww.macaron.esjoho.com/+C)|[24](https://www.google.com/search?q=site%3Awww.macaron.esjoho.com/+D)|[21](https://www.google.com/search?q=site%3Awww.macaron.esjoho.com/+E)|[9](https://www.google.com/search?q=site%3Awww.macaron.esjoho.com/+F)|[3](https://www.google.com/search?q=site%3Awww.macaron.esjoho.com/+G)|
+|[マカロン](http://www.macaron.esjoho.com/) <br />@JR御徒町駅北口|[65](https://www.google.com/search?q=site%3Awww.macaron.esjoho.com/+C)|[24](https://www.google.com/search?q=site%3Awww.macaron.esjoho.com/+D)|[21](https://www.google.com/search?q=site%3Awww.macaron.esjoho.com/+E)|[9](https://www.google.com/search?q=site%3Awww.macaron.esjoho.com/+F)|[3](https://www.google.com/search?q=site%3Awww.macaron.esjoho.com/+G)|
 |[CoCo-Arashi](http://cc-tokyo.xyz/) <br />@上野駅広小路口||||||
 |[COCO-GARDEN](http://www.cocogarden.link/) <br />@JR御徒町駅北口||[12](https://www.google.com/search?q=site%3Awww.cocogarden.link/+D)|[2](https://www.google.com/search?q=site%3Awww.cocogarden.link/+E)|[2](https://www.google.com/search?q=site%3Awww.cocogarden.link/+F)|[4](https://www.google.com/search?q=site%3Awww.cocogarden.link/+G)|
 |[ZOEY ゾーイ](http://zoey.mssg.jp) <br />@JR御徒町駅南口||||||
@@ -63,8 +63,9 @@ description: "キーワード別チャイエス嬢情報"
 |[エントリー](http://es-hana.link/) <br />@JR御徒町駅南口||||||
 |[吉祥](http://kisyou.esjp.xyz/) <br />@浅草駅||||||
 |[FIRST LOVE](http://www.firstlove-relax.work) <br />@JR御徒町駅南口|[13](https://www.google.com/search?q=site%3Awww.firstlove-relax.work+C)|[9](https://www.google.com/search?q=site%3Awww.firstlove-relax.work+D)|[1](https://www.google.com/search?q=site%3Awww.firstlove-relax.work+E)|||
-|[FLORA ～フローラ～](http://flora.msa.jp/) <br />@上野駅4番出口||||||
+|[ANGEL BABY ～エンジェルベビー～](http://angelbaby.msa.jp/) <br />@上野駅4番出口||||||
 |[COCOMERO](https://momoka.tyo.cm/) <br />@JR御徒町駅北口|[12](https://www.google.com/search?q=site%3Amomoka.tyo.cm/+C)|[3](https://www.google.com/search?q=site%3Amomoka.tyo.cm/+D)|[1](https://www.google.com/search?q=site%3Amomoka.tyo.cm/+E)|||
+|[台湾リゾート](http://taiwan-resort.com/) <br />@JR御徒町駅南口||||||
 
 
 
@@ -91,7 +92,7 @@ description: "キーワード別チャイエス嬢情報"
 |[月夜](http://www.rosa-es.info/) <br />@JR上野駅浅草口||||||||||||
 |[憩](http://ikoi.ies.fun/) <br />@JR御徒町駅南口||||||||||||
 |[喜手-きしゅ-](http://okachi-mg.com/) <br />@JR御徒町駅南口|||||[6](https://www.google.com/search?q=site%3Aokachi-mg.com/+85)|[2](https://www.google.com/search?q=site%3Aokachi-mg.com/+86)||||[6](https://www.google.com/search?q=site%3Aokachi-mg.com/+90)||
-|[マカロン](http://www.macaron.esjoho.com/) <br />@JR御徒町駅北口|[27](https://www.google.com/search?q=site%3Awww.macaron.esjoho.com/+80)|||[9](https://www.google.com/search?q=site%3Awww.macaron.esjoho.com/+84)||[9](https://www.google.com/search?q=site%3Awww.macaron.esjoho.com/+86)|[12](https://www.google.com/search?q=site%3Awww.macaron.esjoho.com/+87)|[24](https://www.google.com/search?q=site%3Awww.macaron.esjoho.com/+88)||||
+|[マカロン](http://www.macaron.esjoho.com/) <br />@JR御徒町駅北口|[27](https://www.google.com/search?q=site%3Awww.macaron.esjoho.com/+80)|||[9](https://www.google.com/search?q=site%3Awww.macaron.esjoho.com/+84)||[9](https://www.google.com/search?q=site%3Awww.macaron.esjoho.com/+86)|[12](https://www.google.com/search?q=site%3Awww.macaron.esjoho.com/+87)|[27](https://www.google.com/search?q=site%3Awww.macaron.esjoho.com/+88)||||
 |[CoCo-Arashi](http://cc-tokyo.xyz/) <br />@上野駅広小路口|||[3](https://www.google.com/search?q=site%3Acc-tokyo.xyz/+83)|[3](https://www.google.com/search?q=site%3Acc-tokyo.xyz/+84)|[23](https://www.google.com/search?q=site%3Acc-tokyo.xyz/+85)|[13](https://www.google.com/search?q=site%3Acc-tokyo.xyz/+86)|[6](https://www.google.com/search?q=site%3Acc-tokyo.xyz/+87)|||||
 |[COCO-GARDEN](http://www.cocogarden.link/) <br />@JR御徒町駅北口||||||[2](https://www.google.com/search?q=site%3Awww.cocogarden.link/+86)|[10](https://www.google.com/search?q=site%3Awww.cocogarden.link/+87)|[8](https://www.google.com/search?q=site%3Awww.cocogarden.link/+88)||||
 |[ZOEY ゾーイ](http://zoey.mssg.jp) <br />@JR御徒町駅南口||||||||||||
@@ -115,8 +116,9 @@ description: "キーワード別チャイエス嬢情報"
 |[エントリー](http://es-hana.link/) <br />@JR御徒町駅南口||||||||||||
 |[吉祥](http://kisyou.esjp.xyz/) <br />@浅草駅||||||||||||
 |[FIRST LOVE](http://www.firstlove-relax.work) <br />@JR御徒町駅南口|||||[4](https://www.google.com/search?q=site%3Awww.firstlove-relax.work+85)|[5](https://www.google.com/search?q=site%3Awww.firstlove-relax.work+86)|[1](https://www.google.com/search?q=site%3Awww.firstlove-relax.work+87)|||||
-|[FLORA ～フローラ～](http://flora.msa.jp/) <br />@上野駅4番出口||||||||||||
+|[ANGEL BABY ～エンジェルベビー～](http://angelbaby.msa.jp/) <br />@上野駅4番出口||||||||||||
 |[COCOMERO](https://momoka.tyo.cm/) <br />@JR御徒町駅北口|||||[2](https://www.google.com/search?q=site%3Amomoka.tyo.cm/+85)|[1](https://www.google.com/search?q=site%3Amomoka.tyo.cm/+86)|[1](https://www.google.com/search?q=site%3Amomoka.tyo.cm/+87)|||||
+|[台湾リゾート](http://taiwan-resort.com/) <br />@JR御徒町駅南口||||||||||||
 
 
 
@@ -127,7 +129,7 @@ description: "キーワード別チャイエス嬢情報"
 
 |店名|セクシー|乳|巨乳|
 |:--|:---:|:---:|:---:|
-|[藍～アイ～](http://www.a-side.com/o-ai/) <br />@JR御徒町駅南口||[1](https://www.google.com/search?q=site%3Awww.a-side.com/o-ai/+乳)|[1](https://www.google.com/search?q=site%3Awww.a-side.com/o-ai/+巨乳)|
+|[藍～アイ～](http://www.a-side.com/o-ai/) <br />@JR御徒町駅南口||[2](https://www.google.com/search?q=site%3Awww.a-side.com/o-ai/+乳)|[2](https://www.google.com/search?q=site%3Awww.a-side.com/o-ai/+巨乳)|
 |[癒し屋](https://u-este.com/) <br />@JR御徒町駅北口|[2](https://www.google.com/search?q=site%3Au-este.com/+セクシー)|||
 |[You and I*ユー＆アイ](http://for-you-ueno.com/) <br />@JR上野駅浅草口||||
 |[マーキュリーMERCURY](http://foryou-es.info/) <br />@JR御徒町駅南口||||
@@ -167,6 +169,7 @@ description: "キーワード別チャイエス嬢情報"
 |[エントリー](http://es-hana.link/) <br />@JR御徒町駅南口||||
 |[吉祥](http://kisyou.esjp.xyz/) <br />@浅草駅||||
 |[FIRST LOVE](http://www.firstlove-relax.work) <br />@JR御徒町駅南口||||
-|[FLORA ～フローラ～](http://flora.msa.jp/) <br />@上野駅4番出口||||
+|[ANGEL BABY ～エンジェルベビー～](http://angelbaby.msa.jp/) <br />@上野駅4番出口||||
 |[COCOMERO](https://momoka.tyo.cm/) <br />@JR御徒町駅北口||||
+|[台湾リゾート](http://taiwan-resort.com/) <br />@JR御徒町駅南口||||
 
