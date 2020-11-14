@@ -1,5 +1,5 @@
 ---
-date: 2020-11-12
+date: 2020-11-14
 title: "自由が丘・三軒茶屋・溝の口・武蔵小杉"
 cover: "https://unsplash.it/1152/300/?random?BirchintheRoses"
 categories:
@@ -40,7 +40,7 @@ description: "キーワード別チャイエス嬢情報"
 |[Clair ～クレール～](http://clair.work/) <br />@学芸大学駅西口|[4](https://www.google.com/search?q=site%3Aclair.work/+C)|[4](https://www.google.com/search?q=site%3Aclair.work/+D)|[2](https://www.google.com/search?q=site%3Aclair.work/+E)||
 |[桜](http://www.sakura.esraku.com/) <br />@都立大学駅|[20](https://www.google.com/search?q=site%3Awww.sakura.esraku.com/+C)|[12](https://www.google.com/search?q=site%3Awww.sakura.esraku.com/+D)|||
 |[二子玉川學園](http://elletyu.xyz/) <br />@二子玉川駅西口|||||
-|[For You](https://fy.uouono.com) <br />@二子玉川駅||[18](https://www.google.com/search?q=site%3Afy.uouono.com+D)|[9](https://www.google.com/search?q=site%3Afy.uouono.com+E)||
+|[For You](https://fy.uouono.com) <br />@二子玉川駅||[16](https://www.google.com/search?q=site%3Afy.uouono.com+D)|[14](https://www.google.com/search?q=site%3Afy.uouono.com+E)||
 |[悠](http://in-esthe.com/you/) <br />@学芸大学駅東口|||||
 |[ねこちゃん](http://www.nekochan.relaxjp.info/) <br />@自由が丘駅正面口|||||
 
