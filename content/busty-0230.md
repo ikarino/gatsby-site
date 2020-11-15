@@ -1,5 +1,5 @@
 ---
-date: 2020-11-14
+date: 2020-11-15
 title: "金町・亀有・北千住・竹ノ塚"
 cover: "https://unsplash.it/1152/300/?random?BirchintheRoses"
 categories:
