@@ -1,5 +1,5 @@
 ---
-date: 2020-11-15
+date: 2020-11-16
 title: "練馬・下赤塚"
 cover: "https://unsplash.it/1152/300/?random?BirchintheRoses"
 categories:
@@ -32,7 +32,7 @@ description: "キーワード別チャイエス嬢情報"
 |[月の恋](http://moonlove.est-u.com/) <br />@練馬駅北口|[7](https://www.google.com/search?q=site%3Amoonlove.est-u.com/+C)|||||
 |[緑](http://midori-relax.site/) <br />@要町駅5番出口|[16](https://www.google.com/search?q=site%3Amidori-relax.site/+C)|[2](https://www.google.com/search?q=site%3Amidori-relax.site/+D)|[5](https://www.google.com/search?q=site%3Amidori-relax.site/+E)|[2](https://www.google.com/search?q=site%3Amidori-relax.site/+F)||
 |[長久*ちょうきゅう](http://c-sakura.work/) <br />@下赤塚駅北口||||||
-|[AROMA PLAZA アロマプラザ](http://aroma-p.info/) <br />@石神井公園駅南口|[6](https://www.google.com/search?q=site%3Aaroma-p.info/+C)|[10](https://www.google.com/search?q=site%3Aaroma-p.info/+D)|[6](https://www.google.com/search?q=site%3Aaroma-p.info/+E)|||
+|[AROMA PLAZA アロマプラザ](http://aroma-p.info/) <br />@石神井公園駅南口|[5](https://www.google.com/search?q=site%3Aaroma-p.info/+C)|[10](https://www.google.com/search?q=site%3Aaroma-p.info/+D)|[6](https://www.google.com/search?q=site%3Aaroma-p.info/+E)|||
 |[ポンフー](http://ponfu-massage.work/) <br />@練馬駅西口|[22](https://www.google.com/search?q=site%3Aponfu-massage.work/+C)|[11](https://www.google.com/search?q=site%3Aponfu-massage.work/+D)||[1](https://www.google.com/search?q=site%3Aponfu-massage.work/+F)||
 |[紅月](http://www.es-kou.link/) <br />@下赤塚駅北口||||||
 |[憩](http://c-ikoi.work/) <br />@大山駅南口||||||
@@ -143,6 +143,6 @@ description: "キーワード別チャイエス嬢情報"
 |[デリカ](http://koikst.xyz/) <br />@上板橋駅||
 |[夜のガーデン](http://koukoku.xyz/garden/) <br />@練馬駅||
 |[アロマプライド](https://aromapride.net/) <br />@練馬駅北口||
-|[バビ](http://giuytor.xyz/) <br />@練馬駅A1出口|[8](https://www.google.com/search?q=site%3Agiuytor.xyz/+乳)|
+|[バビ](http://giuytor.xyz/) <br />@練馬駅A1出口|[7](https://www.google.com/search?q=site%3Agiuytor.xyz/+乳)|
 |[癒しの部屋](http://www.seoul.esjp.info/) <br />@練馬駅西口||
 

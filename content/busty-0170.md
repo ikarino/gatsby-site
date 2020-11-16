@@ -1,5 +1,5 @@
 ---
-date: 2020-11-15
+date: 2020-11-16
 title: "錦糸町・亀戸・新小岩"
 cover: "https://unsplash.it/1152/300/?random?BirchintheRoses"
 categories:
