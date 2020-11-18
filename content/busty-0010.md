@@ -1,5 +1,5 @@
 ---
-date: 2020-11-17
+date: 2020-11-18
 title: "新宿・歌舞伎町"
 cover: "https://unsplash.it/1152/300/?random?BirchintheRoses"
 categories:
@@ -30,7 +30,7 @@ description: "キーワード別チャイエス嬢情報"
 |[RELAIR ～リレア～](http://in-esthe.com/relair/) <br />@新宿西口駅D5出口|[8](https://www.google.com/search?q=site%3Ain-esthe.com/relair/+C)|||||
 |[ピュアリゾートII](http://pure-resort.tyo.cm/) <br />@JR新宿駅東口|[1](https://www.google.com/search?q=site%3Apure-resort.tyo.cm/+C)|[10](https://www.google.com/search?q=site%3Apure-resort.tyo.cm/+D)|[2](https://www.google.com/search?q=site%3Apure-resort.tyo.cm/+E)|[1](https://www.google.com/search?q=site%3Apure-resort.tyo.cm/+F)||
 |[美姫～ビキ～](http://xn--vckg5a9gug.biz/) <br />@JR新宿駅東口||||||
-|[夕霧 ゆうぎり](https://shinjuku-mensesthe.com/) <br />@JR新宿駅東口||||[3](https://www.google.com/search?q=site%3Ashinjuku-mensesthe.com/+F)||
+|[夕霧 ゆうぎり](https://shinjuku-mensesthe.com/) <br />@JR新宿駅東口||||[4](https://www.google.com/search?q=site%3Ashinjuku-mensesthe.com/+F)||
 |[新宿極上メンズエステ](https://gokujo.iest.info/) <br />@JR新宿駅|[56](https://www.google.com/search?q=site%3Agokujo.iest.info/+C)||[152](https://www.google.com/search?q=site%3Agokujo.iest.info/+E)|[104](https://www.google.com/search?q=site%3Agokujo.iest.info/+F)||
 |[CHARME ～シャルム～](http://charme.xyz.mn/) <br />@JR新宿駅|[52](https://www.google.com/search?q=site%3Acharme.xyz.mn/+C)|[118](https://www.google.com/search?q=site%3Acharme.xyz.mn/+D)|[30](https://www.google.com/search?q=site%3Acharme.xyz.mn/+E)|||
 |[楽楽-ラクラク-](http://sakura-relax.net/) <br />@新宿三丁目駅E1出口|[8](https://www.google.com/search?q=site%3Asakura-relax.net/+C)||[8](https://www.google.com/search?q=site%3Asakura-relax.net/+E)|||
