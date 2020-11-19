@@ -1,5 +1,5 @@
 ---
-date: 2020-11-18
+date: 2020-11-19
 title: "横浜・桜木町・関内・新横浜"
 cover: "https://unsplash.it/1152/300/?random?BirchintheRoses"
 categories:
@@ -25,7 +25,7 @@ description: "キーワード別チャイエス嬢情報"
 |:--|:---:|:---:|:---:|:---:|
 |[憩](http://ikoi2009.com/) <br />@JR東神奈川駅|[7](https://www.google.com/search?q=site%3Aikoi2009.com/+C)||||
 |[優雅～ゆうが～](http://yuga.estx.net/) <br />@JR中山駅|||||
-|[SRP](http://www.shine-es.info/) <br />@JR新横浜駅北口|[56](https://www.google.com/search?q=site%3Awww.shine-es.info/+C)|[39](https://www.google.com/search?q=site%3Awww.shine-es.info/+D)|[5](https://www.google.com/search?q=site%3Awww.shine-es.info/+E)||
+|[SRP](http://www.shine-es.info/) <br />@JR新横浜駅北口|[62](https://www.google.com/search?q=site%3Awww.shine-es.info/+C)|[36](https://www.google.com/search?q=site%3Awww.shine-es.info/+D)|[7](https://www.google.com/search?q=site%3Awww.shine-es.info/+E)||
 |[Rose Color～ローズカラー～](http://www.rose-color.info/) <br />@JR新横浜駅北口|[74](https://www.google.com/search?q=site%3Awww.rose-color.info/+C)|[24](https://www.google.com/search?q=site%3Awww.rose-color.info/+D)|[8](https://www.google.com/search?q=site%3Awww.rose-color.info/+E)|[4](https://www.google.com/search?q=site%3Awww.rose-color.info/+F)|
 |[花水木](http://est-hanamizuki.com/) <br />@JR東神奈川駅西口|||||
 |[Venus](http://es-kannai.link) <br />@JR関内駅南口|||||
@@ -71,9 +71,9 @@ description: "キーワード別チャイエス嬢情報"
 |[マイマリヤ](http://r-relax.info/) <br />@JR新横浜駅|||||
 |[Dear](https://dear.xyz.mn/) <br />@JR関内駅北口|[33](https://www.google.com/search?q=site%3Adear.xyz.mn/+C)|[30](https://www.google.com/search?q=site%3Adear.xyz.mn/+D)|[6](https://www.google.com/search?q=site%3Adear.xyz.mn/+E)||
 |[癒しの手](https://iyashinote.xyz.mn/) <br />@JR横浜駅西口||[28](https://www.google.com/search?q=site%3Aiyashinote.xyz.mn/+D)|[14](https://www.google.com/search?q=site%3Aiyashinote.xyz.mn/+E)||
-|[Lolita～ロリータ～](http://www.lolita.mesjp.com/) <br />@JR横浜駅北西口|[6](https://www.google.com/search?q=site%3Awww.lolita.mesjp.com/+C)|[48](https://www.google.com/search?q=site%3Awww.lolita.mesjp.com/+D)|||
+|[Lolita～ロリータ～](http://www.lolita.mesjp.com/) <br />@JR横浜駅北西口|[6](https://www.google.com/search?q=site%3Awww.lolita.mesjp.com/+C)|[60](https://www.google.com/search?q=site%3Awww.lolita.mesjp.com/+D)|||
 |[スパ](http://www.ipuyvyta.xyz/) <br />@JR東神奈川駅西口|[6](https://www.google.com/search?q=site%3Awww.ipuyvyta.xyz/+C)|[2](https://www.google.com/search?q=site%3Awww.ipuyvyta.xyz/+D)|||
-|[可愛い猫](https://neko.iest.info/) <br />@JR横浜駅西口|[7](https://www.google.com/search?q=site%3Aneko.iest.info/+C)|[35](https://www.google.com/search?q=site%3Aneko.iest.info/+D)|||
+|[可愛い猫](https://neko.iest.info/) <br />@JR横浜駅西口|[8](https://www.google.com/search?q=site%3Aneko.iest.info/+C)|[40](https://www.google.com/search?q=site%3Aneko.iest.info/+D)|[8](https://www.google.com/search?q=site%3Aneko.iest.info/+E)||
 |[元気もりもり](http://gkmorimori.jpest.net/) <br />@JR関内駅南口|||[35](https://www.google.com/search?q=site%3Agkmorimori.jpest.net/+E)||
 |[37.5℃](http://sliotry.xyz/) <br />@吉野町駅|||||
 |[美少女](http://www.bishoujo.aromanv.com/) <br />@JR東神奈川駅西口|[24](https://www.google.com/search?q=site%3Awww.bishoujo.aromanv.com/+C)|[40](https://www.google.com/search?q=site%3Awww.bishoujo.aromanv.com/+D)|||
@@ -86,6 +86,7 @@ description: "キーワード別チャイエス嬢情報"
 |[アンジュ](http://relax-massage.pink/) <br />@JR東神奈川駅西口|||||
 |[Barbie ～バービー～](http://www.barbie.esjp.info/) <br />@JR新横浜駅北口|[12](https://www.google.com/search?q=site%3Awww.barbie.esjp.info/+C)|[6](https://www.google.com/search?q=site%3Awww.barbie.esjp.info/+D)|[2](https://www.google.com/search?q=site%3Awww.barbie.esjp.info/+E)||
 |[看護美人](http://www.kangobijin.esjp.site/) <br />@JR新横浜駅北口||[4](https://www.google.com/search?q=site%3Awww.kangobijin.esjp.site/+D)|||
+|[Love You](http://www.love-you.work/) <br />@JR関内駅北口|||||
 
 
 
@@ -98,7 +99,7 @@ description: "キーワード別チャイエス嬢情報"
 |:--|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |[憩](http://ikoi2009.com/) <br />@JR東神奈川駅|||||||||||||||||
 |[優雅～ゆうが～](http://yuga.estx.net/) <br />@JR中山駅|||||||||||||||||
-|[SRP](http://www.shine-es.info/) <br />@JR新横浜駅北口|||[10](https://www.google.com/search?q=site%3Awww.shine-es.info/+83)|[14](https://www.google.com/search?q=site%3Awww.shine-es.info/+84)|[39](https://www.google.com/search?q=site%3Awww.shine-es.info/+85)|[26](https://www.google.com/search?q=site%3Awww.shine-es.info/+86)|[12](https://www.google.com/search?q=site%3Awww.shine-es.info/+87)|[5](https://www.google.com/search?q=site%3Awww.shine-es.info/+88)|||||||||
+|[SRP](http://www.shine-es.info/) <br />@JR新横浜駅北口|||[11](https://www.google.com/search?q=site%3Awww.shine-es.info/+83)|[15](https://www.google.com/search?q=site%3Awww.shine-es.info/+84)|[36](https://www.google.com/search?q=site%3Awww.shine-es.info/+85)|[30](https://www.google.com/search?q=site%3Awww.shine-es.info/+86)|[12](https://www.google.com/search?q=site%3Awww.shine-es.info/+87)|[7](https://www.google.com/search?q=site%3Awww.shine-es.info/+88)|||||||||
 |[Rose Color～ローズカラー～](http://www.rose-color.info/) <br />@JR新横浜駅北口|||||[16](https://www.google.com/search?q=site%3Awww.rose-color.info/+85)|[42](https://www.google.com/search?q=site%3Awww.rose-color.info/+86)|[44](https://www.google.com/search?q=site%3Awww.rose-color.info/+87)|[4](https://www.google.com/search?q=site%3Awww.rose-color.info/+88)|[4](https://www.google.com/search?q=site%3Awww.rose-color.info/+89)||||||||
 |[花水木](http://est-hanamizuki.com/) <br />@JR東神奈川駅西口|||||||||||||||||
 |[Venus](http://es-kannai.link) <br />@JR関内駅南口|||||||||||||||||
@@ -144,9 +145,9 @@ description: "キーワード別チャイエス嬢情報"
 |[マイマリヤ](http://r-relax.info/) <br />@JR新横浜駅|||||||||||||||||
 |[Dear](https://dear.xyz.mn/) <br />@JR関内駅北口|||||[6](https://www.google.com/search?q=site%3Adear.xyz.mn/+85)|[42](https://www.google.com/search?q=site%3Adear.xyz.mn/+86)|[6](https://www.google.com/search?q=site%3Adear.xyz.mn/+87)||||||||||
 |[癒しの手](https://iyashinote.xyz.mn/) <br />@JR横浜駅西口||||[14](https://www.google.com/search?q=site%3Aiyashinote.xyz.mn/+84)||[7](https://www.google.com/search?q=site%3Aiyashinote.xyz.mn/+86)|[14](https://www.google.com/search?q=site%3Aiyashinote.xyz.mn/+87)|[7](https://www.google.com/search?q=site%3Aiyashinote.xyz.mn/+88)|||||||||
-|[Lolita～ロリータ～](http://www.lolita.mesjp.com/) <br />@JR横浜駅北西口||||||[6](https://www.google.com/search?q=site%3Awww.lolita.mesjp.com/+86)|[48](https://www.google.com/search?q=site%3Awww.lolita.mesjp.com/+87)||||||||||
+|[Lolita～ロリータ～](http://www.lolita.mesjp.com/) <br />@JR横浜駅北西口||||||[6](https://www.google.com/search?q=site%3Awww.lolita.mesjp.com/+86)|[60](https://www.google.com/search?q=site%3Awww.lolita.mesjp.com/+87)||||||||||
 |[スパ](http://www.ipuyvyta.xyz/) <br />@JR東神奈川駅西口||[6](https://www.google.com/search?q=site%3Awww.ipuyvyta.xyz/+82)|||[1](https://www.google.com/search?q=site%3Awww.ipuyvyta.xyz/+85)|[1](https://www.google.com/search?q=site%3Awww.ipuyvyta.xyz/+86)|||||||||||
-|[可愛い猫](https://neko.iest.info/) <br />@JR横浜駅西口||||[7](https://www.google.com/search?q=site%3Aneko.iest.info/+84)|[35](https://www.google.com/search?q=site%3Aneko.iest.info/+85)||||||||||||
+|[可愛い猫](https://neko.iest.info/) <br />@JR横浜駅西口||||[8](https://www.google.com/search?q=site%3Aneko.iest.info/+84)|[40](https://www.google.com/search?q=site%3Aneko.iest.info/+85)||[8](https://www.google.com/search?q=site%3Aneko.iest.info/+87)||||||||||
 |[元気もりもり](http://gkmorimori.jpest.net/) <br />@JR関内駅南口|||||||||||||||||
 |[37.5℃](http://sliotry.xyz/) <br />@吉野町駅|||||||||||||||||
 |[美少女](http://www.bishoujo.aromanv.com/) <br />@JR東神奈川駅西口|||||[16](https://www.google.com/search?q=site%3Awww.bishoujo.aromanv.com/+85)||[40](https://www.google.com/search?q=site%3Awww.bishoujo.aromanv.com/+87)|[8](https://www.google.com/search?q=site%3Awww.bishoujo.aromanv.com/+88)|||||||||
@@ -159,6 +160,7 @@ description: "キーワード別チャイエス嬢情報"
 |[アンジュ](http://relax-massage.pink/) <br />@JR東神奈川駅西口|||||||||||||||||
 |[Barbie ～バービー～](http://www.barbie.esjp.info/) <br />@JR新横浜駅北口||||||[4](https://www.google.com/search?q=site%3Awww.barbie.esjp.info/+86)|[2](https://www.google.com/search?q=site%3Awww.barbie.esjp.info/+87)||[2](https://www.google.com/search?q=site%3Awww.barbie.esjp.info/+89)||||||||
 |[看護美人](http://www.kangobijin.esjp.site/) <br />@JR新横浜駅北口|||||||[4](https://www.google.com/search?q=site%3Awww.kangobijin.esjp.site/+87)||||||||||
+|[Love You](http://www.love-you.work/) <br />@JR関内駅北口|||||||||||||||||
 
 
 
@@ -232,4 +234,5 @@ description: "キーワード別チャイエス嬢情報"
 |[アンジュ](http://relax-massage.pink/) <br />@JR東神奈川駅西口||||
 |[Barbie ～バービー～](http://www.barbie.esjp.info/) <br />@JR新横浜駅北口||||
 |[看護美人](http://www.kangobijin.esjp.site/) <br />@JR新横浜駅北口||||
+|[Love You](http://www.love-you.work/) <br />@JR関内駅北口||||
 
