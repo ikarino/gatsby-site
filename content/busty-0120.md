@@ -1,5 +1,5 @@
 ---
-date: 2020-11-20
+date: 2020-11-21
 title: "品川・五反田"
 cover: "https://unsplash.it/1152/300/?random?BirchintheRoses"
 categories:
@@ -23,7 +23,7 @@ description: "キーワード別チャイエス嬢情報"
 
 |店名|C|D|E|F|G|
 |:--|:---:|:---:|:---:|:---:|:---:|
-|[長楽](http://www.a-side.com/chouraku/) <br />@JR五反田駅西口|[1](https://www.google.com/search?q=site%3Awww.a-side.com/chouraku/+C)|||||
+|[長楽](https://www.a-side.com/chouraku/) <br />@JR五反田駅西口|[1](https://www.google.com/search?q=site%3Awww.a-side.com/chouraku/+C)|||||
 |[月の和](https://tsukiwa.info/) <br />@JR五反田駅西口||||||
 |[紫の蝶](http://p-fly.work/) <br />@JR五反田駅西口||||||
 |[芙蓉～フヨウ～](http://www.relax-fuyou.info/) <br />@JR五反田駅東口|[3](https://www.google.com/search?q=site%3Awww.relax-fuyou.info/+C)|[5](https://www.google.com/search?q=site%3Awww.relax-fuyou.info/+D)|[5](https://www.google.com/search?q=site%3Awww.relax-fuyou.info/+E)||[1](https://www.google.com/search?q=site%3Awww.relax-fuyou.info/+G)|
@@ -48,7 +48,7 @@ description: "キーワード別チャイエス嬢情報"
 
 |店名|82|83|84|85|86|87|88|90|
 |:--|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|[長楽](http://www.a-side.com/chouraku/) <br />@JR五反田駅西口|||||||||
+|[長楽](https://www.a-side.com/chouraku/) <br />@JR五反田駅西口|||||||||
 |[月の和](https://tsukiwa.info/) <br />@JR五反田駅西口|||||||||
 |[紫の蝶](http://p-fly.work/) <br />@JR五反田駅西口|||||||||
 |[芙蓉～フヨウ～](http://www.relax-fuyou.info/) <br />@JR五反田駅東口|||[5](https://www.google.com/search?q=site%3Awww.relax-fuyou.info/+84)||[2](https://www.google.com/search?q=site%3Awww.relax-fuyou.info/+86)|[2](https://www.google.com/search?q=site%3Awww.relax-fuyou.info/+87)|[3](https://www.google.com/search?q=site%3Awww.relax-fuyou.info/+88)|[2](https://www.google.com/search?q=site%3Awww.relax-fuyou.info/+90)|
@@ -73,7 +73,7 @@ description: "キーワード別チャイエス嬢情報"
 
 |店名|セクシー|乳|巨乳|
 |:--|:---:|:---:|:---:|
-|[長楽](http://www.a-side.com/chouraku/) <br />@JR五反田駅西口||[2](https://www.google.com/search?q=site%3Awww.a-side.com/chouraku/+乳)|[2](https://www.google.com/search?q=site%3Awww.a-side.com/chouraku/+巨乳)|
+|[長楽](https://www.a-side.com/chouraku/) <br />@JR五反田駅西口||[1](https://www.google.com/search?q=site%3Awww.a-side.com/chouraku/+乳)|[1](https://www.google.com/search?q=site%3Awww.a-side.com/chouraku/+巨乳)|
 |[月の和](https://tsukiwa.info/) <br />@JR五反田駅西口|[20](https://www.google.com/search?q=site%3Atsukiwa.info/+セクシー)|||
 |[紫の蝶](http://p-fly.work/) <br />@JR五反田駅西口||||
 |[芙蓉～フヨウ～](http://www.relax-fuyou.info/) <br />@JR五反田駅東口||||
