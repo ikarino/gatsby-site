@@ -1,5 +1,5 @@
 ---
-date: 2020-11-20
+date: 2020-11-21
 title: "門前仲町・東陽町・葛西・南行徳"
 cover: "https://unsplash.it/1152/300/?random?BirchintheRoses"
 categories:
@@ -49,7 +49,7 @@ description: "キーワード別チャイエス嬢情報"
 |[Luna](http://k-rlx.com/) <br />@葛西駅博物館口|[33](https://www.google.com/search?q=site%3Ak-rlx.com/+C)|[16](https://www.google.com/search?q=site%3Ak-rlx.com/+D)|||||
 |[レモン](http://lemon-relax.work/) <br />@西葛西駅南口|[15](https://www.google.com/search?q=site%3Alemon-relax.work/+C)|[12](https://www.google.com/search?q=site%3Alemon-relax.work/+D)|[8](https://www.google.com/search?q=site%3Alemon-relax.work/+E)|[3](https://www.google.com/search?q=site%3Alemon-relax.work/+F)|[2](https://www.google.com/search?q=site%3Alemon-relax.work/+G)|[1](https://www.google.com/search?q=site%3Alemon-relax.work/+J)|
 |[薫り](http://flower-esthe.tokyo/) <br />@行徳駅南口|[1](https://www.google.com/search?q=site%3Aflower-esthe.tokyo/+C)|[10](https://www.google.com/search?q=site%3Aflower-esthe.tokyo/+D)|[1](https://www.google.com/search?q=site%3Aflower-esthe.tokyo/+E)||||
-|[行徳学園](http://gakuen.xyz.mn/) <br />@行徳駅南口||[2](https://www.google.com/search?q=site%3Agakuen.xyz.mn/+D)|[8](https://www.google.com/search?q=site%3Agakuen.xyz.mn/+E)|[4](https://www.google.com/search?q=site%3Agakuen.xyz.mn/+F)|[2](https://www.google.com/search?q=site%3Agakuen.xyz.mn/+G)||
+|[行徳学園](http://gakuen.xyz.mn/) <br />@行徳駅南口||[2](https://www.google.com/search?q=site%3Agakuen.xyz.mn/+D)|[10](https://www.google.com/search?q=site%3Agakuen.xyz.mn/+E)|[2](https://www.google.com/search?q=site%3Agakuen.xyz.mn/+F)|[2](https://www.google.com/search?q=site%3Agakuen.xyz.mn/+G)||
 |[スイートハート](http://k-este.info/) <br />@西葛西駅北口|[12](https://www.google.com/search?q=site%3Ak-este.info/+C)|[45](https://www.google.com/search?q=site%3Ak-este.info/+D)|[20](https://www.google.com/search?q=site%3Ak-este.info/+E)|[4](https://www.google.com/search?q=site%3Ak-este.info/+F)|[2](https://www.google.com/search?q=site%3Ak-este.info/+G)||
 |[Angel Islands](http://blue-est.xyz/) <br />@行徳駅|[7](https://www.google.com/search?q=site%3Ablue-est.xyz/+C)||[1](https://www.google.com/search?q=site%3Ablue-est.xyz/+E)||||
 |[momiyoshi](http://www.momiyoshi.mesthe.com/) <br />@門前仲町駅6番出口|[12](https://www.google.com/search?q=site%3Awww.momiyoshi.mesthe.com/+C)|[24](https://www.google.com/search?q=site%3Awww.momiyoshi.mesthe.com/+D)|||||
@@ -184,7 +184,7 @@ description: "キーワード別チャイエス嬢情報"
 |[ワンダーランド](http://relax-shanshan.com/) <br />@西葛西駅北口|[1](https://www.google.com/search?q=site%3Arelax-shanshan.com/+セクシー)|[1](https://www.google.com/search?q=site%3Arelax-shanshan.com/+乳)|[1](https://www.google.com/search?q=site%3Arelax-shanshan.com/+巨乳)||
 |[Honey Spa ～ハニースパ～](http://sh-honeyspa.work/) <br />@行徳駅||[1](https://www.google.com/search?q=site%3Ash-honeyspa.work/+乳)|[1](https://www.google.com/search?q=site%3Ash-honeyspa.work/+巨乳)|[1](https://www.google.com/search?q=site%3Ash-honeyspa.work/+胸)|
 |[アロマリゾート](http://aroma-resort.xyz/) <br />@木場駅2番口|||||
-|[Lavender ～ラベンダー～](http://lavender01.com/) <br />@葛西駅||||[1](https://www.google.com/search?q=site%3Alavender01.com/+胸)|
+|[Lavender ～ラベンダー～](http://lavender01.com/) <br />@葛西駅||||[2](https://www.google.com/search?q=site%3Alavender01.com/+胸)|
 |[癒庵-いやしあん-](http://massage-relax.jp.net/) <br />@行徳駅|||||
 |[ウィンク](http://wink.ies.fun/) <br />@行徳駅南口|||||
 |[風縁](http://fuen.iest.info/) <br />@葛西駅西口|||||
