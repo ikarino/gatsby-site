@@ -1,5 +1,5 @@
 ---
-date: 2020-11-20
+date: 2020-11-21
 title: "上野・御徒町"
 cover: "https://unsplash.it/1152/300/?random?BirchintheRoses"
 categories:
@@ -131,7 +131,7 @@ description: "キーワード別チャイエス嬢情報"
 
 |店名|セクシー|乳|巨乳|
 |:--|:---:|:---:|:---:|
-|[藍～アイ～](http://www.a-side.com/o-ai/) <br />@JR御徒町駅南口||[2](https://www.google.com/search?q=site%3Awww.a-side.com/o-ai/+乳)|[2](https://www.google.com/search?q=site%3Awww.a-side.com/o-ai/+巨乳)|
+|[藍～アイ～](http://www.a-side.com/o-ai/) <br />@JR御徒町駅南口||[1](https://www.google.com/search?q=site%3Awww.a-side.com/o-ai/+乳)|[1](https://www.google.com/search?q=site%3Awww.a-side.com/o-ai/+巨乳)|
 |[癒し屋](https://u-este.com/) <br />@JR御徒町駅北口|[2](https://www.google.com/search?q=site%3Au-este.com/+セクシー)|||
 |[You and I*ユー＆アイ](http://for-you-ueno.com/) <br />@JR上野駅浅草口||||
 |[マーキュリーMERCURY](http://foryou-es.info/) <br />@JR御徒町駅南口||||
@@ -139,7 +139,7 @@ description: "キーワード別チャイエス嬢情報"
 |[ファンタジー](http://www.itoshii.tokyo/) <br />@JR御徒町駅北口||||
 |[カルマリゾート＆スパ](http://esthe-massage.black/) <br />@JR御徒町駅南口||||
 |[スパ アモーレ](http://spa-amore.info/) <br />@JR御徒町駅北口||||
-|[月兎 ゲット](https://moon-rabbit.info/) <br />@JR御徒町駅南口|[1](https://www.google.com/search?q=site%3Amoon-rabbit.info/+セクシー)|||
+|[月兎 ゲット](https://moon-rabbit.info/) <br />@JR御徒町駅南口|[3](https://www.google.com/search?q=site%3Amoon-rabbit.info/+セクシー)|||
 |[安心堂](http://es-en.info/) <br />@JR御徒町駅南口||||
 |[癒しの家](http://www.iyashinoie-ueno.com/) <br />@JR上野駅浅草口||||
 |[女手](http://www.ueno-assistant.com/) <br />@JR上野駅浅草口||||

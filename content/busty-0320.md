@@ -1,5 +1,5 @@
 ---
-date: 2020-11-20
+date: 2020-11-21
 title: "川崎・鶴見"
 cover: "https://unsplash.it/1152/300/?random?BirchintheRoses"
 categories:
@@ -52,6 +52,7 @@ description: "キーワード別チャイエス嬢情報"
 |[オアシス](https://1596539936.jimdofree.com/) <br />@JR川崎駅東口|||||
 |[GODメンズエステ](http://god-esthe.com/) <br />@JR鶴見駅東口|[4](https://www.google.com/search?q=site%3Agod-esthe.com/+C)|||[4](https://www.google.com/search?q=site%3Agod-esthe.com/+G)|
 |[LOVE](http://nymphe-est.xyz/) <br />@JR矢向駅|[6](https://www.google.com/search?q=site%3Anymphe-est.xyz/+C)|[18](https://www.google.com/search?q=site%3Anymphe-est.xyz/+D)|[6](https://www.google.com/search?q=site%3Anymphe-est.xyz/+E)||
+|[sweet](https://tsurumi-mensesthe.com/) <br />@JR鶴見駅西口|||||
 
 
 
@@ -84,13 +85,14 @@ description: "キーワード別チャイエス嬢情報"
 |[PRETTY](http://e-pretty.xyz/) <br />@JR鶴見駅西口||||||||||||
 |[花の妖精](http://h-yousei.xyz/) <br />@JR鶴見駅西口||||||||||||
 |[縁園](http://rabbit.est.cm/) <br />@JR川崎駅東口||||||[16](https://www.google.com/search?q=site%3Arabbit.est.cm/+86)||||||
-|[ギャルズ](http://gyaruzu.esnavi.work/) <br />@JR川崎駅西口|||[2](https://www.google.com/search?q=site%3Agyaruzu.esnavi.work/+83)|[2](https://www.google.com/search?q=site%3Agyaruzu.esnavi.work/+84)||[3](https://www.google.com/search?q=site%3Agyaruzu.esnavi.work/+86)||[2](https://www.google.com/search?q=site%3Agyaruzu.esnavi.work/+88)|[12](https://www.google.com/search?q=site%3Agyaruzu.esnavi.work/+89)|[5](https://www.google.com/search?q=site%3Agyaruzu.esnavi.work/+90)||
+|[ギャルズ](http://gyaruzu.esnavi.work/) <br />@JR川崎駅西口|||[2](https://www.google.com/search?q=site%3Agyaruzu.esnavi.work/+83)|[2](https://www.google.com/search?q=site%3Agyaruzu.esnavi.work/+84)||[3](https://www.google.com/search?q=site%3Agyaruzu.esnavi.work/+86)||[2](https://www.google.com/search?q=site%3Agyaruzu.esnavi.work/+88)|[11](https://www.google.com/search?q=site%3Agyaruzu.esnavi.work/+89)|[6](https://www.google.com/search?q=site%3Agyaruzu.esnavi.work/+90)||
 |[I for You](http://iforyou.iyasi.me/) <br />@JR鶴見駅東口||||[2](https://www.google.com/search?q=site%3Aiforyou.iyasi.me/+84)|[2](https://www.google.com/search?q=site%3Aiforyou.iyasi.me/+85)|||||||
 |[制服美少女](http://seifuku.esnavi.work/) <br />@JR川崎駅西口|||[2](https://www.google.com/search?q=site%3Aseifuku.esnavi.work/+83)|||[2](https://www.google.com/search?q=site%3Aseifuku.esnavi.work/+86)|[1](https://www.google.com/search?q=site%3Aseifuku.esnavi.work/+87)|[1](https://www.google.com/search?q=site%3Aseifuku.esnavi.work/+88)|[2](https://www.google.com/search?q=site%3Aseifuku.esnavi.work/+89)|||
 |[Men’s Pal Spa・メンズパルスパ](https://www.pal-spa.com/) <br />@JR鶴見駅東口|[1](https://www.google.com/search?q=site%3Awww.pal-spa.com/+100)|||||||||||
 |[オアシス](https://1596539936.jimdofree.com/) <br />@JR川崎駅東口||||||||||||
 |[GODメンズエステ](http://god-esthe.com/) <br />@JR鶴見駅東口|||[4](https://www.google.com/search?q=site%3Agod-esthe.com/+83)|[4](https://www.google.com/search?q=site%3Agod-esthe.com/+84)|||||||[2](https://www.google.com/search?q=site%3Agod-esthe.com/+94)|
 |[LOVE](http://nymphe-est.xyz/) <br />@JR矢向駅|||||[12](https://www.google.com/search?q=site%3Anymphe-est.xyz/+85)|[18](https://www.google.com/search?q=site%3Anymphe-est.xyz/+86)||||||
+|[sweet](https://tsurumi-mensesthe.com/) <br />@JR鶴見駅西口||||[6](https://www.google.com/search?q=site%3Atsurumi-mensesthe.com/+84)|[6](https://www.google.com/search?q=site%3Atsurumi-mensesthe.com/+85)|[6](https://www.google.com/search?q=site%3Atsurumi-mensesthe.com/+86)||[6](https://www.google.com/search?q=site%3Atsurumi-mensesthe.com/+88)||[6](https://www.google.com/search?q=site%3Atsurumi-mensesthe.com/+90)||
 
 
 
@@ -130,4 +132,5 @@ description: "キーワード別チャイエス嬢情報"
 |[オアシス](https://1596539936.jimdofree.com/) <br />@JR川崎駅東口||||
 |[GODメンズエステ](http://god-esthe.com/) <br />@JR鶴見駅東口||||
 |[LOVE](http://nymphe-est.xyz/) <br />@JR矢向駅||||
+|[sweet](https://tsurumi-mensesthe.com/) <br />@JR鶴見駅西口||||
 
