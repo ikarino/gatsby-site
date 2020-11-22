@@ -1,5 +1,5 @@
 ---
-date: 2020-11-21
+date: 2020-11-22
 title: "町田・相模原・厚木・大和"
 cover: "https://unsplash.it/1152/300/?random?BirchintheRoses"
 categories:
