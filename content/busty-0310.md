@@ -1,5 +1,5 @@
 ---
-date: 2020-11-22
+date: 2020-11-23
 title: "横浜・桜木町・関内・新横浜"
 cover: "https://unsplash.it/1152/300/?random?BirchintheRoses"
 categories:
@@ -25,7 +25,7 @@ description: "キーワード別チャイエス嬢情報"
 |:--|:---:|:---:|:---:|:---:|
 |[憩](http://ikoi2009.com/) <br />@JR東神奈川駅|[7](https://www.google.com/search?q=site%3Aikoi2009.com/+C)||||
 |[優雅～ゆうが～](http://yuga.estx.net/) <br />@JR中山駅|||||
-|[SRP](http://www.shine-es.info/) <br />@JR新横浜駅北口|[53](https://www.google.com/search?q=site%3Awww.shine-es.info/+C)|[35](https://www.google.com/search?q=site%3Awww.shine-es.info/+D)|[5](https://www.google.com/search?q=site%3Awww.shine-es.info/+E)||
+|[SRP](http://www.shine-es.info/) <br />@JR新横浜駅北口|[51](https://www.google.com/search?q=site%3Awww.shine-es.info/+C)|[35](https://www.google.com/search?q=site%3Awww.shine-es.info/+D)|[7](https://www.google.com/search?q=site%3Awww.shine-es.info/+E)||
 |[Rose Color～ローズカラー～](http://www.rose-color.info/) <br />@JR新横浜駅北口|[74](https://www.google.com/search?q=site%3Awww.rose-color.info/+C)|[24](https://www.google.com/search?q=site%3Awww.rose-color.info/+D)|[8](https://www.google.com/search?q=site%3Awww.rose-color.info/+E)|[4](https://www.google.com/search?q=site%3Awww.rose-color.info/+F)|
 |[花水木](http://est-hanamizuki.com/) <br />@JR東神奈川駅西口|||||
 |[Venus](http://es-kannai.link) <br />@JR関内駅南口|||||
@@ -59,7 +59,7 @@ description: "キーワード別チャイエス嬢情報"
 |[アロマホーム](http://xn--vckg5a5c7c8c1czd.xyz/) <br />@センター北駅|||||
 |[風情](http://fuzei.xyz/) <br />@JR新横浜駅北口|[7](https://www.google.com/search?q=site%3Afuzei.xyz/+C)||||
 |[YURI](http://www.es-moe.work/) <br />@日ノ出町駅|||||
-|[37℃](http://massage-esthe.blue/) <br />@センター北駅||[9](https://www.google.com/search?q=site%3Amassage-esthe.blue/+D)|||
+|[37℃](http://massage-esthe.blue/) <br />@センター北駅||[8](https://www.google.com/search?q=site%3Amassage-esthe.blue/+D)|||
 |[Baby Heart ～ベイビーハート～](http://babyheart.info/) <br />@JR関内駅南口|[3](https://www.google.com/search?q=site%3Ababyheart.info/+C)|[2](https://www.google.com/search?q=site%3Ababyheart.info/+D)|[1](https://www.google.com/search?q=site%3Ababyheart.info/+E)||
 |[ダイヤ](http://diamond.esute.tokyo/) <br />@JR関内駅南口|||||
 |[さくら](http://sakura.reraku.work/) <br />@菊名駅西口|[5](https://www.google.com/search?q=site%3Asakura.reraku.work/+C)|[15](https://www.google.com/search?q=site%3Asakura.reraku.work/+D)|||
@@ -100,7 +100,7 @@ description: "キーワード別チャイエス嬢情報"
 |:--|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |[憩](http://ikoi2009.com/) <br />@JR東神奈川駅|||||||||||||||||
 |[優雅～ゆうが～](http://yuga.estx.net/) <br />@JR中山駅|||||||||||||||||
-|[SRP](http://www.shine-es.info/) <br />@JR新横浜駅北口|||[9](https://www.google.com/search?q=site%3Awww.shine-es.info/+83)|[13](https://www.google.com/search?q=site%3Awww.shine-es.info/+84)|[35](https://www.google.com/search?q=site%3Awww.shine-es.info/+85)|[25](https://www.google.com/search?q=site%3Awww.shine-es.info/+86)|[12](https://www.google.com/search?q=site%3Awww.shine-es.info/+87)|[5](https://www.google.com/search?q=site%3Awww.shine-es.info/+88)|||||||||
+|[SRP](http://www.shine-es.info/) <br />@JR新横浜駅北口|||[10](https://www.google.com/search?q=site%3Awww.shine-es.info/+83)|[14](https://www.google.com/search?q=site%3Awww.shine-es.info/+84)|[35](https://www.google.com/search?q=site%3Awww.shine-es.info/+85)|[21](https://www.google.com/search?q=site%3Awww.shine-es.info/+86)|[12](https://www.google.com/search?q=site%3Awww.shine-es.info/+87)|[7](https://www.google.com/search?q=site%3Awww.shine-es.info/+88)|||||||||
 |[Rose Color～ローズカラー～](http://www.rose-color.info/) <br />@JR新横浜駅北口|||||[16](https://www.google.com/search?q=site%3Awww.rose-color.info/+85)|[42](https://www.google.com/search?q=site%3Awww.rose-color.info/+86)|[44](https://www.google.com/search?q=site%3Awww.rose-color.info/+87)|[4](https://www.google.com/search?q=site%3Awww.rose-color.info/+88)|[4](https://www.google.com/search?q=site%3Awww.rose-color.info/+89)||||||||
 |[花水木](http://est-hanamizuki.com/) <br />@JR東神奈川駅西口|||||||||||||||||
 |[Venus](http://es-kannai.link) <br />@JR関内駅南口|||||||||||||||||

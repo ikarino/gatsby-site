@@ -1,5 +1,5 @@
 ---
-date: 2020-11-22
+date: 2020-11-23
 title: "国分寺・立川・八王子・東京郊外"
 cover: "https://unsplash.it/1152/300/?random?BirchintheRoses"
 categories:
@@ -51,7 +51,7 @@ description: "キーワード別チャイエス嬢情報"
 |[夢百合](http://yume-yuri.info/) <br />@京王八王子駅|||||||
 |[茉莉花・ジャスミン](http://aes-relax.com/) <br />@久米川駅南口|[14](https://www.google.com/search?q=site%3Aaes-relax.com/+C)||||||
 |[満春](http://www.manshun-relax.xyz/) <br />@JR八王子駅北口||[64](https://www.google.com/search?q=site%3Awww.manshun-relax.xyz/+D)|||||
-|[さやか](http://sayaka.xyz.mn/) <br />@JR小作駅東口||[12](https://www.google.com/search?q=site%3Asayaka.xyz.mn/+D)|||||
+|[さやか](http://sayaka.xyz.mn/) <br />@JR小作駅東口|[2](https://www.google.com/search?q=site%3Asayaka.xyz.mn/+C)|[10](https://www.google.com/search?q=site%3Asayaka.xyz.mn/+D)|||||
 |[Love Honey ～ラブハニー～](http://lovehoney.estx.net/) <br />@JR国分寺駅南口|||||||
 |[RELALICE-リラリス-](http://koi.este88.com/) <br />@JR拝島駅南口|||||||
 |[桃香](http://momoka.este.work/) <br />@久米川駅北口|[1](https://www.google.com/search?q=site%3Amomoka.este.work/+C)|[5](https://www.google.com/search?q=site%3Amomoka.este.work/+D)|||||
@@ -120,7 +120,7 @@ description: "キーワード別チャイエス嬢情報"
 |[運命の女神](http://unmei.xyz/) <br />@JR国分寺駅南口|[13](https://www.google.com/search?q=site%3Aunmei.xyz/+C)|[5](https://www.google.com/search?q=site%3Aunmei.xyz/+D)|[2](https://www.google.com/search?q=site%3Aunmei.xyz/+E)||||
 |[Sweet ～スウィート～](http://www.sweet.iesjp.com/) <br />@小平駅南口|[13](https://www.google.com/search?q=site%3Awww.sweet.iesjp.com/+C)|[20](https://www.google.com/search?q=site%3Awww.sweet.iesjp.com/+D)|||||
 |[アロマセラピ](https://aromatherapy.jpn.mn) <br />@JR昭島駅南口|[6](https://www.google.com/search?q=site%3Aaromatherapy.jpn.mn+C)|[24](https://www.google.com/search?q=site%3Aaromatherapy.jpn.mn+D)|[12](https://www.google.com/search?q=site%3Aaromatherapy.jpn.mn+E)||||
-|[Angel](http://sodsala.xyz/) <br />@JR八王子駅北口||[2](https://www.google.com/search?q=site%3Asodsala.xyz/+D)|[4](https://www.google.com/search?q=site%3Asodsala.xyz/+E)|[1](https://www.google.com/search?q=site%3Asodsala.xyz/+F)|[2](https://www.google.com/search?q=site%3Asodsala.xyz/+G)||
+|[Angel](http://sodsala.xyz/) <br />@JR八王子駅北口||[2](https://www.google.com/search?q=site%3Asodsala.xyz/+D)|[4](https://www.google.com/search?q=site%3Asodsala.xyz/+E)|[1](https://www.google.com/search?q=site%3Asodsala.xyz/+F)|[1](https://www.google.com/search?q=site%3Asodsala.xyz/+G)||
 |[Linux ～リナックス～](http://koukoku.xyz/linux/) <br />@京王八王子駅||[3](https://www.google.com/search?q=site%3Akoukoku.xyz/linux/+D)|||||
 |[スパティアラ](http://civerme.xyz/) <br />@JR国分寺駅南口|[6](https://www.google.com/search?q=site%3Aciverme.xyz/+C)|[4](https://www.google.com/search?q=site%3Aciverme.xyz/+D)||[1](https://www.google.com/search?q=site%3Aciverme.xyz/+F)|||
 |[桃色SPA](http://www.momoiro.masg.info/) <br />@JR立川駅北口|[2](https://www.google.com/search?q=site%3Awww.momoiro.masg.info/+C)|[8](https://www.google.com/search?q=site%3Awww.momoiro.masg.info/+D)|||||
@@ -154,7 +154,7 @@ description: "キーワード別チャイエス嬢情報"
 |[アスター](http://www.relax-aster.com/) <br />@JR国分寺駅南口|||||||||[8](https://www.google.com/search?q=site%3Awww.relax-aster.com/+89)|[2](https://www.google.com/search?q=site%3Awww.relax-aster.com/+90)||||
 |[エデンの園](http://e-hoya.info/) <br />@保谷駅南口||||||||||||||
 |[ハピネス](http://www.kenkoukoubou.com/) <br />@JR武蔵境駅南口||||||||||||||
-|[アロマスパ](http://es-aroma.tokyo/) <br />@JR八王子駅北口|||[4](https://www.google.com/search?q=site%3Aes-aroma.tokyo/+83)|[24](https://www.google.com/search?q=site%3Aes-aroma.tokyo/+84)|[88](https://www.google.com/search?q=site%3Aes-aroma.tokyo/+85)|[8](https://www.google.com/search?q=site%3Aes-aroma.tokyo/+86)||||||||
+|[アロマスパ](http://es-aroma.tokyo/) <br />@JR八王子駅北口||||[24](https://www.google.com/search?q=site%3Aes-aroma.tokyo/+84)|[91](https://www.google.com/search?q=site%3Aes-aroma.tokyo/+85)|[8](https://www.google.com/search?q=site%3Aes-aroma.tokyo/+86)||||||||
 |[水の縁](http://www.hibari.link/) <br />@ひばりヶ丘駅南口||||||||||||||
 |[雅](http://a-rlx.info) <br />@JR福生駅東口||||||||||||||
 |[萌](http://www.moe-es.link/) <br />@JR八王子駅北口||||||||||||||
@@ -172,7 +172,7 @@ description: "キーワード別チャイエス嬢情報"
 |[夢百合](http://yume-yuri.info/) <br />@京王八王子駅||||||||||||||
 |[茉莉花・ジャスミン](http://aes-relax.com/) <br />@久米川駅南口||||||||||||||
 |[満春](http://www.manshun-relax.xyz/) <br />@JR八王子駅北口||||||[40](https://www.google.com/search?q=site%3Awww.manshun-relax.xyz/+86)|[16](https://www.google.com/search?q=site%3Awww.manshun-relax.xyz/+87)|[16](https://www.google.com/search?q=site%3Awww.manshun-relax.xyz/+88)||||||
-|[さやか](http://sayaka.xyz.mn/) <br />@JR小作駅東口|||||[6](https://www.google.com/search?q=site%3Asayaka.xyz.mn/+85)|[4](https://www.google.com/search?q=site%3Asayaka.xyz.mn/+86)|[2](https://www.google.com/search?q=site%3Asayaka.xyz.mn/+87)|||||||
+|[さやか](http://sayaka.xyz.mn/) <br />@JR小作駅東口|||||[8](https://www.google.com/search?q=site%3Asayaka.xyz.mn/+85)|[4](https://www.google.com/search?q=site%3Asayaka.xyz.mn/+86)||||||||
 |[Love Honey ～ラブハニー～](http://lovehoney.estx.net/) <br />@JR国分寺駅南口||||||||||||||
 |[RELALICE-リラリス-](http://koi.este88.com/) <br />@JR拝島駅南口||||||||||||||
 |[桃香](http://momoka.este.work/) <br />@久米川駅北口|||[1](https://www.google.com/search?q=site%3Amomoka.este.work/+83)||[1](https://www.google.com/search?q=site%3Amomoka.este.work/+85)|[1](https://www.google.com/search?q=site%3Amomoka.este.work/+86)|[3](https://www.google.com/search?q=site%3Amomoka.este.work/+87)|||||||
