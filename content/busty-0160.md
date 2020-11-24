@@ -1,5 +1,5 @@
 ---
-date: 2020-11-23
+date: 2020-11-24
 title: "飯田橋・水道橋・御茶ノ水"
 cover: "https://unsplash.it/1152/300/?random?BirchintheRoses"
 categories:
@@ -34,7 +34,7 @@ description: "キーワード別チャイエス嬢情報"
 |[悠 ゆう](http://yu.xyz.mn/) <br />@JR水道橋駅西口|[18](https://www.google.com/search?q=site%3Ayu.xyz.mn/+C)|[24](https://www.google.com/search?q=site%3Ayu.xyz.mn/+D)||||
 |[プリン](https://suidobashi-mensesthe.com/) <br />@JR水道橋駅西口||||||
 |[Lucky Aroma](https://happy-aroma.eei.jp/) <br />@小川町駅A7出口||||||
-|[ビーナス](http://venus.tyo.cm/) <br />@JR水道橋駅東口||[18](https://www.google.com/search?q=site%3Avenus.tyo.cm/+D)|[4](https://www.google.com/search?q=site%3Avenus.tyo.cm/+E)|[6](https://www.google.com/search?q=site%3Avenus.tyo.cm/+F)||
+|[ビーナス](http://venus.tyo.cm/) <br />@JR水道橋駅東口||[18](https://www.google.com/search?q=site%3Avenus.tyo.cm/+D)|[6](https://www.google.com/search?q=site%3Avenus.tyo.cm/+E)|[6](https://www.google.com/search?q=site%3Avenus.tyo.cm/+F)||
 |[癒しの心](http://www.iyashikokoro.xyz/) <br />@JR飯田橋駅東口||||||
 |[春姫](https://haruhime.ests.jp/) <br />@本郷三丁目駅5番出口|[16](https://www.google.com/search?q=site%3Aharuhime.ests.jp/+C)|[5](https://www.google.com/search?q=site%3Aharuhime.ests.jp/+D)|[10](https://www.google.com/search?q=site%3Aharuhime.ests.jp/+E)|||
 |[キララ](https://kira.uouono.com/) <br />@神保町駅A1出口||[10](https://www.google.com/search?q=site%3Akira.uouono.com/+D)|[11](https://www.google.com/search?q=site%3Akira.uouono.com/+E)|[3](https://www.google.com/search?q=site%3Akira.uouono.com/+F)||
@@ -60,7 +60,7 @@ description: "キーワード別チャイエス嬢情報"
 |[悠 ゆう](http://yu.xyz.mn/) <br />@JR水道橋駅西口||[6](https://www.google.com/search?q=site%3Ayu.xyz.mn/+84)|[18](https://www.google.com/search?q=site%3Ayu.xyz.mn/+85)|[6](https://www.google.com/search?q=site%3Ayu.xyz.mn/+86)|||||
 |[プリン](https://suidobashi-mensesthe.com/) <br />@JR水道橋駅西口|||||||||
 |[Lucky Aroma](https://happy-aroma.eei.jp/) <br />@小川町駅A7出口|||||||||
-|[ビーナス](http://venus.tyo.cm/) <br />@JR水道橋駅東口|[8](https://www.google.com/search?q=site%3Avenus.tyo.cm/+83)|[4](https://www.google.com/search?q=site%3Avenus.tyo.cm/+84)|[6](https://www.google.com/search?q=site%3Avenus.tyo.cm/+85)|||[4](https://www.google.com/search?q=site%3Avenus.tyo.cm/+88)|[6](https://www.google.com/search?q=site%3Avenus.tyo.cm/+89)||
+|[ビーナス](http://venus.tyo.cm/) <br />@JR水道橋駅東口|[10](https://www.google.com/search?q=site%3Avenus.tyo.cm/+83)|[4](https://www.google.com/search?q=site%3Avenus.tyo.cm/+84)|[6](https://www.google.com/search?q=site%3Avenus.tyo.cm/+85)|||[4](https://www.google.com/search?q=site%3Avenus.tyo.cm/+88)|[6](https://www.google.com/search?q=site%3Avenus.tyo.cm/+89)||
 |[癒しの心](http://www.iyashikokoro.xyz/) <br />@JR飯田橋駅東口|||||||||
 |[春姫](https://haruhime.ests.jp/) <br />@本郷三丁目駅5番出口|[5](https://www.google.com/search?q=site%3Aharuhime.ests.jp/+83)||[5](https://www.google.com/search?q=site%3Aharuhime.ests.jp/+85)||[10](https://www.google.com/search?q=site%3Aharuhime.ests.jp/+87)||||
 |[キララ](https://kira.uouono.com/) <br />@神保町駅A1出口|||||||||
