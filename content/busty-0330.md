@@ -1,5 +1,5 @@
 ---
-date: 2020-11-24
+date: 2020-11-25
 title: "町田・相模原・厚木・大和"
 cover: "https://unsplash.it/1152/300/?random?BirchintheRoses"
 categories:
@@ -136,6 +136,7 @@ description: "キーワード別チャイエス嬢情報"
 |[初の葉](http://shonoyou.me-es.com/) <br />@座間駅西口|||||||||
 |[女神のキス](http://www.megami.iesjp.com/) <br />@大和駅小田急口|[12](https://www.google.com/search?q=site%3Awww.megami.iesjp.com/+C)|[12](https://www.google.com/search?q=site%3Awww.megami.iesjp.com/+D)|||||||
 |[心楽](http://esutework.xyz/) <br />@相武台前駅南口|[2](https://www.google.com/search?q=site%3Aesutework.xyz/+C)||||||||
+|[和心](http://loran.work/) <br />@JR淵野辺駅北口|||||||||
 
 
 
@@ -259,6 +260,7 @@ description: "キーワード別チャイエス嬢情報"
 |[初の葉](http://shonoyou.me-es.com/) <br />@座間駅西口||||||||||||||||||
 |[女神のキス](http://www.megami.iesjp.com/) <br />@大和駅小田急口|||||||[12](https://www.google.com/search?q=site%3Awww.megami.iesjp.com/+86)|[12](https://www.google.com/search?q=site%3Awww.megami.iesjp.com/+87)||||||||||
 |[心楽](http://esutework.xyz/) <br />@相武台前駅南口||||||||||||||||||
+|[和心](http://loran.work/) <br />@JR淵野辺駅北口||||||||||||||||||
 
 
 
@@ -382,4 +384,5 @@ description: "キーワード別チャイエス嬢情報"
 |[初の葉](http://shonoyou.me-es.com/) <br />@座間駅西口|||||||
 |[女神のキス](http://www.megami.iesjp.com/) <br />@大和駅小田急口|||||||
 |[心楽](http://esutework.xyz/) <br />@相武台前駅南口|||||||
+|[和心](http://loran.work/) <br />@JR淵野辺駅北口|||||||
 
