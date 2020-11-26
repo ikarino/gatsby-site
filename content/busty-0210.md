@@ -1,5 +1,5 @@
 ---
-date: 2020-11-25
+date: 2020-11-26
 title: "赤羽・東十条・王子・板橋"
 cover: "https://unsplash.it/1152/300/?random?BirchintheRoses"
 categories:
@@ -32,7 +32,7 @@ description: "キーワード別チャイエス嬢情報"
 |[Last Paradise ～ラストパラダイス～](http://lastpara.net/) <br />@JR赤羽駅南口||||
 |[初恋](http://hatsukoi.ests.jp/) <br />@JR王子駅中央口||[7](https://www.google.com/search?q=site%3Ahatsukoi.ests.jp/+D)|[2](https://www.google.com/search?q=site%3Ahatsukoi.ests.jp/+E)|
 |[LaLa](http://lala.abnavi.info/) <br />@JR赤羽駅東口|[43](https://www.google.com/search?q=site%3Alala.abnavi.info/+C)|[240](https://www.google.com/search?q=site%3Alala.abnavi.info/+D)||
-|[養生堂](http://itabashi.xyz/) <br />@JR板橋駅西口||||
+|[養生堂](http://itabashi.xyz/) <br />@JR板橋駅西口|[12](https://www.google.com/search?q=site%3Aitabashi.xyz/+C)|||
 |[桜の恋](http://www.crossu.xyz/) <br />@JR王子駅北口||||
 |[Sweet spa](http://t-mituki.site/) <br />@赤羽駅東口||||
 |[プリンス](http://prince.tyo.cm/) <br />@JR王子駅北口||[20](https://www.google.com/search?q=site%3Aprince.tyo.cm/+D)||
@@ -45,7 +45,6 @@ description: "キーワード別チャイエス嬢情報"
 |[Cocosia ～ココシア～](http://www.cocosia.work/) <br />@JR赤羽駅西口|[15](https://www.google.com/search?q=site%3Awww.cocosia.work/+C)|[10](https://www.google.com/search?q=site%3Awww.cocosia.work/+D)|[6](https://www.google.com/search?q=site%3Awww.cocosia.work/+E)|
 |[Aroma Dream ～アロマドリーム～](https://dream.ests.jp/) <br />@JR赤羽駅東口|[16](https://www.google.com/search?q=site%3Adream.ests.jp/+C)|[8](https://www.google.com/search?q=site%3Adream.ests.jp/+D)|[2](https://www.google.com/search?q=site%3Adream.ests.jp/+E)|
 |[Love Sea](https://higashijujo-mensesthe.com/) <br />@JR東十条駅北口||||
-|[羽の恋](http://www.hanekoi.relaxjp.info/) <br />@JR赤羽駅東口||||
 |[ACEアロマ](http://ace-esthe.com/) <br />@JR赤羽駅東口|[18](https://www.google.com/search?q=site%3Aace-esthe.com/+C)|||
 
 
@@ -79,7 +78,6 @@ description: "キーワード別チャイエス嬢情報"
 |[Cocosia ～ココシア～](http://www.cocosia.work/) <br />@JR赤羽駅西口||||[2](https://www.google.com/search?q=site%3Awww.cocosia.work/+85)|[8](https://www.google.com/search?q=site%3Awww.cocosia.work/+86)|[6](https://www.google.com/search?q=site%3Awww.cocosia.work/+87)|||||
 |[Aroma Dream ～アロマドリーム～](https://dream.ests.jp/) <br />@JR赤羽駅東口||[2](https://www.google.com/search?q=site%3Adream.ests.jp/+83)||[4](https://www.google.com/search?q=site%3Adream.ests.jp/+85)|[4](https://www.google.com/search?q=site%3Adream.ests.jp/+86)|[2](https://www.google.com/search?q=site%3Adream.ests.jp/+87)|||||
 |[Love Sea](https://higashijujo-mensesthe.com/) <br />@JR東十条駅北口|||||||||||
-|[羽の恋](http://www.hanekoi.relaxjp.info/) <br />@JR赤羽駅東口|||||||||||
 |[ACEアロマ](http://ace-esthe.com/) <br />@JR赤羽駅東口|||||||||||
 
 
@@ -113,6 +111,5 @@ description: "キーワード別チャイエス嬢情報"
 |[Cocosia ～ココシア～](http://www.cocosia.work/) <br />@JR赤羽駅西口||
 |[Aroma Dream ～アロマドリーム～](https://dream.ests.jp/) <br />@JR赤羽駅東口||
 |[Love Sea](https://higashijujo-mensesthe.com/) <br />@JR東十条駅北口||
-|[羽の恋](http://www.hanekoi.relaxjp.info/) <br />@JR赤羽駅東口||
 |[ACEアロマ](http://ace-esthe.com/) <br />@JR赤羽駅東口||
 

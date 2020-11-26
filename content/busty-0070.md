@@ -1,5 +1,5 @@
 ---
-date: 2020-11-25
+date: 2020-11-26
 title: "上野・御徒町"
 cover: "https://unsplash.it/1152/300/?random?BirchintheRoses"
 categories:
@@ -75,52 +75,52 @@ description: "キーワード別チャイエス嬢情報"
 
 ### バスト表記
 
-|店名|80|82|83|84|85|86|87|88|89|90|96|
-|:--|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|[藍～アイ～](http://www.a-side.com/o-ai/) <br />@JR御徒町駅南口||||||||||||
-|[癒し屋](https://u-este.com/) <br />@JR御徒町駅北口||||||||||||
-|[You and I*ユー＆アイ](http://for-you-ueno.com/) <br />@JR上野駅浅草口||||||||||||
-|[マーキュリーMERCURY](http://foryou-es.info/) <br />@JR御徒町駅南口||||||||[15](https://www.google.com/search?q=site%3Aforyou-es.info/+88)|[41](https://www.google.com/search?q=site%3Aforyou-es.info/+89)|[6](https://www.google.com/search?q=site%3Aforyou-es.info/+90)||
-|[Lucky ラッキー](http://o-lucky.work/) <br />@JR御徒町駅北口||||||||||||
-|[ファンタジー](http://www.itoshii.tokyo/) <br />@JR御徒町駅北口||||||||||||
-|[カルマリゾート＆スパ](http://esthe-massage.black/) <br />@JR御徒町駅南口||[30](https://www.google.com/search?q=site%3Aesthe-massage.black/+82)||[8](https://www.google.com/search?q=site%3Aesthe-massage.black/+84)|||||[4](https://www.google.com/search?q=site%3Aesthe-massage.black/+89)|||
-|[スパ アモーレ](http://spa-amore.info/) <br />@JR御徒町駅北口||||||||||||
-|[月兎 ゲット](https://moon-rabbit.info/) <br />@JR御徒町駅南口|||||[5](https://www.google.com/search?q=site%3Amoon-rabbit.info/+85)|[3](https://www.google.com/search?q=site%3Amoon-rabbit.info/+86)|[1](https://www.google.com/search?q=site%3Amoon-rabbit.info/+87)|||||
-|[安心堂](http://es-en.info/) <br />@JR御徒町駅南口|||||[1](https://www.google.com/search?q=site%3Aes-en.info/+85)|[2](https://www.google.com/search?q=site%3Aes-en.info/+86)|[1](https://www.google.com/search?q=site%3Aes-en.info/+87)|[2](https://www.google.com/search?q=site%3Aes-en.info/+88)||||
-|[癒しの家](http://www.iyashinoie-ueno.com/) <br />@JR上野駅浅草口||||[4](https://www.google.com/search?q=site%3Awww.iyashinoie-ueno.com/+84)||[4](https://www.google.com/search?q=site%3Awww.iyashinoie-ueno.com/+86)|[8](https://www.google.com/search?q=site%3Awww.iyashinoie-ueno.com/+87)|||||
-|[女手](http://www.ueno-assistant.com/) <br />@JR上野駅浅草口|||||[3](https://www.google.com/search?q=site%3Awww.ueno-assistant.com/+85)|[1](https://www.google.com/search?q=site%3Awww.ueno-assistant.com/+86)||||[3](https://www.google.com/search?q=site%3Awww.ueno-assistant.com/+90)||
-|[鶴](http://th20.com/turu/) <br />@浅草駅2番出口||||||||||||
-|[月夜](http://www.rosa-es.info/) <br />@JR上野駅浅草口||||||||||||
-|[憩](http://ikoi.ies.fun/) <br />@JR御徒町駅南口||||||||||||
-|[喜手-きしゅ-](http://okachi-mg.com/) <br />@JR御徒町駅南口|||||[6](https://www.google.com/search?q=site%3Aokachi-mg.com/+85)|[2](https://www.google.com/search?q=site%3Aokachi-mg.com/+86)||||[6](https://www.google.com/search?q=site%3Aokachi-mg.com/+90)||
-|[マカロン](http://www.macaron.esjoho.com/) <br />@JR御徒町駅北口|[27](https://www.google.com/search?q=site%3Awww.macaron.esjoho.com/+80)|||[9](https://www.google.com/search?q=site%3Awww.macaron.esjoho.com/+84)||[9](https://www.google.com/search?q=site%3Awww.macaron.esjoho.com/+86)|[12](https://www.google.com/search?q=site%3Awww.macaron.esjoho.com/+87)|[27](https://www.google.com/search?q=site%3Awww.macaron.esjoho.com/+88)||||
-|[CoCo-Arashi](http://cc-tokyo.xyz/) <br />@上野駅広小路口|||[3](https://www.google.com/search?q=site%3Acc-tokyo.xyz/+83)|[3](https://www.google.com/search?q=site%3Acc-tokyo.xyz/+84)|[23](https://www.google.com/search?q=site%3Acc-tokyo.xyz/+85)|[13](https://www.google.com/search?q=site%3Acc-tokyo.xyz/+86)|[6](https://www.google.com/search?q=site%3Acc-tokyo.xyz/+87)|||||
-|[COCO-GARDEN](http://www.cocogarden.link/) <br />@JR御徒町駅北口||||||[2](https://www.google.com/search?q=site%3Awww.cocogarden.link/+86)|[10](https://www.google.com/search?q=site%3Awww.cocogarden.link/+87)|[8](https://www.google.com/search?q=site%3Awww.cocogarden.link/+88)||||
-|[ZOEY ゾーイ](http://zoey.mssg.jp) <br />@JR御徒町駅南口||||||||||||
-|[夢の恋](http://www.yumenokoi.masg.info/) <br />@JR御徒町駅北口||||||[40](https://www.google.com/search?q=site%3Awww.yumenokoi.masg.info/+86)|[32](https://www.google.com/search?q=site%3Awww.yumenokoi.masg.info/+87)|[32](https://www.google.com/search?q=site%3Awww.yumenokoi.masg.info/+88)||||
-|[Estela SPA～エステラスパ](http://estelaspa.com/) <br />@JR御徒町駅北口||||||||||||
-|[夢の蝶々](http://www.sh-riraks.xyz/) <br />@JR御徒町駅南口||||||||||||
-|[蘭花 ランカ](http://verybeauty.info/) <br />@田原町駅1番出口|||||[1](https://www.google.com/search?q=site%3Averybeauty.info/+85)|[2](https://www.google.com/search?q=site%3Averybeauty.info/+86)||[2](https://www.google.com/search?q=site%3Averybeauty.info/+88)||||
-|[For You](http://for-you-ueno.net/) <br />@JR上野駅浅草口||||||||||||
-|[媚姫～ビキ～](http://biki-massage.work/) <br />@JR御徒町駅北口|||[1](https://www.google.com/search?q=site%3Abiki-massage.work/+83)|||[7](https://www.google.com/search?q=site%3Abiki-massage.work/+86)|[2](https://www.google.com/search?q=site%3Abiki-massage.work/+87)|[2](https://www.google.com/search?q=site%3Abiki-massage.work/+88)||||
-|[極上メンズエステ-雅-](http://ueno-miyabi.work/) <br />@JR上野駅浅草口||||||||||||
-|[エンジェル](http://miel.site) <br />@JR御徒町駅南口|[1](https://www.google.com/search?q=site%3Amiel.site+80)|[1](https://www.google.com/search?q=site%3Amiel.site+82)|||[1](https://www.google.com/search?q=site%3Amiel.site+85)||||||[1](https://www.google.com/search?q=site%3Amiel.site+96)|
-|[スマイル](http://smile.ests.jp/) <br />@JR御徒町駅南口||[1](https://www.google.com/search?q=site%3Asmile.ests.jp/+82)||[1](https://www.google.com/search?q=site%3Asmile.ests.jp/+84)|[1](https://www.google.com/search?q=site%3Asmile.ests.jp/+85)||[1](https://www.google.com/search?q=site%3Asmile.ests.jp/+87)|[1](https://www.google.com/search?q=site%3Asmile.ests.jp/+88)||||
-|[ヘブン](http://www.t-happy.work/) <br />@湯島駅2番出口||||||||||||
-|[AOI](http://www.sh-riraku107.xyz/) <br />@田原町駅3番出口|||||[48](https://www.google.com/search?q=site%3Awww.sh-riraku107.xyz/+85)|[6](https://www.google.com/search?q=site%3Awww.sh-riraku107.xyz/+86)||||||
-|[蓮～レン](http://reiwabi.work/) <br />@JR御徒町駅北口||||||||||||
-|[オアシス](http://20oasis.com/) <br />@JR上野駅入谷口|||||[1](https://www.google.com/search?q=site%3A20oasis.com/+85)|||||[2](https://www.google.com/search?q=site%3A20oasis.com/+90)||
-|[ラピュール](http://rapur.esmens.com/) <br />@湯島駅|||[1](https://www.google.com/search?q=site%3Arapur.esmens.com/+83)|||||[1](https://www.google.com/search?q=site%3Arapur.esmens.com/+88)||||
-|[楽園](http://aroma-esthe.in.net/) <br />@JR上野駅入谷口|||||[1](https://www.google.com/search?q=site%3Aaroma-esthe.in.net/+85)|[4](https://www.google.com/search?q=site%3Aaroma-esthe.in.net/+86)|[1](https://www.google.com/search?q=site%3Aaroma-esthe.in.net/+87)|||||
-|[ラップサップ](http://www.night.ne.jp/tokyo/rapsap/) <br />@JR御徒町駅北口||||||||||||
-|[アロマプルメリア](http://aroma-plumeria.work/) <br />@JR御徒町駅南口||||[1](https://www.google.com/search?q=site%3Aaroma-plumeria.work/+84)|[1](https://www.google.com/search?q=site%3Aaroma-plumeria.work/+85)||[4](https://www.google.com/search?q=site%3Aaroma-plumeria.work/+87)|[2](https://www.google.com/search?q=site%3Aaroma-plumeria.work/+88)|[2](https://www.google.com/search?q=site%3Aaroma-plumeria.work/+89)|||
-|[エントリー](http://es-hana.link/) <br />@JR御徒町駅南口||||||||||||
-|[吉祥](http://kisyou.esjp.xyz/) <br />@浅草駅||||||||||||
-|[FIRST LOVE](http://www.firstlove-relax.work) <br />@JR御徒町駅南口|||||[4](https://www.google.com/search?q=site%3Awww.firstlove-relax.work+85)|[3](https://www.google.com/search?q=site%3Awww.firstlove-relax.work+86)||[3](https://www.google.com/search?q=site%3Awww.firstlove-relax.work+88)||||
-|[ANGEL BABY ～エンジェルベビー～](http://angelbaby.msa.jp/) <br />@上野駅4番出口||||||||||||
-|[COCOMERO](https://momoka.tyo.cm/) <br />@JR御徒町駅北口|||||[2](https://www.google.com/search?q=site%3Amomoka.tyo.cm/+85)|[1](https://www.google.com/search?q=site%3Amomoka.tyo.cm/+86)|[1](https://www.google.com/search?q=site%3Amomoka.tyo.cm/+87)|||||
-|[台湾リゾート](http://taiwan-resort.com/) <br />@JR御徒町駅南口||||||||||||
-|[アリラン](https://arirang.tyo.cm/) <br />@JR御徒町駅北口|||[6](https://www.google.com/search?q=site%3Aarirang.tyo.cm/+83)||[12](https://www.google.com/search?q=site%3Aarirang.tyo.cm/+85)|[6](https://www.google.com/search?q=site%3Aarirang.tyo.cm/+86)|[12](https://www.google.com/search?q=site%3Aarirang.tyo.cm/+87)|||||
+|店名|80|82|83|84|85|86|87|88|89|90|95|96|
+|:--|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|[藍～アイ～](http://www.a-side.com/o-ai/) <br />@JR御徒町駅南口|||||||||||||
+|[癒し屋](https://u-este.com/) <br />@JR御徒町駅北口|||||||||||||
+|[You and I*ユー＆アイ](http://for-you-ueno.com/) <br />@JR上野駅浅草口|||||||||||||
+|[マーキュリーMERCURY](http://foryou-es.info/) <br />@JR御徒町駅南口||||||||[15](https://www.google.com/search?q=site%3Aforyou-es.info/+88)|[41](https://www.google.com/search?q=site%3Aforyou-es.info/+89)|[6](https://www.google.com/search?q=site%3Aforyou-es.info/+90)|||
+|[Lucky ラッキー](http://o-lucky.work/) <br />@JR御徒町駅北口|||||||||||||
+|[ファンタジー](http://www.itoshii.tokyo/) <br />@JR御徒町駅北口|||||||||||||
+|[カルマリゾート＆スパ](http://esthe-massage.black/) <br />@JR御徒町駅南口||[30](https://www.google.com/search?q=site%3Aesthe-massage.black/+82)||[8](https://www.google.com/search?q=site%3Aesthe-massage.black/+84)|||||[4](https://www.google.com/search?q=site%3Aesthe-massage.black/+89)||||
+|[スパ アモーレ](http://spa-amore.info/) <br />@JR御徒町駅北口|||||||||||||
+|[月兎 ゲット](https://moon-rabbit.info/) <br />@JR御徒町駅南口|||||[5](https://www.google.com/search?q=site%3Amoon-rabbit.info/+85)|[3](https://www.google.com/search?q=site%3Amoon-rabbit.info/+86)|[1](https://www.google.com/search?q=site%3Amoon-rabbit.info/+87)||||||
+|[安心堂](http://es-en.info/) <br />@JR御徒町駅南口|||||[1](https://www.google.com/search?q=site%3Aes-en.info/+85)|[2](https://www.google.com/search?q=site%3Aes-en.info/+86)|[1](https://www.google.com/search?q=site%3Aes-en.info/+87)|[2](https://www.google.com/search?q=site%3Aes-en.info/+88)|||||
+|[癒しの家](http://www.iyashinoie-ueno.com/) <br />@JR上野駅浅草口||||[4](https://www.google.com/search?q=site%3Awww.iyashinoie-ueno.com/+84)||[4](https://www.google.com/search?q=site%3Awww.iyashinoie-ueno.com/+86)|[8](https://www.google.com/search?q=site%3Awww.iyashinoie-ueno.com/+87)||||||
+|[女手](http://www.ueno-assistant.com/) <br />@JR上野駅浅草口|||||[3](https://www.google.com/search?q=site%3Awww.ueno-assistant.com/+85)|[1](https://www.google.com/search?q=site%3Awww.ueno-assistant.com/+86)||||[3](https://www.google.com/search?q=site%3Awww.ueno-assistant.com/+90)|||
+|[鶴](http://th20.com/turu/) <br />@浅草駅2番出口|||||||||||||
+|[月夜](http://www.rosa-es.info/) <br />@JR上野駅浅草口|||||||||||||
+|[憩](http://ikoi.ies.fun/) <br />@JR御徒町駅南口|||||||||||||
+|[喜手-きしゅ-](http://okachi-mg.com/) <br />@JR御徒町駅南口|||||[6](https://www.google.com/search?q=site%3Aokachi-mg.com/+85)|[2](https://www.google.com/search?q=site%3Aokachi-mg.com/+86)||||[6](https://www.google.com/search?q=site%3Aokachi-mg.com/+90)|||
+|[マカロン](http://www.macaron.esjoho.com/) <br />@JR御徒町駅北口|[27](https://www.google.com/search?q=site%3Awww.macaron.esjoho.com/+80)|||[9](https://www.google.com/search?q=site%3Awww.macaron.esjoho.com/+84)||[9](https://www.google.com/search?q=site%3Awww.macaron.esjoho.com/+86)|[12](https://www.google.com/search?q=site%3Awww.macaron.esjoho.com/+87)|[27](https://www.google.com/search?q=site%3Awww.macaron.esjoho.com/+88)|||||
+|[CoCo-Arashi](http://cc-tokyo.xyz/) <br />@上野駅広小路口|||[3](https://www.google.com/search?q=site%3Acc-tokyo.xyz/+83)|[3](https://www.google.com/search?q=site%3Acc-tokyo.xyz/+84)|[23](https://www.google.com/search?q=site%3Acc-tokyo.xyz/+85)|[13](https://www.google.com/search?q=site%3Acc-tokyo.xyz/+86)|[6](https://www.google.com/search?q=site%3Acc-tokyo.xyz/+87)||||||
+|[COCO-GARDEN](http://www.cocogarden.link/) <br />@JR御徒町駅北口||||||[2](https://www.google.com/search?q=site%3Awww.cocogarden.link/+86)|[10](https://www.google.com/search?q=site%3Awww.cocogarden.link/+87)|[8](https://www.google.com/search?q=site%3Awww.cocogarden.link/+88)|||||
+|[ZOEY ゾーイ](http://zoey.mssg.jp) <br />@JR御徒町駅南口|||||||||||||
+|[夢の恋](http://www.yumenokoi.masg.info/) <br />@JR御徒町駅北口||||||[40](https://www.google.com/search?q=site%3Awww.yumenokoi.masg.info/+86)|[32](https://www.google.com/search?q=site%3Awww.yumenokoi.masg.info/+87)|[32](https://www.google.com/search?q=site%3Awww.yumenokoi.masg.info/+88)|||||
+|[Estela SPA～エステラスパ](http://estelaspa.com/) <br />@JR御徒町駅北口|||||||||||||
+|[夢の蝶々](http://www.sh-riraks.xyz/) <br />@JR御徒町駅南口|||||||||||||
+|[蘭花 ランカ](http://verybeauty.info/) <br />@田原町駅1番出口|||||[1](https://www.google.com/search?q=site%3Averybeauty.info/+85)|[2](https://www.google.com/search?q=site%3Averybeauty.info/+86)||[2](https://www.google.com/search?q=site%3Averybeauty.info/+88)|||||
+|[For You](http://for-you-ueno.net/) <br />@JR上野駅浅草口|||||||||||||
+|[媚姫～ビキ～](http://biki-massage.work/) <br />@JR御徒町駅北口|||[1](https://www.google.com/search?q=site%3Abiki-massage.work/+83)|||[7](https://www.google.com/search?q=site%3Abiki-massage.work/+86)|[2](https://www.google.com/search?q=site%3Abiki-massage.work/+87)|[2](https://www.google.com/search?q=site%3Abiki-massage.work/+88)|||||
+|[極上メンズエステ-雅-](http://ueno-miyabi.work/) <br />@JR上野駅浅草口|||||||||||||
+|[エンジェル](http://miel.site) <br />@JR御徒町駅南口|[1](https://www.google.com/search?q=site%3Amiel.site+80)|[1](https://www.google.com/search?q=site%3Amiel.site+82)|||[1](https://www.google.com/search?q=site%3Amiel.site+85)|||||||[1](https://www.google.com/search?q=site%3Amiel.site+96)|
+|[スマイル](http://smile.ests.jp/) <br />@JR御徒町駅南口||[1](https://www.google.com/search?q=site%3Asmile.ests.jp/+82)||[1](https://www.google.com/search?q=site%3Asmile.ests.jp/+84)|[1](https://www.google.com/search?q=site%3Asmile.ests.jp/+85)||[1](https://www.google.com/search?q=site%3Asmile.ests.jp/+87)|[1](https://www.google.com/search?q=site%3Asmile.ests.jp/+88)|||||
+|[ヘブン](http://www.t-happy.work/) <br />@湯島駅2番出口|||||||||||||
+|[AOI](http://www.sh-riraku107.xyz/) <br />@田原町駅3番出口|||||[48](https://www.google.com/search?q=site%3Awww.sh-riraku107.xyz/+85)|[6](https://www.google.com/search?q=site%3Awww.sh-riraku107.xyz/+86)|||||||
+|[蓮～レン](http://reiwabi.work/) <br />@JR御徒町駅北口|||||||||||||
+|[オアシス](http://20oasis.com/) <br />@JR上野駅入谷口|||||[2](https://www.google.com/search?q=site%3A20oasis.com/+85)|||||[1](https://www.google.com/search?q=site%3A20oasis.com/+90)|[1](https://www.google.com/search?q=site%3A20oasis.com/+95)||
+|[ラピュール](http://rapur.esmens.com/) <br />@湯島駅|||[1](https://www.google.com/search?q=site%3Arapur.esmens.com/+83)|||||[1](https://www.google.com/search?q=site%3Arapur.esmens.com/+88)|||||
+|[楽園](http://aroma-esthe.in.net/) <br />@JR上野駅入谷口|||||[1](https://www.google.com/search?q=site%3Aaroma-esthe.in.net/+85)|[4](https://www.google.com/search?q=site%3Aaroma-esthe.in.net/+86)|[1](https://www.google.com/search?q=site%3Aaroma-esthe.in.net/+87)||||||
+|[ラップサップ](http://www.night.ne.jp/tokyo/rapsap/) <br />@JR御徒町駅北口|||||||||||||
+|[アロマプルメリア](http://aroma-plumeria.work/) <br />@JR御徒町駅南口||||[1](https://www.google.com/search?q=site%3Aaroma-plumeria.work/+84)|[1](https://www.google.com/search?q=site%3Aaroma-plumeria.work/+85)||[4](https://www.google.com/search?q=site%3Aaroma-plumeria.work/+87)|[2](https://www.google.com/search?q=site%3Aaroma-plumeria.work/+88)|[2](https://www.google.com/search?q=site%3Aaroma-plumeria.work/+89)||||
+|[エントリー](http://es-hana.link/) <br />@JR御徒町駅南口|||||||||||||
+|[吉祥](http://kisyou.esjp.xyz/) <br />@浅草駅|||||||||||||
+|[FIRST LOVE](http://www.firstlove-relax.work) <br />@JR御徒町駅南口|||||[4](https://www.google.com/search?q=site%3Awww.firstlove-relax.work+85)|[3](https://www.google.com/search?q=site%3Awww.firstlove-relax.work+86)||[3](https://www.google.com/search?q=site%3Awww.firstlove-relax.work+88)|||||
+|[ANGEL BABY ～エンジェルベビー～](http://angelbaby.msa.jp/) <br />@上野駅4番出口|||||||||||||
+|[COCOMERO](https://momoka.tyo.cm/) <br />@JR御徒町駅北口|||||[2](https://www.google.com/search?q=site%3Amomoka.tyo.cm/+85)|[1](https://www.google.com/search?q=site%3Amomoka.tyo.cm/+86)|[1](https://www.google.com/search?q=site%3Amomoka.tyo.cm/+87)||||||
+|[台湾リゾート](http://taiwan-resort.com/) <br />@JR御徒町駅南口|||||||||||||
+|[アリラン](https://arirang.tyo.cm/) <br />@JR御徒町駅北口|||[6](https://www.google.com/search?q=site%3Aarirang.tyo.cm/+83)||[12](https://www.google.com/search?q=site%3Aarirang.tyo.cm/+85)|[6](https://www.google.com/search?q=site%3Aarirang.tyo.cm/+86)|[12](https://www.google.com/search?q=site%3Aarirang.tyo.cm/+87)||||||
 
 
 
