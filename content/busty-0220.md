@@ -1,5 +1,5 @@
 ---
-date: 2020-11-27
+date: 2020-11-28
 title: "練馬・下赤塚"
 cover: "https://unsplash.it/1152/300/?random?BirchintheRoses"
 categories:
@@ -139,7 +139,7 @@ description: "キーワード別チャイエス嬢情報"
 |[赤い花](http://www.akai-hana.esjp.info/) <br />@成増駅4番出口||
 |[夜のガーデン](http://koukoku.xyz/garden/) <br />@練馬駅||
 |[アロマプライド](https://aromapride.net/) <br />@練馬駅北口||
-|[バビ](http://giuytor.xyz/) <br />@練馬駅A1出口|[7](https://www.google.com/search?q=site%3Agiuytor.xyz/+乳)|
+|[バビ](http://giuytor.xyz/) <br />@練馬駅A1出口|[9](https://www.google.com/search?q=site%3Agiuytor.xyz/+乳)|
 |[癒しの部屋](http://www.seoul.esjp.info/) <br />@練馬駅西口||
 |[姫のゆびさき](http://nymphe-est.biz/) <br />@東武練馬駅北口||
 
