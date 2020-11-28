@@ -1,5 +1,5 @@
 ---
-date: 2020-11-27
+date: 2020-11-28
 title: "金町・亀有・北千住・竹ノ塚"
 cover: "https://unsplash.it/1152/300/?random?BirchintheRoses"
 categories:
@@ -48,13 +48,14 @@ description: "キーワード別チャイエス嬢情報"
 |[花](http://rakuen.ies.fun/) <br />@西新井駅西口|[5](https://www.google.com/search?q=site%3Arakuen.ies.fun/+C)|[15](https://www.google.com/search?q=site%3Arakuen.ies.fun/+D)|||||
 |[heart Peace ～ハートピース～](https://heart-peace.business.site/) <br />@綾瀬駅|||||||
 |[ゆりかご](http://www.yurikago-massage.work/) <br />@JR金町駅北口|[13](https://www.google.com/search?q=site%3Awww.yurikago-massage.work/+C)|[8](https://www.google.com/search?q=site%3Awww.yurikago-massage.work/+D)|[4](https://www.google.com/search?q=site%3Awww.yurikago-massage.work/+E)|[4](https://www.google.com/search?q=site%3Awww.yurikago-massage.work/+F)|||
+|[健欲](http://www.kenyoku.work/) <br />@JR金町駅北口|||||||
 |[やすらぎ](http://relax-esthe.tokyo/) <br />@梅島駅|||||||
 |[看護美人](http://www.kb.masg.info/) <br />@JR北千住駅||[14](https://www.google.com/search?q=site%3Awww.kb.masg.info/+D)|||||
 |[IRIS ～アイリス～](http://iris.este.work/) <br />@JR北千住駅東口|[6](https://www.google.com/search?q=site%3Airis.este.work/+C)|[9](https://www.google.com/search?q=site%3Airis.este.work/+D)|[7](https://www.google.com/search?q=site%3Airis.este.work/+E)||||
 |[Tulip～チューリップ](http://www.hi-msg.com/tulip/) <br />@JR南千住駅南口|||||||
 |[スイートハート](http://takamaru.xyz/) <br />@JR金町駅北口|[12](https://www.google.com/search?q=site%3Atakamaru.xyz/+C)||||||
 |[花の夢](http://www.hananoyume.esjp.info/) <br />@JR亀有駅南口||[5](https://www.google.com/search?q=site%3Awww.hananoyume.esjp.info/+D)|[1](https://www.google.com/search?q=site%3Awww.hananoyume.esjp.info/+E)||||
-|[麗](http://urara.tyo.cm/) <br />@JR金町駅北口||[63](https://www.google.com/search?q=site%3Aurara.tyo.cm/+D)|||||
+|[麗](http://urara.tyo.cm/) <br />@JR金町駅北口||[80](https://www.google.com/search?q=site%3Aurara.tyo.cm/+D)|||||
 |[Ashanti～アシャンティ～](http://bliss.iest.info/) <br />@JR亀有駅南口||[3](https://www.google.com/search?q=site%3Abliss.iest.info/+D)|[2](https://www.google.com/search?q=site%3Abliss.iest.info/+E)||[1](https://www.google.com/search?q=site%3Abliss.iest.info/+G)||
 |[春](http://www.ccgirl.work/) <br />@JR金町駅南口|||||||
 |[安娜・アンナ](https://anna.iest.info/) <br />@竹ノ塚駅東口|[46](https://www.google.com/search?q=site%3Aanna.iest.info/+C)|[71](https://www.google.com/search?q=site%3Aanna.iest.info/+D)|[23](https://www.google.com/search?q=site%3Aanna.iest.info/+E)||||
@@ -63,7 +64,7 @@ description: "キーワード別チャイエス嬢情報"
 |[Angela アンジェラ](http://angela.esjp.xyz/) <br />@綾瀬駅東口|||||||
 |[2020](http://www.night.ne.jp/tokyo/2020/) <br />@JR亀有駅北口|||||||
 |[Urara -うらら-](http://lemon.estx.net/) <br />@JR金町駅北口|[8](https://www.google.com/search?q=site%3Alemon.estx.net/+C)||||||
-|[癒しの海](http://www.iyashinoumi.esjp.info/) <br />@竹ノ塚駅西口|[1](https://www.google.com/search?q=site%3Awww.iyashinoumi.esjp.info/+C)|[2](https://www.google.com/search?q=site%3Awww.iyashinoumi.esjp.info/+D)|||||
+|[癒しの海](http://www.iyashinoumi.esjp.info/) <br />@竹ノ塚駅西口|[1](https://www.google.com/search?q=site%3Awww.iyashinoumi.esjp.info/+C)|[3](https://www.google.com/search?q=site%3Awww.iyashinoumi.esjp.info/+D)|||||
 
 
 
@@ -99,13 +100,14 @@ description: "キーワード別チャイエス嬢情報"
 |[花](http://rakuen.ies.fun/) <br />@西新井駅西口|||[10](https://www.google.com/search?q=site%3Arakuen.ies.fun/+83)||[5](https://www.google.com/search?q=site%3Arakuen.ies.fun/+85)|[5](https://www.google.com/search?q=site%3Arakuen.ies.fun/+86)||||||||||
 |[heart Peace ～ハートピース～](https://heart-peace.business.site/) <br />@綾瀬駅||||||||||||||||
 |[ゆりかご](http://www.yurikago-massage.work/) <br />@JR金町駅北口|||||[4](https://www.google.com/search?q=site%3Awww.yurikago-massage.work/+85)|[4](https://www.google.com/search?q=site%3Awww.yurikago-massage.work/+86)|[4](https://www.google.com/search?q=site%3Awww.yurikago-massage.work/+87)|[4](https://www.google.com/search?q=site%3Awww.yurikago-massage.work/+88)||||||||
+|[健欲](http://www.kenyoku.work/) <br />@JR金町駅北口||||||||||||||||
 |[やすらぎ](http://relax-esthe.tokyo/) <br />@梅島駅||||||||||||||||
 |[看護美人](http://www.kb.masg.info/) <br />@JR北千住駅||||||[2](https://www.google.com/search?q=site%3Awww.kb.masg.info/+86)|[10](https://www.google.com/search?q=site%3Awww.kb.masg.info/+87)|[1](https://www.google.com/search?q=site%3Awww.kb.masg.info/+88)||||||||
 |[IRIS ～アイリス～](http://iris.este.work/) <br />@JR北千住駅東口|||[3](https://www.google.com/search?q=site%3Airis.este.work/+83)|[1](https://www.google.com/search?q=site%3Airis.este.work/+84)|[1](https://www.google.com/search?q=site%3Airis.este.work/+85)|[1](https://www.google.com/search?q=site%3Airis.este.work/+86)|[5](https://www.google.com/search?q=site%3Airis.este.work/+87)|||||||||
 |[Tulip～チューリップ](http://www.hi-msg.com/tulip/) <br />@JR南千住駅南口||||||||||||||||
 |[スイートハート](http://takamaru.xyz/) <br />@JR金町駅北口||||||||||||||||
 |[花の夢](http://www.hananoyume.esjp.info/) <br />@JR亀有駅南口||||||[2](https://www.google.com/search?q=site%3Awww.hananoyume.esjp.info/+86)|[3](https://www.google.com/search?q=site%3Awww.hananoyume.esjp.info/+87)|[1](https://www.google.com/search?q=site%3Awww.hananoyume.esjp.info/+88)|[1](https://www.google.com/search?q=site%3Awww.hananoyume.esjp.info/+89)|||||||
-|[麗](http://urara.tyo.cm/) <br />@JR金町駅北口||||[9](https://www.google.com/search?q=site%3Aurara.tyo.cm/+84)|[18](https://www.google.com/search?q=site%3Aurara.tyo.cm/+85)|[36](https://www.google.com/search?q=site%3Aurara.tyo.cm/+86)||||||||||
+|[麗](http://urara.tyo.cm/) <br />@JR金町駅北口||||[10](https://www.google.com/search?q=site%3Aurara.tyo.cm/+84)|[30](https://www.google.com/search?q=site%3Aurara.tyo.cm/+85)|[40](https://www.google.com/search?q=site%3Aurara.tyo.cm/+86)||||||||||
 |[Ashanti～アシャンティ～](http://bliss.iest.info/) <br />@JR亀有駅南口||||||[2](https://www.google.com/search?q=site%3Abliss.iest.info/+86)|[3](https://www.google.com/search?q=site%3Abliss.iest.info/+87)|[1](https://www.google.com/search?q=site%3Abliss.iest.info/+88)||||||||
 |[春](http://www.ccgirl.work/) <br />@JR金町駅南口||||||||||||||||
 |[安娜・アンナ](https://anna.iest.info/) <br />@竹ノ塚駅東口|[23](https://www.google.com/search?q=site%3Aanna.iest.info/+80)||||[23](https://www.google.com/search?q=site%3Aanna.iest.info/+85)|[25](https://www.google.com/search?q=site%3Aanna.iest.info/+86)|[46](https://www.google.com/search?q=site%3Aanna.iest.info/+87)|[23](https://www.google.com/search?q=site%3Aanna.iest.info/+88)||||||||
@@ -114,7 +116,7 @@ description: "キーワード別チャイエス嬢情報"
 |[Angela アンジェラ](http://angela.esjp.xyz/) <br />@綾瀬駅東口||||||||||||||||
 |[2020](http://www.night.ne.jp/tokyo/2020/) <br />@JR亀有駅北口||||||||||||||||
 |[Urara -うらら-](http://lemon.estx.net/) <br />@JR金町駅北口||||||||||||||||
-|[癒しの海](http://www.iyashinoumi.esjp.info/) <br />@竹ノ塚駅西口||||||[2](https://www.google.com/search?q=site%3Awww.iyashinoumi.esjp.info/+86)|[1](https://www.google.com/search?q=site%3Awww.iyashinoumi.esjp.info/+87)|||||||||
+|[癒しの海](http://www.iyashinoumi.esjp.info/) <br />@竹ノ塚駅西口||||||[2](https://www.google.com/search?q=site%3Awww.iyashinoumi.esjp.info/+86)|[2](https://www.google.com/search?q=site%3Awww.iyashinoumi.esjp.info/+87)|||||||||
 
 
 
@@ -150,6 +152,7 @@ description: "キーワード別チャイエス嬢情報"
 |[花](http://rakuen.ies.fun/) <br />@西新井駅西口||
 |[heart Peace ～ハートピース～](https://heart-peace.business.site/) <br />@綾瀬駅||
 |[ゆりかご](http://www.yurikago-massage.work/) <br />@JR金町駅北口||
+|[健欲](http://www.kenyoku.work/) <br />@JR金町駅北口||
 |[やすらぎ](http://relax-esthe.tokyo/) <br />@梅島駅||
 |[看護美人](http://www.kb.masg.info/) <br />@JR北千住駅||
 |[IRIS ～アイリス～](http://iris.este.work/) <br />@JR北千住駅東口||
