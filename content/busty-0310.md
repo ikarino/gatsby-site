@@ -1,5 +1,5 @@
 ---
-date: 2020-11-28
+date: 2020-11-29
 title: "横浜・桜木町・関内・新横浜"
 cover: "https://unsplash.it/1152/300/?random?BirchintheRoses"
 categories:
@@ -25,7 +25,7 @@ description: "キーワード別チャイエス嬢情報"
 |:--|:---:|:---:|:---:|:---:|
 |[憩](http://ikoi2009.com/) <br />@JR東神奈川駅|[7](https://www.google.com/search?q=site%3Aikoi2009.com/+C)||||
 |[優雅～ゆうが～](http://yuga.estx.net/) <br />@JR中山駅|||||
-|[SRP](http://www.shine-es.info/) <br />@JR新横浜駅北口|[62](https://www.google.com/search?q=site%3Awww.shine-es.info/+C)|[39](https://www.google.com/search?q=site%3Awww.shine-es.info/+D)|[3](https://www.google.com/search?q=site%3Awww.shine-es.info/+E)||
+|[SRP](http://www.shine-es.info/) <br />@JR新横浜駅北口|[64](https://www.google.com/search?q=site%3Awww.shine-es.info/+C)|[34](https://www.google.com/search?q=site%3Awww.shine-es.info/+D)|[3](https://www.google.com/search?q=site%3Awww.shine-es.info/+E)||
 |[Rose Color～ローズカラー～](http://www.rose-color.info/) <br />@JR新横浜駅北口|[74](https://www.google.com/search?q=site%3Awww.rose-color.info/+C)|[28](https://www.google.com/search?q=site%3Awww.rose-color.info/+D)|[8](https://www.google.com/search?q=site%3Awww.rose-color.info/+E)|[4](https://www.google.com/search?q=site%3Awww.rose-color.info/+F)|
 |[花水木](http://est-hanamizuki.com/) <br />@JR東神奈川駅西口|||||
 |[Venus](http://es-kannai.link) <br />@JR関内駅南口|||||
@@ -74,7 +74,7 @@ description: "キーワード別チャイエス嬢情報"
 |[スパ](http://www.ipuyvyta.xyz/) <br />@JR東神奈川駅西口|[6](https://www.google.com/search?q=site%3Awww.ipuyvyta.xyz/+C)|[2](https://www.google.com/search?q=site%3Awww.ipuyvyta.xyz/+D)|||
 |[可愛い猫](https://neko.iest.info/) <br />@JR横浜駅西口|[8](https://www.google.com/search?q=site%3Aneko.iest.info/+C)|[40](https://www.google.com/search?q=site%3Aneko.iest.info/+D)|[8](https://www.google.com/search?q=site%3Aneko.iest.info/+E)||
 |[美少女](http://www.bishoujo.aromanv.com/) <br />@JR東神奈川駅西口|[24](https://www.google.com/search?q=site%3Awww.bishoujo.aromanv.com/+C)|[40](https://www.google.com/search?q=site%3Awww.bishoujo.aromanv.com/+D)|||
-|[Cute～キュート～](http://www.cute.iesjp.com/) <br />@JR新横浜駅||[48](https://www.google.com/search?q=site%3Awww.cute.iesjp.com/+D)|||
+|[Cute～キュート～](http://www.cute.iesjp.com/) <br />@JR新横浜駅|||||
 |[もしもしBaby](http://www.mosimosi.iesjp.com/) <br />@JR東神奈川駅西口|[1](https://www.google.com/search?q=site%3Awww.mosimosi.iesjp.com/+C)|[9](https://www.google.com/search?q=site%3Awww.mosimosi.iesjp.com/+D)|||
 |[天使学園](http://angels.estheya.com/) <br />@JR新横浜駅北口|||[1](https://www.google.com/search?q=site%3Aangels.estheya.com/+E)|[2](https://www.google.com/search?q=site%3Aangels.estheya.com/+F)|
 |[月夜](http://tsukiyo.me-es.com/) <br />@JR関内駅北口|[3](https://www.google.com/search?q=site%3Atsukiyo.me-es.com/+C)||||
@@ -97,7 +97,7 @@ description: "キーワード別チャイエス嬢情報"
 |:--|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |[憩](http://ikoi2009.com/) <br />@JR東神奈川駅|||||||||||||||||
 |[優雅～ゆうが～](http://yuga.estx.net/) <br />@JR中山駅|||||||||||||||||
-|[SRP](http://www.shine-es.info/) <br />@JR新横浜駅北口|||[12](https://www.google.com/search?q=site%3Awww.shine-es.info/+83)|[16](https://www.google.com/search?q=site%3Awww.shine-es.info/+84)|[33](https://www.google.com/search?q=site%3Awww.shine-es.info/+85)|[34](https://www.google.com/search?q=site%3Awww.shine-es.info/+86)|[12](https://www.google.com/search?q=site%3Awww.shine-es.info/+87)|[3](https://www.google.com/search?q=site%3Awww.shine-es.info/+88)|||||||||
+|[SRP](http://www.shine-es.info/) <br />@JR新横浜駅北口|||[13](https://www.google.com/search?q=site%3Awww.shine-es.info/+83)|[17](https://www.google.com/search?q=site%3Awww.shine-es.info/+84)|[31](https://www.google.com/search?q=site%3Awww.shine-es.info/+85)|[31](https://www.google.com/search?q=site%3Awww.shine-es.info/+86)|[12](https://www.google.com/search?q=site%3Awww.shine-es.info/+87)|[3](https://www.google.com/search?q=site%3Awww.shine-es.info/+88)|||||||||
 |[Rose Color～ローズカラー～](http://www.rose-color.info/) <br />@JR新横浜駅北口|||||[16](https://www.google.com/search?q=site%3Awww.rose-color.info/+85)|[46](https://www.google.com/search?q=site%3Awww.rose-color.info/+86)|[44](https://www.google.com/search?q=site%3Awww.rose-color.info/+87)|[4](https://www.google.com/search?q=site%3Awww.rose-color.info/+88)|[4](https://www.google.com/search?q=site%3Awww.rose-color.info/+89)||||||||
 |[花水木](http://est-hanamizuki.com/) <br />@JR東神奈川駅西口|||||||||||||||||
 |[Venus](http://es-kannai.link) <br />@JR関内駅南口|||||||||||||||||
@@ -146,7 +146,7 @@ description: "キーワード別チャイエス嬢情報"
 |[スパ](http://www.ipuyvyta.xyz/) <br />@JR東神奈川駅西口||[6](https://www.google.com/search?q=site%3Awww.ipuyvyta.xyz/+82)|||[1](https://www.google.com/search?q=site%3Awww.ipuyvyta.xyz/+85)|[1](https://www.google.com/search?q=site%3Awww.ipuyvyta.xyz/+86)|||||||||||
 |[可愛い猫](https://neko.iest.info/) <br />@JR横浜駅西口||||[8](https://www.google.com/search?q=site%3Aneko.iest.info/+84)|[40](https://www.google.com/search?q=site%3Aneko.iest.info/+85)||[8](https://www.google.com/search?q=site%3Aneko.iest.info/+87)||||||||||
 |[美少女](http://www.bishoujo.aromanv.com/) <br />@JR東神奈川駅西口|||||[16](https://www.google.com/search?q=site%3Awww.bishoujo.aromanv.com/+85)||[40](https://www.google.com/search?q=site%3Awww.bishoujo.aromanv.com/+87)|[8](https://www.google.com/search?q=site%3Awww.bishoujo.aromanv.com/+88)|||||||||
-|[Cute～キュート～](http://www.cute.iesjp.com/) <br />@JR新横浜駅||||||[6](https://www.google.com/search?q=site%3Awww.cute.iesjp.com/+86)|[30](https://www.google.com/search?q=site%3Awww.cute.iesjp.com/+87)|[12](https://www.google.com/search?q=site%3Awww.cute.iesjp.com/+88)|||||||||
+|[Cute～キュート～](http://www.cute.iesjp.com/) <br />@JR新横浜駅|||||||||||||||||
 |[もしもしBaby](http://www.mosimosi.iesjp.com/) <br />@JR東神奈川駅西口||||||[2](https://www.google.com/search?q=site%3Awww.mosimosi.iesjp.com/+86)|[7](https://www.google.com/search?q=site%3Awww.mosimosi.iesjp.com/+87)|[1](https://www.google.com/search?q=site%3Awww.mosimosi.iesjp.com/+88)|||||||||
 |[天使学園](http://angels.estheya.com/) <br />@JR新横浜駅北口||||||||||[2](https://www.google.com/search?q=site%3Aangels.estheya.com/+90)||[2](https://www.google.com/search?q=site%3Aangels.estheya.com/+95)|||||
 |[月夜](http://tsukiyo.me-es.com/) <br />@JR関内駅北口||||||||[2](https://www.google.com/search?q=site%3Atsukiyo.me-es.com/+88)|[2](https://www.google.com/search?q=site%3Atsukiyo.me-es.com/+89)||||||||
@@ -218,7 +218,7 @@ description: "キーワード別チャイエス嬢情報"
 |[スパ](http://www.ipuyvyta.xyz/) <br />@JR東神奈川駅西口||||
 |[可愛い猫](https://neko.iest.info/) <br />@JR横浜駅西口||||
 |[美少女](http://www.bishoujo.aromanv.com/) <br />@JR東神奈川駅西口||||
-|[Cute～キュート～](http://www.cute.iesjp.com/) <br />@JR新横浜駅||[1](https://www.google.com/search?q=site%3Awww.cute.iesjp.com/+乳)|[1](https://www.google.com/search?q=site%3Awww.cute.iesjp.com/+巨乳)|
+|[Cute～キュート～](http://www.cute.iesjp.com/) <br />@JR新横浜駅||||
 |[もしもしBaby](http://www.mosimosi.iesjp.com/) <br />@JR東神奈川駅西口||||
 |[天使学園](http://angels.estheya.com/) <br />@JR新横浜駅北口||||
 |[月夜](http://tsukiyo.me-es.com/) <br />@JR関内駅北口||||
