@@ -1,5 +1,5 @@
 ---
-date: 2020-11-28
+date: 2020-11-29
 title: "金町・亀有・北千住・竹ノ塚"
 cover: "https://unsplash.it/1152/300/?random?BirchintheRoses"
 categories:
@@ -88,7 +88,7 @@ description: "キーワード別チャイエス嬢情報"
 |[大家族](http://esthe-aroma.xyz/) <br />@竹ノ塚駅東口||||||[3](https://www.google.com/search?q=site%3Aesthe-aroma.xyz/+86)|[3](https://www.google.com/search?q=site%3Aesthe-aroma.xyz/+87)|||||||||
 |[Spring ～スプリング～](http://spring.est888.com/) <br />@JR金町駅北口||||[1](https://www.google.com/search?q=site%3Aspring.est888.com/+84)|[2](https://www.google.com/search?q=site%3Aspring.est888.com/+85)||||[1](https://www.google.com/search?q=site%3Aspring.est888.com/+89)|[5](https://www.google.com/search?q=site%3Aspring.est888.com/+90)|[1](https://www.google.com/search?q=site%3Aspring.est888.com/+91)|||||
 |[癒処-いやしどころ-](http://es-suien.com/) <br />@JR金町駅北口||||||||||||||||
-|[花の恋](http://bananokoi.ies.bz/) <br />@綾瀬駅東口||[136](https://www.google.com/search?q=site%3Abananokoi.ies.bz/+82)|[170](https://www.google.com/search?q=site%3Abananokoi.ies.bz/+83)||[272](https://www.google.com/search?q=site%3Abananokoi.ies.bz/+85)|[374](https://www.google.com/search?q=site%3Abananokoi.ies.bz/+86)|[170](https://www.google.com/search?q=site%3Abananokoi.ies.bz/+87)|||||||||
+|[花の恋](http://bananokoi.ies.bz/) <br />@綾瀬駅東口||[102](https://www.google.com/search?q=site%3Abananokoi.ies.bz/+82)|[204](https://www.google.com/search?q=site%3Abananokoi.ies.bz/+83)||[272](https://www.google.com/search?q=site%3Abananokoi.ies.bz/+85)|[374](https://www.google.com/search?q=site%3Abananokoi.ies.bz/+86)|[170](https://www.google.com/search?q=site%3Abananokoi.ies.bz/+87)|||||||||
 |[健楽堂](http://aes-mens.com/) <br />@JR北千住駅西口||||||||||||||||
 |[夢の家](http://kokoroan.jps.cm/) <br />@竹ノ塚駅東口|||[1](https://www.google.com/search?q=site%3Akokoroan.jps.cm/+83)|[1](https://www.google.com/search?q=site%3Akokoroan.jps.cm/+84)||[2](https://www.google.com/search?q=site%3Akokoroan.jps.cm/+86)||||||||||
 |[Angel](http://e-luxury.work/) <br />@綾瀬駅西口||||||||||||||||
