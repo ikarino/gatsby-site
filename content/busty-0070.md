@@ -1,5 +1,5 @@
 ---
-date: 2020-11-28
+date: 2020-11-29
 title: "上野・御徒町"
 cover: "https://unsplash.it/1152/300/?random?BirchintheRoses"
 categories:
@@ -129,7 +129,7 @@ description: "キーワード別チャイエス嬢情報"
 
 |店名|セクシー|乳|巨乳|
 |:--|:---:|:---:|:---:|
-|[藍～アイ～](http://www.a-side.com/o-ai/) <br />@JR御徒町駅南口||[3](https://www.google.com/search?q=site%3Awww.a-side.com/o-ai/+乳)|[3](https://www.google.com/search?q=site%3Awww.a-side.com/o-ai/+巨乳)|
+|[藍～アイ～](http://www.a-side.com/o-ai/) <br />@JR御徒町駅南口||[2](https://www.google.com/search?q=site%3Awww.a-side.com/o-ai/+乳)|[2](https://www.google.com/search?q=site%3Awww.a-side.com/o-ai/+巨乳)|
 |[癒し屋](https://u-este.com/) <br />@JR御徒町駅北口|[2](https://www.google.com/search?q=site%3Au-este.com/+セクシー)|||
 |[You and I*ユー＆アイ](http://for-you-ueno.com/) <br />@JR上野駅浅草口||||
 |[マーキュリーMERCURY](http://foryou-es.info/) <br />@JR御徒町駅南口||||
