@@ -1,5 +1,5 @@
 ---
-date: 2020-11-29
+date: 2020-11-30
 title: "千葉地区"
 cover: "https://unsplash.it/1152/300/?random?BirchintheRoses"
 categories:
@@ -93,7 +93,7 @@ description: "キーワード別チャイエス嬢情報"
 |[元気堂](http://genkidou-massage.work/) <br />@JR都賀駅西口|[13](https://www.google.com/search?q=site%3Agenkidou-massage.work/+C)|[4](https://www.google.com/search?q=site%3Agenkidou-massage.work/+D)|[2](https://www.google.com/search?q=site%3Agenkidou-massage.work/+E)|||
 |[虜美人～とりこびじん～](https://y-bijin.aoaoeo.com/) <br />@八千代台駅西口||[7](https://www.google.com/search?q=site%3Ay-bijin.aoaoeo.com/+D)|[8](https://www.google.com/search?q=site%3Ay-bijin.aoaoeo.com/+E)|||
 |[夢里 ～ゆめさと～](https://yumesato.relaxjp.com/) <br />@JR四街道駅北口|[1](https://www.google.com/search?q=site%3Ayumesato.relaxjp.com/+C)|[2](https://www.google.com/search?q=site%3Ayumesato.relaxjp.com/+D)|[3](https://www.google.com/search?q=site%3Ayumesato.relaxjp.com/+E)||[1](https://www.google.com/search?q=site%3Ayumesato.relaxjp.com/+G)|
-|[ルビー](http://estela-spa.ests.jp/) <br />@千葉中央駅西口|[22](https://www.google.com/search?q=site%3Aestela-spa.ests.jp/+C)|[6](https://www.google.com/search?q=site%3Aestela-spa.ests.jp/+D)||||
+|[ルビー](http://estela-spa.ests.jp/) <br />@千葉中央駅西口|[23](https://www.google.com/search?q=site%3Aestela-spa.ests.jp/+C)|[7](https://www.google.com/search?q=site%3Aestela-spa.ests.jp/+D)||||
 |[萌愛 -もえあい-](http://moeai.est888.com/) <br />@千葉中央駅東口||[2](https://www.google.com/search?q=site%3Amoeai.est888.com/+D)|[5](https://www.google.com/search?q=site%3Amoeai.est888.com/+E)|||
 |[For You フォーユー](http://foryou.este.work/) <br />@成田駅西口|[14](https://www.google.com/search?q=site%3Aforyou.este.work/+C)|[14](https://www.google.com/search?q=site%3Aforyou.este.work/+D)||||
 |[天使の森](https://tenshinomori.xyz.mn/) <br />@JR津田沼駅北口|[26](https://www.google.com/search?q=site%3Atenshinomori.xyz.mn/+C)|[22](https://www.google.com/search?q=site%3Atenshinomori.xyz.mn/+D)|[27](https://www.google.com/search?q=site%3Atenshinomori.xyz.mn/+E)|[24](https://www.google.com/search?q=site%3Atenshinomori.xyz.mn/+F)||
@@ -201,7 +201,7 @@ description: "キーワード別チャイエス嬢情報"
 |[元気堂](http://genkidou-massage.work/) <br />@JR都賀駅西口||||||[1](https://www.google.com/search?q=site%3Agenkidou-massage.work/+84)|[3](https://www.google.com/search?q=site%3Agenkidou-massage.work/+85)|[2](https://www.google.com/search?q=site%3Agenkidou-massage.work/+86)||[2](https://www.google.com/search?q=site%3Agenkidou-massage.work/+88)|||||||
 |[虜美人～とりこびじん～](https://y-bijin.aoaoeo.com/) <br />@八千代台駅西口|||||||||||||||||
 |[夢里 ～ゆめさと～](https://yumesato.relaxjp.com/) <br />@JR四街道駅北口||||||||[5](https://www.google.com/search?q=site%3Ayumesato.relaxjp.com/+86)|||[1](https://www.google.com/search?q=site%3Ayumesato.relaxjp.com/+89)||||[1](https://www.google.com/search?q=site%3Ayumesato.relaxjp.com/+93)||
-|[ルビー](http://estela-spa.ests.jp/) <br />@千葉中央駅西口||||[1](https://www.google.com/search?q=site%3Aestela-spa.ests.jp/+82)|||[1](https://www.google.com/search?q=site%3Aestela-spa.ests.jp/+85)|[3](https://www.google.com/search?q=site%3Aestela-spa.ests.jp/+86)|[1](https://www.google.com/search?q=site%3Aestela-spa.ests.jp/+87)||||||||
+|[ルビー](http://estela-spa.ests.jp/) <br />@千葉中央駅西口||||[1](https://www.google.com/search?q=site%3Aestela-spa.ests.jp/+82)|||[1](https://www.google.com/search?q=site%3Aestela-spa.ests.jp/+85)|[4](https://www.google.com/search?q=site%3Aestela-spa.ests.jp/+86)|[1](https://www.google.com/search?q=site%3Aestela-spa.ests.jp/+87)||||||||
 |[萌愛 -もえあい-](http://moeai.est888.com/) <br />@千葉中央駅東口|||||||||||[2](https://www.google.com/search?q=site%3Amoeai.est888.com/+89)|[4](https://www.google.com/search?q=site%3Amoeai.est888.com/+90)||[1](https://www.google.com/search?q=site%3Amoeai.est888.com/+92)|||
 |[For You フォーユー](http://foryou.este.work/) <br />@成田駅西口|||||[14](https://www.google.com/search?q=site%3Aforyou.este.work/+83)||[7](https://www.google.com/search?q=site%3Aforyou.este.work/+85)||||||||||
 |[天使の森](https://tenshinomori.xyz.mn/) <br />@JR津田沼駅北口||||||[18](https://www.google.com/search?q=site%3Atenshinomori.xyz.mn/+84)|[9](https://www.google.com/search?q=site%3Atenshinomori.xyz.mn/+85)||[18](https://www.google.com/search?q=site%3Atenshinomori.xyz.mn/+87)|[27](https://www.google.com/search?q=site%3Atenshinomori.xyz.mn/+88)|||||||
