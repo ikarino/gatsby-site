@@ -1,5 +1,5 @@
 ---
-date: 2020-11-30
+date: 2020-12-01
 title: "神奈川地区"
 cover: "https://unsplash.it/1152/300/?random?BirchintheRoses"
 categories:
@@ -24,7 +24,7 @@ description: "キーワード別チャイエス嬢情報"
 |店名|C|D|E|F|G|
 |:--|:---:|:---:|:---:|:---:|:---:|
 |[リラクゼーション妹](http://www.imouto-esute2866.com/) <br />@JR平塚駅北口|[7](https://www.google.com/search?q=site%3Awww.imouto-esute2866.com/+C)|||||
-|[yuyu-ゆうゆ-](https://www.aroma-relax.com/kamiooka/) <br />@上大岡駅||||||
+|[yuyu-ゆうゆ-](https://www.aroma-relax.com/kamiooka/) <br />@上大岡駅|[6](https://www.google.com/search?q=site%3Awww.aroma-relax.com/kamiooka/+C)|||||
 |[椿](http://o-jp.com/tsubaki/) <br />@JR平塚駅西口|[6](https://www.google.com/search?q=site%3Ao-jp.com/tsubaki/+C)|||||
 |[Fairy Ark](http://www.relax-fairyark.info/) <br />@JR藤沢駅南口||[6](https://www.google.com/search?q=site%3Awww.relax-fairyark.info/+D)|[4](https://www.google.com/search?q=site%3Awww.relax-fairyark.info/+E)|||
 |[癒心園](http://yushinen.info/) <br />@JR藤沢駅南口||||||
@@ -61,10 +61,11 @@ description: "キーワード別チャイエス嬢情報"
 |[リブレス](http://es-libres.com/) <br />@JR東戸塚駅西口|[1](https://www.google.com/search?q=site%3Aes-libres.com/+C)|[2](https://www.google.com/search?q=site%3Aes-libres.com/+D)|[1](https://www.google.com/search?q=site%3Aes-libres.com/+E)|||
 |[元気モリモリ](http://www.genkimori.esjp.info/) <br />@JR戸塚駅|[1](https://www.google.com/search?q=site%3Awww.genkimori.esjp.info/+C)|[4](https://www.google.com/search?q=site%3Awww.genkimori.esjp.info/+D)||||
 |[猫娘](http://www.nekomusume.masg.info/) <br />@JR藤沢駅南口|[8](https://www.google.com/search?q=site%3Awww.nekomusume.masg.info/+C)|[40](https://www.google.com/search?q=site%3Awww.nekomusume.masg.info/+D)||||
-|[夢都美](http://www.airi-est.xyz/) <br />@JR小田原駅東口|[10](https://www.google.com/search?q=site%3Awww.airi-est.xyz/+C)|||||
+|[夢都美](http://www.airi-est.xyz/) <br />@JR小田原駅東口|[9](https://www.google.com/search?q=site%3Awww.airi-est.xyz/+C)|||||
 |[魔法の女王](http://civebt.xyz/) <br />@湘南台駅西口|||[8](https://www.google.com/search?q=site%3Acivebt.xyz/+E)||[4](https://www.google.com/search?q=site%3Acivebt.xyz/+G)|
 |[元気もりもり](http://genkimorimori.ies.bz/) <br />@秦野駅北口||||||
 |[桜](http://www.sakura.iesjp.com/) <br />@JR東戸塚駅東口|[10](https://www.google.com/search?q=site%3Awww.sakura.iesjp.com/+C)|||||
+|[Best Love ～ベストラブ～](http://www.bestlove.iesjp.com/) <br />@JR平塚駅北口|[21](https://www.google.com/search?q=site%3Awww.bestlove.iesjp.com/+C)|[4](https://www.google.com/search?q=site%3Awww.bestlove.iesjp.com/+D)||||
 
 
 
@@ -117,6 +118,7 @@ description: "キーワード別チャイエス嬢情報"
 |[魔法の女王](http://civebt.xyz/) <br />@湘南台駅西口|||||||||
 |[元気もりもり](http://genkimorimori.ies.bz/) <br />@秦野駅北口|||||||||
 |[桜](http://www.sakura.iesjp.com/) <br />@JR東戸塚駅東口|||||||||
+|[Best Love ～ベストラブ～](http://www.bestlove.iesjp.com/) <br />@JR平塚駅北口||[4](https://www.google.com/search?q=site%3Awww.bestlove.iesjp.com/+85)||[8](https://www.google.com/search?q=site%3Awww.bestlove.iesjp.com/+87)|||||
 
 
 
@@ -169,4 +171,5 @@ description: "キーワード別チャイエス嬢情報"
 |[魔法の女王](http://civebt.xyz/) <br />@湘南台駅西口|
 |[元気もりもり](http://genkimorimori.ies.bz/) <br />@秦野駅北口|
 |[桜](http://www.sakura.iesjp.com/) <br />@JR東戸塚駅東口|
+|[Best Love ～ベストラブ～](http://www.bestlove.iesjp.com/) <br />@JR平塚駅北口|
 
