@@ -1,5 +1,5 @@
 ---
-date: 2020-12-01
+date: 2020-12-02
 title: "金町・亀有・北千住・竹ノ塚"
 cover: "https://unsplash.it/1152/300/?random?BirchintheRoses"
 categories:
@@ -24,7 +24,6 @@ description: "キーワード別チャイエス嬢情報"
 |店名|C|D|E|F|G|H|
 |:--|:---:|:---:|:---:|:---:|:---:|:---:|
 |[人魚姫](http://ningyo-hime.com/) <br />@綾瀬駅東口|[1](https://www.google.com/search?q=site%3Aningyo-hime.com/+C)|[5](https://www.google.com/search?q=site%3Aningyo-hime.com/+D)|||||
-|[桜](https://besteste.com/) <br />@JR亀有駅北口|[1](https://www.google.com/search?q=site%3Abesteste.com/+C)|[1](https://www.google.com/search?q=site%3Abesteste.com/+D)|[1](https://www.google.com/search?q=site%3Abesteste.com/+E)||||
 |[泉・いずみ](https://moon-love.info/) <br />@北千住駅東口||[1](https://www.google.com/search?q=site%3Amoon-love.info/+D)|[2](https://www.google.com/search?q=site%3Amoon-love.info/+E)||||
 |[雅](http://esthe-massage.pink/) <br />@JR金町駅北口||[9](https://www.google.com/search?q=site%3Aesthe-massage.pink/+D)|||||
 |[BODY RESORT](http://massage-esthe.red/) <br />@JR亀有駅北口|[2](https://www.google.com/search?q=site%3Amassage-esthe.red/+C)|[20](https://www.google.com/search?q=site%3Amassage-esthe.red/+D)|||||
@@ -37,14 +36,14 @@ description: "キーワード別チャイエス嬢情報"
 |[Spring ～スプリング～](http://spring.est888.com/) <br />@JR金町駅北口|[3](https://www.google.com/search?q=site%3Aspring.est888.com/+C)|[3](https://www.google.com/search?q=site%3Aspring.est888.com/+D)|[1](https://www.google.com/search?q=site%3Aspring.est888.com/+E)||||
 |[癒処-いやしどころ-](http://es-suien.com/) <br />@JR金町駅北口|||||||
 |[花の恋](http://bananokoi.ies.bz/) <br />@綾瀬駅東口|[483](https://www.google.com/search?q=site%3Abananokoi.ies.bz/+C)|[544](https://www.google.com/search?q=site%3Abananokoi.ies.bz/+D)|[136](https://www.google.com/search?q=site%3Abananokoi.ies.bz/+E)||||
-|[健楽堂](http://aes-mens.com/) <br />@JR北千住駅西口|[14](https://www.google.com/search?q=site%3Aaes-mens.com/+C)||||||
 |[夢の家](http://kokoroan.jps.cm/) <br />@竹ノ塚駅東口|[13](https://www.google.com/search?q=site%3Akokoroan.jps.cm/+C)|[2](https://www.google.com/search?q=site%3Akokoroan.jps.cm/+D)|||||
 |[Angel](http://e-luxury.work/) <br />@綾瀬駅西口|||||||
+|[桜](https://besteste.com/) <br />@JR亀有駅北口|[1](https://www.google.com/search?q=site%3Abesteste.com/+C)|[1](https://www.google.com/search?q=site%3Abesteste.com/+D)|[1](https://www.google.com/search?q=site%3Abesteste.com/+E)||||
 |[Spring-スプリング-](http://spring02.est888.com/) <br />@綾瀬駅西口|[4](https://www.google.com/search?q=site%3Aspring02.est888.com/+C)||[2](https://www.google.com/search?q=site%3Aspring02.est888.com/+E)||[1](https://www.google.com/search?q=site%3Aspring02.est888.com/+G)||
 |[Sakura](http://esthe-aroma.biz/) <br />@JR金町駅北口||[16](https://www.google.com/search?q=site%3Aesthe-aroma.biz/+D)|||||
 |[花屋](http://h-rlx.xyz/) <br />@JR亀有駅北口|||||||
 |[Plaisir・プレジール](http://bright.xyz.mn/) <br />@JR亀有駅南口||[62](https://www.google.com/search?q=site%3Abright.xyz.mn/+D)|[84](https://www.google.com/search?q=site%3Abright.xyz.mn/+E)|[22](https://www.google.com/search?q=site%3Abright.xyz.mn/+F)|[20](https://www.google.com/search?q=site%3Abright.xyz.mn/+G)|[22](https://www.google.com/search?q=site%3Abright.xyz.mn/+H)|
-|[満足度666](http://manzoku666.ests.jp/) <br />@JR亀有駅北口|[151](https://www.google.com/search?q=site%3Amanzoku666.ests.jp/+C)|[464](https://www.google.com/search?q=site%3Amanzoku666.ests.jp/+D)|[203](https://www.google.com/search?q=site%3Amanzoku666.ests.jp/+E)|[29](https://www.google.com/search?q=site%3Amanzoku666.ests.jp/+F)|||
+|[満足度666](http://manzoku666.ests.jp/) <br />@JR亀有駅北口|[156](https://www.google.com/search?q=site%3Amanzoku666.ests.jp/+C)|[510](https://www.google.com/search?q=site%3Amanzoku666.ests.jp/+D)|[210](https://www.google.com/search?q=site%3Amanzoku666.ests.jp/+E)|[30](https://www.google.com/search?q=site%3Amanzoku666.ests.jp/+F)|||
 |[花](http://rakuen.ies.fun/) <br />@西新井駅西口|[5](https://www.google.com/search?q=site%3Arakuen.ies.fun/+C)|[15](https://www.google.com/search?q=site%3Arakuen.ies.fun/+D)|||||
 |[heart Peace ～ハートピース～](https://heart-peace.business.site/) <br />@綾瀬駅|||||||
 |[ゆりかご](http://www.yurikago-massage.work/) <br />@JR金町駅北口|[13](https://www.google.com/search?q=site%3Awww.yurikago-massage.work/+C)|[8](https://www.google.com/search?q=site%3Awww.yurikago-massage.work/+D)|[4](https://www.google.com/search?q=site%3Awww.yurikago-massage.work/+E)|[4](https://www.google.com/search?q=site%3Awww.yurikago-massage.work/+F)|||
@@ -65,6 +64,7 @@ description: "キーワード別チャイエス嬢情報"
 |[2020](http://www.night.ne.jp/tokyo/2020/) <br />@JR亀有駅北口|||||||
 |[Urara -うらら-](http://lemon.estx.net/) <br />@JR金町駅北口|[8](https://www.google.com/search?q=site%3Alemon.estx.net/+C)||||||
 |[癒しの海](http://www.iyashinoumi.esjp.info/) <br />@竹ノ塚駅西口|[1](https://www.google.com/search?q=site%3Awww.iyashinoumi.esjp.info/+C)|[3](https://www.google.com/search?q=site%3Awww.iyashinoumi.esjp.info/+D)|||||
+|[LUCK](http://lucky.weblog.tc/) <br />@綾瀬駅東口|[8](https://www.google.com/search?q=site%3Alucky.weblog.tc/+C)|[3](https://www.google.com/search?q=site%3Alucky.weblog.tc/+D)|||||
 
 
 
@@ -76,7 +76,6 @@ description: "キーワード別チャイエス嬢情報"
 |店名|80|82|83|84|85|86|87|88|89|90|91|92|93|94|95|
 |:--|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |[人魚姫](http://ningyo-hime.com/) <br />@綾瀬駅東口||||[1](https://www.google.com/search?q=site%3Aningyo-hime.com/+84)||||||||||||
-|[桜](https://besteste.com/) <br />@JR亀有駅北口|||||[2](https://www.google.com/search?q=site%3Abesteste.com/+85)|[1](https://www.google.com/search?q=site%3Abesteste.com/+86)||||||||||
 |[泉・いずみ](https://moon-love.info/) <br />@北千住駅東口||||||||||||||||
 |[雅](http://esthe-massage.pink/) <br />@JR金町駅北口||||||||||||||||
 |[BODY RESORT](http://massage-esthe.red/) <br />@JR亀有駅北口||||||[32](https://www.google.com/search?q=site%3Amassage-esthe.red/+86)||||||||||
@@ -89,14 +88,14 @@ description: "キーワード別チャイエス嬢情報"
 |[Spring ～スプリング～](http://spring.est888.com/) <br />@JR金町駅北口||||[1](https://www.google.com/search?q=site%3Aspring.est888.com/+84)|[2](https://www.google.com/search?q=site%3Aspring.est888.com/+85)||||[1](https://www.google.com/search?q=site%3Aspring.est888.com/+89)|[5](https://www.google.com/search?q=site%3Aspring.est888.com/+90)|[1](https://www.google.com/search?q=site%3Aspring.est888.com/+91)|||||
 |[癒処-いやしどころ-](http://es-suien.com/) <br />@JR金町駅北口||||||||||||||||
 |[花の恋](http://bananokoi.ies.bz/) <br />@綾瀬駅東口||[102](https://www.google.com/search?q=site%3Abananokoi.ies.bz/+82)|[204](https://www.google.com/search?q=site%3Abananokoi.ies.bz/+83)||[272](https://www.google.com/search?q=site%3Abananokoi.ies.bz/+85)|[374](https://www.google.com/search?q=site%3Abananokoi.ies.bz/+86)|[170](https://www.google.com/search?q=site%3Abananokoi.ies.bz/+87)|||||||||
-|[健楽堂](http://aes-mens.com/) <br />@JR北千住駅西口||||||||||||||||
 |[夢の家](http://kokoroan.jps.cm/) <br />@竹ノ塚駅東口|||[1](https://www.google.com/search?q=site%3Akokoroan.jps.cm/+83)|[1](https://www.google.com/search?q=site%3Akokoroan.jps.cm/+84)||[2](https://www.google.com/search?q=site%3Akokoroan.jps.cm/+86)||||||||||
 |[Angel](http://e-luxury.work/) <br />@綾瀬駅西口||||||||||||||||
+|[桜](https://besteste.com/) <br />@JR亀有駅北口|||||[2](https://www.google.com/search?q=site%3Abesteste.com/+85)|[1](https://www.google.com/search?q=site%3Abesteste.com/+86)||||||||||
 |[Spring-スプリング-](http://spring02.est888.com/) <br />@綾瀬駅西口||||[1](https://www.google.com/search?q=site%3Aspring02.est888.com/+84)|[3](https://www.google.com/search?q=site%3Aspring02.est888.com/+85)||||[1](https://www.google.com/search?q=site%3Aspring02.est888.com/+89)|[3](https://www.google.com/search?q=site%3Aspring02.est888.com/+90)|[1](https://www.google.com/search?q=site%3Aspring02.est888.com/+91)|||||
 |[Sakura](http://esthe-aroma.biz/) <br />@JR金町駅北口||||||[14](https://www.google.com/search?q=site%3Aesthe-aroma.biz/+86)||[2](https://www.google.com/search?q=site%3Aesthe-aroma.biz/+88)||||||||
 |[花屋](http://h-rlx.xyz/) <br />@JR亀有駅北口||||||||||||||||
 |[Plaisir・プレジール](http://bright.xyz.mn/) <br />@JR亀有駅南口|||||[20](https://www.google.com/search?q=site%3Abright.xyz.mn/+85)|[40](https://www.google.com/search?q=site%3Abright.xyz.mn/+86)|[40](https://www.google.com/search?q=site%3Abright.xyz.mn/+87)|[40](https://www.google.com/search?q=site%3Abright.xyz.mn/+88)|[40](https://www.google.com/search?q=site%3Abright.xyz.mn/+89)|||[20](https://www.google.com/search?q=site%3Abright.xyz.mn/+92)||||
-|[満足度666](http://manzoku666.ests.jp/) <br />@JR亀有駅北口|||[87](https://www.google.com/search?q=site%3Amanzoku666.ests.jp/+83)|[29](https://www.google.com/search?q=site%3Amanzoku666.ests.jp/+84)|[174](https://www.google.com/search?q=site%3Amanzoku666.ests.jp/+85)|[174](https://www.google.com/search?q=site%3Amanzoku666.ests.jp/+86)|[145](https://www.google.com/search?q=site%3Amanzoku666.ests.jp/+87)|[203](https://www.google.com/search?q=site%3Amanzoku666.ests.jp/+88)||||||||
+|[満足度666](http://manzoku666.ests.jp/) <br />@JR亀有駅北口|||[90](https://www.google.com/search?q=site%3Amanzoku666.ests.jp/+83)|[30](https://www.google.com/search?q=site%3Amanzoku666.ests.jp/+84)|[180](https://www.google.com/search?q=site%3Amanzoku666.ests.jp/+85)|[180](https://www.google.com/search?q=site%3Amanzoku666.ests.jp/+86)|[180](https://www.google.com/search?q=site%3Amanzoku666.ests.jp/+87)|[210](https://www.google.com/search?q=site%3Amanzoku666.ests.jp/+88)||||||||
 |[花](http://rakuen.ies.fun/) <br />@西新井駅西口|||[10](https://www.google.com/search?q=site%3Arakuen.ies.fun/+83)||[5](https://www.google.com/search?q=site%3Arakuen.ies.fun/+85)|[5](https://www.google.com/search?q=site%3Arakuen.ies.fun/+86)||||||||||
 |[heart Peace ～ハートピース～](https://heart-peace.business.site/) <br />@綾瀬駅||||||||||||||||
 |[ゆりかご](http://www.yurikago-massage.work/) <br />@JR金町駅北口|||||[4](https://www.google.com/search?q=site%3Awww.yurikago-massage.work/+85)|[4](https://www.google.com/search?q=site%3Awww.yurikago-massage.work/+86)|[4](https://www.google.com/search?q=site%3Awww.yurikago-massage.work/+87)|[4](https://www.google.com/search?q=site%3Awww.yurikago-massage.work/+88)||||||||
@@ -117,6 +116,7 @@ description: "キーワード別チャイエス嬢情報"
 |[2020](http://www.night.ne.jp/tokyo/2020/) <br />@JR亀有駅北口||||||||||||||||
 |[Urara -うらら-](http://lemon.estx.net/) <br />@JR金町駅北口||||||||||||||||
 |[癒しの海](http://www.iyashinoumi.esjp.info/) <br />@竹ノ塚駅西口||||||[2](https://www.google.com/search?q=site%3Awww.iyashinoumi.esjp.info/+86)|[2](https://www.google.com/search?q=site%3Awww.iyashinoumi.esjp.info/+87)|||||||||
+|[LUCK](http://lucky.weblog.tc/) <br />@綾瀬駅東口|||[6](https://www.google.com/search?q=site%3Alucky.weblog.tc/+83)|[2](https://www.google.com/search?q=site%3Alucky.weblog.tc/+84)||[2](https://www.google.com/search?q=site%3Alucky.weblog.tc/+86)|[3](https://www.google.com/search?q=site%3Alucky.weblog.tc/+87)|[2](https://www.google.com/search?q=site%3Alucky.weblog.tc/+88)||[7](https://www.google.com/search?q=site%3Alucky.weblog.tc/+90)||||||
 
 
 
@@ -128,7 +128,6 @@ description: "キーワード別チャイエス嬢情報"
 |店名|セクシー|
 |:--|:---:|
 |[人魚姫](http://ningyo-hime.com/) <br />@綾瀬駅東口||
-|[桜](https://besteste.com/) <br />@JR亀有駅北口||
 |[泉・いずみ](https://moon-love.info/) <br />@北千住駅東口||
 |[雅](http://esthe-massage.pink/) <br />@JR金町駅北口||
 |[BODY RESORT](http://massage-esthe.red/) <br />@JR亀有駅北口||
@@ -141,9 +140,9 @@ description: "キーワード別チャイエス嬢情報"
 |[Spring ～スプリング～](http://spring.est888.com/) <br />@JR金町駅北口||
 |[癒処-いやしどころ-](http://es-suien.com/) <br />@JR金町駅北口||
 |[花の恋](http://bananokoi.ies.bz/) <br />@綾瀬駅東口||
-|[健楽堂](http://aes-mens.com/) <br />@JR北千住駅西口||
 |[夢の家](http://kokoroan.jps.cm/) <br />@竹ノ塚駅東口||
 |[Angel](http://e-luxury.work/) <br />@綾瀬駅西口||
+|[桜](https://besteste.com/) <br />@JR亀有駅北口||
 |[Spring-スプリング-](http://spring02.est888.com/) <br />@綾瀬駅西口||
 |[Sakura](http://esthe-aroma.biz/) <br />@JR金町駅北口||
 |[花屋](http://h-rlx.xyz/) <br />@JR亀有駅北口||
@@ -169,4 +168,5 @@ description: "キーワード別チャイエス嬢情報"
 |[2020](http://www.night.ne.jp/tokyo/2020/) <br />@JR亀有駅北口||
 |[Urara -うらら-](http://lemon.estx.net/) <br />@JR金町駅北口||
 |[癒しの海](http://www.iyashinoumi.esjp.info/) <br />@竹ノ塚駅西口||
+|[LUCK](http://lucky.weblog.tc/) <br />@綾瀬駅東口||
 
