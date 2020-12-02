@@ -1,5 +1,5 @@
 ---
-date: 2020-12-01
+date: 2020-12-02
 title: "門前仲町・東陽町・葛西・南行徳"
 cover: "https://unsplash.it/1152/300/?random?BirchintheRoses"
 categories:
@@ -48,21 +48,18 @@ description: "キーワード別チャイエス嬢情報"
 |[海の愛](http://www.uminoai.esjp.info/) <br />@葛西駅北口|[12](https://www.google.com/search?q=site%3Awww.uminoai.esjp.info/+C)|[4](https://www.google.com/search?q=site%3Awww.uminoai.esjp.info/+D)|[6](https://www.google.com/search?q=site%3Awww.uminoai.esjp.info/+E)|[2](https://www.google.com/search?q=site%3Awww.uminoai.esjp.info/+F)|[4](https://www.google.com/search?q=site%3Awww.uminoai.esjp.info/+G)||
 |[Luna](http://k-rlx.com/) <br />@葛西駅博物館口|[33](https://www.google.com/search?q=site%3Ak-rlx.com/+C)|[16](https://www.google.com/search?q=site%3Ak-rlx.com/+D)|||||
 |[レモン](http://lemon-relax.work/) <br />@西葛西駅南口|[15](https://www.google.com/search?q=site%3Alemon-relax.work/+C)|[12](https://www.google.com/search?q=site%3Alemon-relax.work/+D)|[8](https://www.google.com/search?q=site%3Alemon-relax.work/+E)||[2](https://www.google.com/search?q=site%3Alemon-relax.work/+G)|[1](https://www.google.com/search?q=site%3Alemon-relax.work/+J)|
-|[薫り](http://flower-esthe.tokyo/) <br />@行徳駅南口|[1](https://www.google.com/search?q=site%3Aflower-esthe.tokyo/+C)|[10](https://www.google.com/search?q=site%3Aflower-esthe.tokyo/+D)|[1](https://www.google.com/search?q=site%3Aflower-esthe.tokyo/+E)||||
 |[行徳学園](http://gakuen.xyz.mn/) <br />@行徳駅南口||[2](https://www.google.com/search?q=site%3Agakuen.xyz.mn/+D)|[12](https://www.google.com/search?q=site%3Agakuen.xyz.mn/+E)|[2](https://www.google.com/search?q=site%3Agakuen.xyz.mn/+F)|[4](https://www.google.com/search?q=site%3Agakuen.xyz.mn/+G)||
-|[スイートハート](http://k-este.info/) <br />@西葛西駅北口|[12](https://www.google.com/search?q=site%3Ak-este.info/+C)|[45](https://www.google.com/search?q=site%3Ak-este.info/+D)|[20](https://www.google.com/search?q=site%3Ak-este.info/+E)|[4](https://www.google.com/search?q=site%3Ak-este.info/+F)|[2](https://www.google.com/search?q=site%3Ak-este.info/+G)||
+|[スイートハート](http://k-este.info/) <br />@西葛西駅北口|[12](https://www.google.com/search?q=site%3Ak-este.info/+C)|[44](https://www.google.com/search?q=site%3Ak-este.info/+D)|[20](https://www.google.com/search?q=site%3Ak-este.info/+E)|[4](https://www.google.com/search?q=site%3Ak-este.info/+F)|[2](https://www.google.com/search?q=site%3Ak-este.info/+G)||
 |[Angel Islands](http://blue-est.xyz/) <br />@行徳駅|[7](https://www.google.com/search?q=site%3Ablue-est.xyz/+C)||[1](https://www.google.com/search?q=site%3Ablue-est.xyz/+E)||||
 |[momiyoshi](http://www.momiyoshi.mesthe.com/) <br />@門前仲町駅6番出口|[12](https://www.google.com/search?q=site%3Awww.momiyoshi.mesthe.com/+C)|[24](https://www.google.com/search?q=site%3Awww.momiyoshi.mesthe.com/+D)|||||
 |[美](http://hi-msg.com/mi/) <br />@行徳駅|||||||
 |[ソフトな空間](http://soft-room.work/) <br />@木場駅2番出口|||||||
-|[蓮花](http://n-sakura.work/) <br />@行徳駅北口|||||||
 |[SANAND・サナンド](http://sanand.xyz.mn/) <br />@行徳駅南口|[74](https://www.google.com/search?q=site%3Asanand.xyz.mn/+C)|[516](https://www.google.com/search?q=site%3Asanand.xyz.mn/+D)|[86](https://www.google.com/search?q=site%3Asanand.xyz.mn/+E)||||
 |[ピーチガール](http://www.yorokobi.xyz/) <br />@行徳駅|[15](https://www.google.com/search?q=site%3Awww.yorokobi.xyz/+C)||||||
-|[Aries アリエス](http://es-chinese.info/) <br />@行徳駅北口|||[7](https://www.google.com/search?q=site%3Aes-chinese.info/+E)|[53](https://www.google.com/search?q=site%3Aes-chinese.info/+F)|[1](https://www.google.com/search?q=site%3Aes-chinese.info/+G)||
+|[Aries アリエス](http://es-chinese.info/) <br />@行徳駅北口|||[7](https://www.google.com/search?q=site%3Aes-chinese.info/+E)|[55](https://www.google.com/search?q=site%3Aes-chinese.info/+F)|[1](https://www.google.com/search?q=site%3Aes-chinese.info/+G)||
 |[blue](http://e-rlx.com/) <br />@西葛西駅北口|||||||
-|[オリビア](http://rinpa-shop.info/) <br />@門前仲町駅2番出口|[2](https://www.google.com/search?q=site%3Arinpa-shop.info/+C)|[6](https://www.google.com/search?q=site%3Arinpa-shop.info/+D)|[2](https://www.google.com/search?q=site%3Arinpa-shop.info/+E)||||
 |[オリオン](http://www.es-orion.click/) <br />@門前仲町駅5番出口|||||||
-|[Lucky](http://rlx-aroma.com/) <br />@門前仲町駅2番出口|[28](https://www.google.com/search?q=site%3Arlx-aroma.com/+C)||||||
+|[Lucky](http://rlx-aroma.com/) <br />@門前仲町駅2番出口|[29](https://www.google.com/search?q=site%3Arlx-aroma.com/+C)||||||
 |[温もり](http://www.nuku-mori.xyz/) <br />@東陽町駅1番出口|[6](https://www.google.com/search?q=site%3Awww.nuku-mori.xyz/+C)||||||
 |[千愛](http://chie.esnavi.work/) <br />@門前仲町駅|[1](https://www.google.com/search?q=site%3Achie.esnavi.work/+C)|[2](https://www.google.com/search?q=site%3Achie.esnavi.work/+D)|[1](https://www.google.com/search?q=site%3Achie.esnavi.work/+E)||||
 |[Star メンズエステ](http://www.star-esthe.com/) <br />@門前仲町駅4番口|[4](https://www.google.com/search?q=site%3Awww.star-esthe.com/+C)||||[4](https://www.google.com/search?q=site%3Awww.star-esthe.com/+G)||
@@ -70,15 +67,14 @@ description: "キーワード別チャイエス嬢情報"
 |[恋の花](http://koinohana.msa.jp/) <br />@西葛西駅北口|||||||
 |[Love Baby](https://love-baby.iest.info/) <br />@行徳駅南口||[24](https://www.google.com/search?q=site%3Alove-baby.iest.info/+D)|[8](https://www.google.com/search?q=site%3Alove-baby.iest.info/+E)||||
 |[You And Me](http://youandme.jpest.net/) <br />@門前仲町駅2番出口|||||||
+|[やすらぎ](http://akien.work/) <br />@船堀駅北口|||||||
 |[夜来香](http://www.yeraisha.esjp.info/) <br />@門前仲町駅1番出口|[4](https://www.google.com/search?q=site%3Awww.yeraisha.esjp.info/+C)|[12](https://www.google.com/search?q=site%3Awww.yeraisha.esjp.info/+D)|||||
-|[ミセスアロマ](http://www.sh-spaposyon.xyz/) <br />@門前仲町駅1番出口|||||||
 |[花海](http://ran.xyz.mn/) <br />@葛西駅西口||[120](https://www.google.com/search?q=site%3Aran.xyz.mn/+D)|[12](https://www.google.com/search?q=site%3Aran.xyz.mn/+E)||||
 |[Best Love](http://www.bestlove.esjp.info/) <br />@門前仲町駅4番口|[2](https://www.google.com/search?q=site%3Awww.bestlove.esjp.info/+C)|[6](https://www.google.com/search?q=site%3Awww.bestlove.esjp.info/+D)|||||
 |[SexyGirl～セクシーガール～](http://www.kawaii.relaxjp.info/) <br />@西葛西駅北口|||||||
 |[Angel](http://g-rlx.info/) <br />@葛西駅博物館口|||||||
 |[美少女看護ステーション](http://beautygirls-station.work/) <br />@門前仲町駅3番出口|[12](https://www.google.com/search?q=site%3Abeautygirls-station.work/+C)|[2](https://www.google.com/search?q=site%3Abeautygirls-station.work/+D)|[2](https://www.google.com/search?q=site%3Abeautygirls-station.work/+E)||||
 |[PRO ～プロ～](http://pro-menzesthe.com/) <br />@門前仲町駅4番出口|||||||
-|[アリラクシェル](http://arelaxchel.este.work/) <br />@浦安駅|[3](https://www.google.com/search?q=site%3Aarelaxchel.este.work/+C)|[9](https://www.google.com/search?q=site%3Aarelaxchel.este.work/+D)|[3](https://www.google.com/search?q=site%3Aarelaxchel.este.work/+E)||||
 |[いちご](http://www.lover.iesjp.com/) <br />@門前仲町駅6番出口|[6](https://www.google.com/search?q=site%3Awww.lover.iesjp.com/+C)|[18](https://www.google.com/search?q=site%3Awww.lover.iesjp.com/+D)|||||
 |[sweet honey](http://massage-sweethoney.info/) <br />@門前仲町駅6番出口|||||||
 |[美人魚](http://ichigo.xyz.mn/) <br />@西葛西駅北口|[10](https://www.google.com/search?q=site%3Aichigo.xyz.mn/+C)|[8](https://www.google.com/search?q=site%3Aichigo.xyz.mn/+D)|[4](https://www.google.com/search?q=site%3Aichigo.xyz.mn/+E)||||
@@ -90,6 +86,7 @@ description: "キーワード別チャイエス嬢情報"
 |[ANGEL BEAUTY](http://angelbeauty.iest.jp/) <br />@門前仲町駅1番口|||||||
 |[蝶恋](https://chokoi.tyo.cm/) <br />@木場駅4b出口|[27](https://www.google.com/search?q=site%3Achokoi.tyo.cm/+C)|[21](https://www.google.com/search?q=site%3Achokoi.tyo.cm/+D)||[7](https://www.google.com/search?q=site%3Achokoi.tyo.cm/+F)|||
 |[ルージュ](https://esrouge.com/) <br />@西葛西駅北口|[2](https://www.google.com/search?q=site%3Aesrouge.com/+C)|[14](https://www.google.com/search?q=site%3Aesrouge.com/+D)|||||
+|[Pinkie ～ピンキー～](http://aphrodite-est.xyz/) <br />@行徳駅南口|[2](https://www.google.com/search?q=site%3Aaphrodite-est.xyz/+C)|[4](https://www.google.com/search?q=site%3Aaphrodite-est.xyz/+D)|[3](https://www.google.com/search?q=site%3Aaphrodite-est.xyz/+E)||||
 
 
 
@@ -125,19 +122,16 @@ description: "キーワード別チャイエス嬢情報"
 |[海の愛](http://www.uminoai.esjp.info/) <br />@葛西駅北口||||[2](https://www.google.com/search?q=site%3Awww.uminoai.esjp.info/+84)|[8](https://www.google.com/search?q=site%3Awww.uminoai.esjp.info/+85)|[2](https://www.google.com/search?q=site%3Awww.uminoai.esjp.info/+86)|[2](https://www.google.com/search?q=site%3Awww.uminoai.esjp.info/+87)||[8](https://www.google.com/search?q=site%3Awww.uminoai.esjp.info/+89)|[2](https://www.google.com/search?q=site%3Awww.uminoai.esjp.info/+90)|[2](https://www.google.com/search?q=site%3Awww.uminoai.esjp.info/+91)|||
 |[Luna](http://k-rlx.com/) <br />@葛西駅博物館口||||||[42](https://www.google.com/search?q=site%3Ak-rlx.com/+86)||[7](https://www.google.com/search?q=site%3Ak-rlx.com/+88)||||||
 |[レモン](http://lemon-relax.work/) <br />@西葛西駅南口|[1](https://www.google.com/search?q=site%3Alemon-relax.work/+100)||[3](https://www.google.com/search?q=site%3Alemon-relax.work/+83)|[21](https://www.google.com/search?q=site%3Alemon-relax.work/+84)|[2](https://www.google.com/search?q=site%3Alemon-relax.work/+85)||[1](https://www.google.com/search?q=site%3Alemon-relax.work/+87)|[8](https://www.google.com/search?q=site%3Alemon-relax.work/+88)|[2](https://www.google.com/search?q=site%3Alemon-relax.work/+89)|[3](https://www.google.com/search?q=site%3Alemon-relax.work/+90)||||
-|[薫り](http://flower-esthe.tokyo/) <br />@行徳駅南口||||||[12](https://www.google.com/search?q=site%3Aflower-esthe.tokyo/+86)||||||||
 |[行徳学園](http://gakuen.xyz.mn/) <br />@行徳駅南口||||||||||||||
 |[スイートハート](http://k-este.info/) <br />@西葛西駅北口||||||||||||||
 |[Angel Islands](http://blue-est.xyz/) <br />@行徳駅|||||[1](https://www.google.com/search?q=site%3Ablue-est.xyz/+85)|||||||||
 |[momiyoshi](http://www.momiyoshi.mesthe.com/) <br />@門前仲町駅6番出口|||||[8](https://www.google.com/search?q=site%3Awww.momiyoshi.mesthe.com/+85)|[12](https://www.google.com/search?q=site%3Awww.momiyoshi.mesthe.com/+86)|[16](https://www.google.com/search?q=site%3Awww.momiyoshi.mesthe.com/+87)|||||||
 |[美](http://hi-msg.com/mi/) <br />@行徳駅||||||||||||||
 |[ソフトな空間](http://soft-room.work/) <br />@木場駅2番出口||||||||||||||
-|[蓮花](http://n-sakura.work/) <br />@行徳駅北口||||||||||||||
 |[SANAND・サナンド](http://sanand.xyz.mn/) <br />@行徳駅南口||[43](https://www.google.com/search?q=site%3Asanand.xyz.mn/+82)|[129](https://www.google.com/search?q=site%3Asanand.xyz.mn/+83)|[43](https://www.google.com/search?q=site%3Asanand.xyz.mn/+84)|[258](https://www.google.com/search?q=site%3Asanand.xyz.mn/+85)|[86](https://www.google.com/search?q=site%3Asanand.xyz.mn/+86)||[43](https://www.google.com/search?q=site%3Asanand.xyz.mn/+88)||[43](https://www.google.com/search?q=site%3Asanand.xyz.mn/+90)||||
 |[ピーチガール](http://www.yorokobi.xyz/) <br />@行徳駅||||||||||||||
 |[Aries アリエス](http://es-chinese.info/) <br />@行徳駅北口||||||||||||||
 |[blue](http://e-rlx.com/) <br />@西葛西駅北口||||||||||||||
-|[オリビア](http://rinpa-shop.info/) <br />@門前仲町駅2番出口||||||||||||||
 |[オリオン](http://www.es-orion.click/) <br />@門前仲町駅5番出口||||||||||||||
 |[Lucky](http://rlx-aroma.com/) <br />@門前仲町駅2番出口||||||||||||||
 |[温もり](http://www.nuku-mori.xyz/) <br />@東陽町駅1番出口||||||||||||||
@@ -147,15 +141,14 @@ description: "キーワード別チャイエス嬢情報"
 |[恋の花](http://koinohana.msa.jp/) <br />@西葛西駅北口||||||||||||||
 |[Love Baby](https://love-baby.iest.info/) <br />@行徳駅南口|||[4](https://www.google.com/search?q=site%3Alove-baby.iest.info/+83)||[4](https://www.google.com/search?q=site%3Alove-baby.iest.info/+85)|[4](https://www.google.com/search?q=site%3Alove-baby.iest.info/+86)|[16](https://www.google.com/search?q=site%3Alove-baby.iest.info/+87)|[4](https://www.google.com/search?q=site%3Alove-baby.iest.info/+88)||||||
 |[You And Me](http://youandme.jpest.net/) <br />@門前仲町駅2番出口||||||||||||||
+|[やすらぎ](http://akien.work/) <br />@船堀駅北口||||||||||||||
 |[夜来香](http://www.yeraisha.esjp.info/) <br />@門前仲町駅1番出口||||||[10](https://www.google.com/search?q=site%3Awww.yeraisha.esjp.info/+86)|[6](https://www.google.com/search?q=site%3Awww.yeraisha.esjp.info/+87)|[2](https://www.google.com/search?q=site%3Awww.yeraisha.esjp.info/+88)||||||
-|[ミセスアロマ](http://www.sh-spaposyon.xyz/) <br />@門前仲町駅1番出口||||||||||||||
 |[花海](http://ran.xyz.mn/) <br />@葛西駅西口|||||[36](https://www.google.com/search?q=site%3Aran.xyz.mn/+85)|[48](https://www.google.com/search?q=site%3Aran.xyz.mn/+86)|[48](https://www.google.com/search?q=site%3Aran.xyz.mn/+87)|||||||
 |[Best Love](http://www.bestlove.esjp.info/) <br />@門前仲町駅4番口||||||[2](https://www.google.com/search?q=site%3Awww.bestlove.esjp.info/+86)|[4](https://www.google.com/search?q=site%3Awww.bestlove.esjp.info/+87)|[2](https://www.google.com/search?q=site%3Awww.bestlove.esjp.info/+88)||||||
 |[SexyGirl～セクシーガール～](http://www.kawaii.relaxjp.info/) <br />@西葛西駅北口||||||||||||||
 |[Angel](http://g-rlx.info/) <br />@葛西駅博物館口||||||||||||||
 |[美少女看護ステーション](http://beautygirls-station.work/) <br />@門前仲町駅3番出口|||||[2](https://www.google.com/search?q=site%3Abeautygirls-station.work/+85)|[2](https://www.google.com/search?q=site%3Abeautygirls-station.work/+86)|[2](https://www.google.com/search?q=site%3Abeautygirls-station.work/+87)|||||||
 |[PRO ～プロ～](http://pro-menzesthe.com/) <br />@門前仲町駅4番出口||||||||||||||
-|[アリラクシェル](http://arelaxchel.este.work/) <br />@浦安駅|||||[3](https://www.google.com/search?q=site%3Aarelaxchel.este.work/+85)|[12](https://www.google.com/search?q=site%3Aarelaxchel.este.work/+86)||||||||
 |[いちご](http://www.lover.iesjp.com/) <br />@門前仲町駅6番出口||||||[6](https://www.google.com/search?q=site%3Awww.lover.iesjp.com/+86)|[18](https://www.google.com/search?q=site%3Awww.lover.iesjp.com/+87)|||||||
 |[sweet honey](http://massage-sweethoney.info/) <br />@門前仲町駅6番出口||||||[6](https://www.google.com/search?q=site%3Amassage-sweethoney.info/+86)|[6](https://www.google.com/search?q=site%3Amassage-sweethoney.info/+87)|[3](https://www.google.com/search?q=site%3Amassage-sweethoney.info/+88)||||||
 |[美人魚](http://ichigo.xyz.mn/) <br />@西葛西駅北口|||[4](https://www.google.com/search?q=site%3Aichigo.xyz.mn/+83)|||[4](https://www.google.com/search?q=site%3Aichigo.xyz.mn/+86)|[4](https://www.google.com/search?q=site%3Aichigo.xyz.mn/+87)|||||||
@@ -167,6 +160,7 @@ description: "キーワード別チャイエス嬢情報"
 |[ANGEL BEAUTY](http://angelbeauty.iest.jp/) <br />@門前仲町駅1番口||||||||||||||
 |[蝶恋](https://chokoi.tyo.cm/) <br />@木場駅4b出口|||[7](https://www.google.com/search?q=site%3Achokoi.tyo.cm/+83)||[21](https://www.google.com/search?q=site%3Achokoi.tyo.cm/+85)|[7](https://www.google.com/search?q=site%3Achokoi.tyo.cm/+86)||[7](https://www.google.com/search?q=site%3Achokoi.tyo.cm/+88)||||||
 |[ルージュ](https://esrouge.com/) <br />@西葛西駅北口|||||||||[4](https://www.google.com/search?q=site%3Aesrouge.com/+89)|||||
+|[Pinkie ～ピンキー～](http://aphrodite-est.xyz/) <br />@行徳駅南口|||||[2](https://www.google.com/search?q=site%3Aaphrodite-est.xyz/+85)|[7](https://www.google.com/search?q=site%3Aaphrodite-est.xyz/+86)||||||||
 
 
 
@@ -202,19 +196,16 @@ description: "キーワード別チャイエス嬢情報"
 |[海の愛](http://www.uminoai.esjp.info/) <br />@葛西駅北口|||||
 |[Luna](http://k-rlx.com/) <br />@葛西駅博物館口|||||
 |[レモン](http://lemon-relax.work/) <br />@西葛西駅南口|||||
-|[薫り](http://flower-esthe.tokyo/) <br />@行徳駅南口|||||
 |[行徳学園](http://gakuen.xyz.mn/) <br />@行徳駅南口|||||
 |[スイートハート](http://k-este.info/) <br />@西葛西駅北口||||[1](https://www.google.com/search?q=site%3Ak-este.info/+胸)|
 |[Angel Islands](http://blue-est.xyz/) <br />@行徳駅|||||
 |[momiyoshi](http://www.momiyoshi.mesthe.com/) <br />@門前仲町駅6番出口|||||
 |[美](http://hi-msg.com/mi/) <br />@行徳駅|||||
 |[ソフトな空間](http://soft-room.work/) <br />@木場駅2番出口|||||
-|[蓮花](http://n-sakura.work/) <br />@行徳駅北口|||||
 |[SANAND・サナンド](http://sanand.xyz.mn/) <br />@行徳駅南口|||||
 |[ピーチガール](http://www.yorokobi.xyz/) <br />@行徳駅|||||
-|[Aries アリエス](http://es-chinese.info/) <br />@行徳駅北口|[46](https://www.google.com/search?q=site%3Aes-chinese.info/+セクシー)||||
+|[Aries アリエス](http://es-chinese.info/) <br />@行徳駅北口|[45](https://www.google.com/search?q=site%3Aes-chinese.info/+セクシー)||||
 |[blue](http://e-rlx.com/) <br />@西葛西駅北口|||||
-|[オリビア](http://rinpa-shop.info/) <br />@門前仲町駅2番出口|||||
 |[オリオン](http://www.es-orion.click/) <br />@門前仲町駅5番出口|||||
 |[Lucky](http://rlx-aroma.com/) <br />@門前仲町駅2番出口|||||
 |[温もり](http://www.nuku-mori.xyz/) <br />@東陽町駅1番出口|||||
@@ -224,15 +215,14 @@ description: "キーワード別チャイエス嬢情報"
 |[恋の花](http://koinohana.msa.jp/) <br />@西葛西駅北口|||||
 |[Love Baby](https://love-baby.iest.info/) <br />@行徳駅南口|||||
 |[You And Me](http://youandme.jpest.net/) <br />@門前仲町駅2番出口|||||
+|[やすらぎ](http://akien.work/) <br />@船堀駅北口|||||
 |[夜来香](http://www.yeraisha.esjp.info/) <br />@門前仲町駅1番出口|||||
-|[ミセスアロマ](http://www.sh-spaposyon.xyz/) <br />@門前仲町駅1番出口|||||
 |[花海](http://ran.xyz.mn/) <br />@葛西駅西口|||||
 |[Best Love](http://www.bestlove.esjp.info/) <br />@門前仲町駅4番口|||||
 |[SexyGirl～セクシーガール～](http://www.kawaii.relaxjp.info/) <br />@西葛西駅北口|[15](https://www.google.com/search?q=site%3Awww.kawaii.relaxjp.info/+セクシー)||||
 |[Angel](http://g-rlx.info/) <br />@葛西駅博物館口|||||
 |[美少女看護ステーション](http://beautygirls-station.work/) <br />@門前仲町駅3番出口|||||
 |[PRO ～プロ～](http://pro-menzesthe.com/) <br />@門前仲町駅4番出口|||||
-|[アリラクシェル](http://arelaxchel.este.work/) <br />@浦安駅|||||
 |[いちご](http://www.lover.iesjp.com/) <br />@門前仲町駅6番出口|||||
 |[sweet honey](http://massage-sweethoney.info/) <br />@門前仲町駅6番出口|||||
 |[美人魚](http://ichigo.xyz.mn/) <br />@西葛西駅北口|||||
@@ -244,4 +234,5 @@ description: "キーワード別チャイエス嬢情報"
 |[ANGEL BEAUTY](http://angelbeauty.iest.jp/) <br />@門前仲町駅1番口|||||
 |[蝶恋](https://chokoi.tyo.cm/) <br />@木場駅4b出口|||||
 |[ルージュ](https://esrouge.com/) <br />@西葛西駅北口|||||
+|[Pinkie ～ピンキー～](http://aphrodite-est.xyz/) <br />@行徳駅南口|||||
 
