@@ -1,5 +1,5 @@
 ---
-date: 2020-12-02
+date: 2020-12-03
 title: "町田・相模原・厚木・大和"
 cover: "https://unsplash.it/1152/300/?random?BirchintheRoses"
 categories:
@@ -97,8 +97,8 @@ description: "キーワード別チャイエス嬢情報"
 |[Merci ～メルシー～](http://merci-massage.work/) <br />@本厚木駅南口|[10](https://www.google.com/search?q=site%3Amerci-massage.work/+C)||||||
 |[百合](http://www.yuri.esjoho.com/) <br />@町田駅北口||[4](https://www.google.com/search?q=site%3Awww.yuri.esjoho.com/+D)|[2](https://www.google.com/search?q=site%3Awww.yuri.esjoho.com/+E)|[2](https://www.google.com/search?q=site%3Awww.yuri.esjoho.com/+F)|||
 |[茉莉花](http://melpomene-est.com/) <br />@本厚木駅北口||[3](https://www.google.com/search?q=site%3Amelpomene-est.com/+D)|[2](https://www.google.com/search?q=site%3Amelpomene-est.com/+E)||||
-|[Latis ラティス](https://latis.ests.jp/) <br />@JR相模原駅南口|[19](https://www.google.com/search?q=site%3Alatis.ests.jp/+C)||||||
-|[さくらんぼ](http://loveliness-est.com/) <br />@本厚木駅南口||[9](https://www.google.com/search?q=site%3Aloveliness-est.com/+D)|[9](https://www.google.com/search?q=site%3Aloveliness-est.com/+E)||||
+|[Latis ラティス](https://latis.ests.jp/) <br />@JR相模原駅南口|[18](https://www.google.com/search?q=site%3Alatis.ests.jp/+C)||||||
+|[さくらんぼ](http://loveliness-est.com/) <br />@本厚木駅南口|||||||
 |[チャーミング](http://msg-aroma.com/) <br />@本厚木駅北口|[14](https://www.google.com/search?q=site%3Amsg-aroma.com/+C)||||||
 |[Kawaii恋人](http://www.kawaii.maesjp.com/) <br />@JR相模原駅南口|||||||
 |[オーシャン](http://koukoku.xyz/ocean/) <br />@中央林間駅北口|||||||
@@ -148,7 +148,7 @@ description: "キーワード別チャイエス嬢情報"
 |[縁](http://www.m-en.work/) <br />@町田駅東口|||||||||||||||
 |[麗](http://e-rei.info/) <br />@大和駅北口||||[8](https://www.google.com/search?q=site%3Ae-rei.info/+84)||||[8](https://www.google.com/search?q=site%3Ae-rei.info/+88)|||||||
 |[癒しの泉](http://o-jp.com/yizumi/) <br />@JR町田駅北口|||||||||||||||
-|[人魚](http://roman-es.info/) <br />@大和駅|||||[1](https://www.google.com/search?q=site%3Aroman-es.info/+85)||||||||||
+|[人魚](http://roman-es.info/) <br />@大和駅|||||||||||||||
 |[らくらく](http://www.smile-es.info/) <br />@大和駅南口||||[1](https://www.google.com/search?q=site%3Awww.smile-es.info/+84)||[1](https://www.google.com/search?q=site%3Awww.smile-es.info/+86)|[1](https://www.google.com/search?q=site%3Awww.smile-es.info/+87)|[1](https://www.google.com/search?q=site%3Awww.smile-es.info/+88)|||||||
 |[ふわふわ](http://www.relax-fuwafuwa.cn/) <br />@小田急相模原駅南口|||||||||[1](https://www.google.com/search?q=site%3Awww.relax-fuwafuwa.cn/+89)||||[1](https://www.google.com/search?q=site%3Awww.relax-fuwafuwa.cn/+94)|[1](https://www.google.com/search?q=site%3Awww.relax-fuwafuwa.cn/+95)|
 |[MINA](http://es-mina.com/) <br />@町田駅東口|||||||||||||||
@@ -194,7 +194,7 @@ description: "キーワード別チャイエス嬢情報"
 |[37℃](http://sweety-est.net/) <br />@JR町田駅南口|||||||||||||||
 |[Angel ～天使～](http://tenshi.est888.com/) <br />@JR相模原駅南口||||||[1](https://www.google.com/search?q=site%3Atenshi.est888.com/+86)|[1](https://www.google.com/search?q=site%3Atenshi.est888.com/+87)||[2](https://www.google.com/search?q=site%3Atenshi.est888.com/+89)|[1](https://www.google.com/search?q=site%3Atenshi.est888.com/+90)|[2](https://www.google.com/search?q=site%3Atenshi.est888.com/+91)|[2](https://www.google.com/search?q=site%3Atenshi.est888.com/+92)|||
 |[ベビー](http://www.baby.esjp.info/) <br />@相模大野駅南口||||||[4](https://www.google.com/search?q=site%3Awww.baby.esjp.info/+86)|[4](https://www.google.com/search?q=site%3Awww.baby.esjp.info/+87)||[1](https://www.google.com/search?q=site%3Awww.baby.esjp.info/+89)|[1](https://www.google.com/search?q=site%3Awww.baby.esjp.info/+90)|||||
-|[さくら](http://sakura.fan.bz/) <br />@相模大野駅南口|||[4](https://www.google.com/search?q=site%3Asakura.fan.bz/+83)|[4](https://www.google.com/search?q=site%3Asakura.fan.bz/+84)||[10](https://www.google.com/search?q=site%3Asakura.fan.bz/+86)|||||||||
+|[さくら](http://sakura.fan.bz/) <br />@相模大野駅南口|||[4](https://www.google.com/search?q=site%3Asakura.fan.bz/+83)|[4](https://www.google.com/search?q=site%3Asakura.fan.bz/+84)|[2](https://www.google.com/search?q=site%3Asakura.fan.bz/+85)|[10](https://www.google.com/search?q=site%3Asakura.fan.bz/+86)|||||||||
 |[Madonna](http://www.talkabout.tokyo/) <br />@相模大野駅北口|||||||||||||[12](https://www.google.com/search?q=site%3Awww.talkabout.tokyo/+94)||
 |[薔薇園](http://es-flower.work/) <br />@大和駅北口|||||||||||||||
 |[魔法学院](http://www.yume.esjp.info/) <br />@中央林間駅小田急南口|||||||[10](https://www.google.com/search?q=site%3Awww.yume.esjp.info/+87)||||||||
@@ -217,8 +217,8 @@ description: "キーワード別チャイエス嬢情報"
 |[Merci ～メルシー～](http://merci-massage.work/) <br />@本厚木駅南口||||||[3](https://www.google.com/search?q=site%3Amerci-massage.work/+86)|[3](https://www.google.com/search?q=site%3Amerci-massage.work/+87)||||[3](https://www.google.com/search?q=site%3Amerci-massage.work/+91)||||
 |[百合](http://www.yuri.esjoho.com/) <br />@町田駅北口|||||||[4](https://www.google.com/search?q=site%3Awww.yuri.esjoho.com/+87)|[2](https://www.google.com/search?q=site%3Awww.yuri.esjoho.com/+88)|[2](https://www.google.com/search?q=site%3Awww.yuri.esjoho.com/+89)||||||
 |[茉莉花](http://melpomene-est.com/) <br />@本厚木駅北口||||||[5](https://www.google.com/search?q=site%3Amelpomene-est.com/+86)|||||||||
-|[Latis ラティス](https://latis.ests.jp/) <br />@JR相模原駅南口||||||[32](https://www.google.com/search?q=site%3Alatis.ests.jp/+86)|||||||||
-|[さくらんぼ](http://loveliness-est.com/) <br />@本厚木駅南口||||||[15](https://www.google.com/search?q=site%3Aloveliness-est.com/+86)|[3](https://www.google.com/search?q=site%3Aloveliness-est.com/+87)||||||||
+|[Latis ラティス](https://latis.ests.jp/) <br />@JR相模原駅南口||||||[30](https://www.google.com/search?q=site%3Alatis.ests.jp/+86)|||||||||
+|[さくらんぼ](http://loveliness-est.com/) <br />@本厚木駅南口|||||||||||||||
 |[チャーミング](http://msg-aroma.com/) <br />@本厚木駅北口|||||||||||||||
 |[Kawaii恋人](http://www.kawaii.maesjp.com/) <br />@JR相模原駅南口|||||||||||||||
 |[オーシャン](http://koukoku.xyz/ocean/) <br />@中央林間駅北口|||||||||||||||
