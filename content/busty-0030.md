@@ -1,5 +1,5 @@
 ---
-date: 2020-12-03
+date: 2020-12-06
 title: "池袋"
 cover: "https://unsplash.it/1152/300/?random?BirchintheRoses"
 categories:
@@ -25,12 +25,12 @@ description: "キーワード別チャイエス嬢情報"
 |:--|:---:|:---:|:---:|:---:|:---:|
 |[シャーロット姫](http://www.i-rlx.info/) <br />@JR池袋駅西口(北)|[19](https://www.google.com/search?q=site%3Awww.i-rlx.info/+C)|[4](https://www.google.com/search?q=site%3Awww.i-rlx.info/+D)|[1](https://www.google.com/search?q=site%3Awww.i-rlx.info/+E)|||
 |[New RELAX TIME](https://www.relax-es.net/) <br />@JR池袋駅西口(北)||||||
-|[AromaAngels～池袋アロマエンジェルズ～](https://www.aroma-angels.net/) <br />@JR池袋駅西口|[76](https://www.google.com/search?q=site%3Awww.aroma-angels.net/+C)|[29](https://www.google.com/search?q=site%3Awww.aroma-angels.net/+D)|[2](https://www.google.com/search?q=site%3Awww.aroma-angels.net/+E)|||
+|[AromaAngels～池袋アロマエンジェルズ～](https://www.aroma-angels.net/) <br />@JR池袋駅西口|[75](https://www.google.com/search?q=site%3Awww.aroma-angels.net/+C)|[29](https://www.google.com/search?q=site%3Awww.aroma-angels.net/+D)|[2](https://www.google.com/search?q=site%3Awww.aroma-angels.net/+E)|||
 |[恋](http://koi.este.work/) <br />@JR池袋駅西口|[12](https://www.google.com/search?q=site%3Akoi.este.work/+C)|[18](https://www.google.com/search?q=site%3Akoi.este.work/+D)||||
 |[CoCo8 ココエイト](http://www.coco-8.jp/) <br />@JR池袋駅西口||||||
 |[月の恋](http://tsukinokoi.com/) <br />@JR池袋駅西口||||||
 |[心パラダイス](http://new-paradise.net/) <br />@JR池袋駅西口||||||
-|[ハニービー](http://honeybee2.com/) <br />@JR池袋駅西口(北)|[304](https://www.google.com/search?q=site%3Ahoneybee2.com/+C)|[315](https://www.google.com/search?q=site%3Ahoneybee2.com/+D)||[54](https://www.google.com/search?q=site%3Ahoneybee2.com/+G)||
+|[ハニービー](http://honeybee2.com/) <br />@JR池袋駅西口(北)|[346](https://www.google.com/search?q=site%3Ahoneybee2.com/+C)|[311](https://www.google.com/search?q=site%3Ahoneybee2.com/+D)||[55](https://www.google.com/search?q=site%3Ahoneybee2.com/+G)||
 |[満足堂](http://es-manzokudou.com/) <br />@JR池袋駅東口|[10](https://www.google.com/search?q=site%3Aes-manzokudou.com/+C)|[7](https://www.google.com/search?q=site%3Aes-manzokudou.com/+D)||||
 |[MONA・LIZA モナ・リザ](http://monaliza.xyz/) <br />@JR池袋駅西口|[8](https://www.google.com/search?q=site%3Amonaliza.xyz/+C)|||||
 |[台湾幸運リラクゼーション](http://esthe-treat.com/) <br />@JR池袋駅西口||||||
@@ -61,8 +61,8 @@ description: "キーワード別チャイエス嬢情報"
 |[恋](http://koi.este.work/) <br />@JR池袋駅西口||||[18](https://www.google.com/search?q=site%3Akoi.este.work/+83)||[6](https://www.google.com/search?q=site%3Akoi.este.work/+85)|[6](https://www.google.com/search?q=site%3Akoi.este.work/+86)|||||||
 |[CoCo8 ココエイト](http://www.coco-8.jp/) <br />@JR池袋駅西口|||||||[2](https://www.google.com/search?q=site%3Awww.coco-8.jp/+86)||[1](https://www.google.com/search?q=site%3Awww.coco-8.jp/+88)||[1](https://www.google.com/search?q=site%3Awww.coco-8.jp/+90)|||
 |[月の恋](http://tsukinokoi.com/) <br />@JR池袋駅西口||||||||||||||
-|[心パラダイス](http://new-paradise.net/) <br />@JR池袋駅西口||||||[1](https://www.google.com/search?q=site%3Anew-paradise.net/+85)|[3](https://www.google.com/search?q=site%3Anew-paradise.net/+86)|||[2](https://www.google.com/search?q=site%3Anew-paradise.net/+89)|[3](https://www.google.com/search?q=site%3Anew-paradise.net/+90)|[5](https://www.google.com/search?q=site%3Anew-paradise.net/+91)||
-|[ハニービー](http://honeybee2.com/) <br />@JR池袋駅西口(北)|||[79](https://www.google.com/search?q=site%3Ahoneybee2.com/+82)|[126](https://www.google.com/search?q=site%3Ahoneybee2.com/+83)|[288](https://www.google.com/search?q=site%3Ahoneybee2.com/+84)|[117](https://www.google.com/search?q=site%3Ahoneybee2.com/+85)|||[117](https://www.google.com/search?q=site%3Ahoneybee2.com/+88)|||||
+|[心パラダイス](http://new-paradise.net/) <br />@JR池袋駅西口||||||[1](https://www.google.com/search?q=site%3Anew-paradise.net/+85)|[3](https://www.google.com/search?q=site%3Anew-paradise.net/+86)|||[2](https://www.google.com/search?q=site%3Anew-paradise.net/+89)|[3](https://www.google.com/search?q=site%3Anew-paradise.net/+90)|[4](https://www.google.com/search?q=site%3Anew-paradise.net/+91)||
+|[ハニービー](http://honeybee2.com/) <br />@JR池袋駅西口(北)|||[90](https://www.google.com/search?q=site%3Ahoneybee2.com/+82)|[128](https://www.google.com/search?q=site%3Ahoneybee2.com/+83)|[311](https://www.google.com/search?q=site%3Ahoneybee2.com/+84)|[128](https://www.google.com/search?q=site%3Ahoneybee2.com/+85)|||[119](https://www.google.com/search?q=site%3Ahoneybee2.com/+88)|||||
 |[満足堂](http://es-manzokudou.com/) <br />@JR池袋駅東口|||||[1](https://www.google.com/search?q=site%3Aes-manzokudou.com/+84)||[7](https://www.google.com/search?q=site%3Aes-manzokudou.com/+86)|[8](https://www.google.com/search?q=site%3Aes-manzokudou.com/+87)|[2](https://www.google.com/search?q=site%3Aes-manzokudou.com/+88)|||||
 |[MONA・LIZA モナ・リザ](http://monaliza.xyz/) <br />@JR池袋駅西口||||||||||||||
 |[台湾幸運リラクゼーション](http://esthe-treat.com/) <br />@JR池袋駅西口||||||||||||||
