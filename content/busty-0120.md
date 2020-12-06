@@ -1,5 +1,5 @@
 ---
-date: 2020-12-03
+date: 2020-12-06
 title: "品川・五反田"
 cover: "https://unsplash.it/1152/300/?random?BirchintheRoses"
 categories:
@@ -73,7 +73,7 @@ description: "キーワード別チャイエス嬢情報"
 
 |店名|セクシー|乳|巨乳|
 |:--|:---:|:---:|:---:|
-|[長楽](https://www.a-side.com/chouraku/) <br />@JR五反田駅西口||[2](https://www.google.com/search?q=site%3Awww.a-side.com/chouraku/+乳)|[2](https://www.google.com/search?q=site%3Awww.a-side.com/chouraku/+巨乳)|
+|[長楽](https://www.a-side.com/chouraku/) <br />@JR五反田駅西口||[1](https://www.google.com/search?q=site%3Awww.a-side.com/chouraku/+乳)|[1](https://www.google.com/search?q=site%3Awww.a-side.com/chouraku/+巨乳)|
 |[月の和](https://tsukiwa.info/) <br />@JR五反田駅西口|[18](https://www.google.com/search?q=site%3Atsukiwa.info/+セクシー)|||
 |[紫の蝶](http://p-fly.work/) <br />@JR五反田駅西口||||
 |[芙蓉～フヨウ～](http://www.relax-fuyou.info/) <br />@JR五反田駅東口||||
