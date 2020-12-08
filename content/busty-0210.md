@@ -1,5 +1,5 @@
 ---
-date: 2020-12-07
+date: 2020-12-08
 title: "赤羽・東十条・王子・板橋"
 cover: "https://unsplash.it/1152/300/?random?BirchintheRoses"
 categories:
@@ -33,7 +33,6 @@ description: "キーワード別チャイエス嬢情報"
 |[初恋](http://hatsukoi.ests.jp/) <br />@JR王子駅中央口||[7](https://www.google.com/search?q=site%3Ahatsukoi.ests.jp/+D)|[2](https://www.google.com/search?q=site%3Ahatsukoi.ests.jp/+E)|
 |[LaLa](http://lala.abnavi.info/) <br />@JR赤羽駅東口|[43](https://www.google.com/search?q=site%3Alala.abnavi.info/+C)|[240](https://www.google.com/search?q=site%3Alala.abnavi.info/+D)||
 |[桜の恋](http://www.crossu.xyz/) <br />@JR王子駅北口||||
-|[Sweet spa](http://t-mituki.site/) <br />@赤羽駅東口||||
 |[プリンス](http://prince.tyo.cm/) <br />@JR王子駅北口||[20](https://www.google.com/search?q=site%3Aprince.tyo.cm/+D)||
 |[Flower](http://flower.este88.com/) <br />@JR赤羽駅南口||||
 |[やすらぎ](http://tenpo5.iest.info/) <br />@JR王子駅北口||[35](https://www.google.com/search?q=site%3Atenpo5.iest.info/+D)|[7](https://www.google.com/search?q=site%3Atenpo5.iest.info/+E)|
@@ -44,6 +43,7 @@ description: "キーワード別チャイエス嬢情報"
 |[Aroma Dream ～アロマドリーム～](https://dream.ests.jp/) <br />@JR赤羽駅東口|[16](https://www.google.com/search?q=site%3Adream.ests.jp/+C)|[8](https://www.google.com/search?q=site%3Adream.ests.jp/+D)|[2](https://www.google.com/search?q=site%3Adream.ests.jp/+E)|
 |[Love Sea](https://higashijujo-mensesthe.com/) <br />@JR東十条駅北口||||
 |[ACEアロマ](http://ace-esthe.com/) <br />@JR赤羽駅東口|[18](https://www.google.com/search?q=site%3Aace-esthe.com/+C)|||
+|[夢ご](https://yumego.tyo.cm/) <br />@JR十条駅南口||[30](https://www.google.com/search?q=site%3Ayumego.tyo.cm/+D)||
 
 
 
@@ -64,7 +64,6 @@ description: "キーワード別チャイエス嬢情報"
 |[初恋](http://hatsukoi.ests.jp/) <br />@JR王子駅中央口||||[2](https://www.google.com/search?q=site%3Ahatsukoi.ests.jp/+85)|[2](https://www.google.com/search?q=site%3Ahatsukoi.ests.jp/+86)|[5](https://www.google.com/search?q=site%3Ahatsukoi.ests.jp/+87)|||||
 |[LaLa](http://lala.abnavi.info/) <br />@JR赤羽駅東口||[48](https://www.google.com/search?q=site%3Alala.abnavi.info/+83)||[24](https://www.google.com/search?q=site%3Alala.abnavi.info/+85)|[192](https://www.google.com/search?q=site%3Alala.abnavi.info/+86)||||||
 |[桜の恋](http://www.crossu.xyz/) <br />@JR王子駅北口|||||||||||
-|[Sweet spa](http://t-mituki.site/) <br />@赤羽駅東口|||||||||||
 |[プリンス](http://prince.tyo.cm/) <br />@JR王子駅北口||||[15](https://www.google.com/search?q=site%3Aprince.tyo.cm/+85)|[5](https://www.google.com/search?q=site%3Aprince.tyo.cm/+86)||||||
 |[Flower](http://flower.este88.com/) <br />@JR赤羽駅南口|||||||||||
 |[やすらぎ](http://tenpo5.iest.info/) <br />@JR王子駅北口||[7](https://www.google.com/search?q=site%3Atenpo5.iest.info/+83)||[7](https://www.google.com/search?q=site%3Atenpo5.iest.info/+85)|[14](https://www.google.com/search?q=site%3Atenpo5.iest.info/+86)|[14](https://www.google.com/search?q=site%3Atenpo5.iest.info/+87)|||||
@@ -75,6 +74,7 @@ description: "キーワード別チャイエス嬢情報"
 |[Aroma Dream ～アロマドリーム～](https://dream.ests.jp/) <br />@JR赤羽駅東口||[2](https://www.google.com/search?q=site%3Adream.ests.jp/+83)||[4](https://www.google.com/search?q=site%3Adream.ests.jp/+85)|[4](https://www.google.com/search?q=site%3Adream.ests.jp/+86)|[2](https://www.google.com/search?q=site%3Adream.ests.jp/+87)|||||
 |[Love Sea](https://higashijujo-mensesthe.com/) <br />@JR東十条駅北口|||||||||||
 |[ACEアロマ](http://ace-esthe.com/) <br />@JR赤羽駅東口|||||||||||
+|[夢ご](https://yumego.tyo.cm/) <br />@JR十条駅南口||||[6](https://www.google.com/search?q=site%3Ayumego.tyo.cm/+85)|[12](https://www.google.com/search?q=site%3Ayumego.tyo.cm/+86)||[12](https://www.google.com/search?q=site%3Ayumego.tyo.cm/+88)||||
 
 
 
@@ -95,7 +95,6 @@ description: "キーワード別チャイエス嬢情報"
 |[初恋](http://hatsukoi.ests.jp/) <br />@JR王子駅中央口||
 |[LaLa](http://lala.abnavi.info/) <br />@JR赤羽駅東口||
 |[桜の恋](http://www.crossu.xyz/) <br />@JR王子駅北口|[5](https://www.google.com/search?q=site%3Awww.crossu.xyz/+セクシー)|
-|[Sweet spa](http://t-mituki.site/) <br />@赤羽駅東口||
 |[プリンス](http://prince.tyo.cm/) <br />@JR王子駅北口||
 |[Flower](http://flower.este88.com/) <br />@JR赤羽駅南口||
 |[やすらぎ](http://tenpo5.iest.info/) <br />@JR王子駅北口||
@@ -106,4 +105,5 @@ description: "キーワード別チャイエス嬢情報"
 |[Aroma Dream ～アロマドリーム～](https://dream.ests.jp/) <br />@JR赤羽駅東口||
 |[Love Sea](https://higashijujo-mensesthe.com/) <br />@JR東十条駅北口||
 |[ACEアロマ](http://ace-esthe.com/) <br />@JR赤羽駅東口||
+|[夢ご](https://yumego.tyo.cm/) <br />@JR十条駅南口||
 
