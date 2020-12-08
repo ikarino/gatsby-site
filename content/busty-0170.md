@@ -1,5 +1,5 @@
 ---
-date: 2020-12-07
+date: 2020-12-08
 title: "錦糸町・亀戸・新小岩"
 cover: "https://unsplash.it/1152/300/?random?BirchintheRoses"
 categories:
@@ -59,6 +59,7 @@ description: "キーワード別チャイエス嬢情報"
 |[恋姫](http://cpienakada.com/) <br />@JR亀戸駅北口||||||
 |[秋](http://shizuku2009.com/) <br />@青砥駅A2出口||||||
 |[VIVI](http://cibertb.xyz/) <br />@JR錦糸町駅北口||||||
+|[Angel’s Smile](http://www.hu-wa.work/) <br />@JR小岩駅南口||||||
 
 
 
@@ -105,6 +106,7 @@ description: "キーワード別チャイエス嬢情報"
 |[恋姫](http://cpienakada.com/) <br />@JR亀戸駅北口|||||||||||||||
 |[秋](http://shizuku2009.com/) <br />@青砥駅A2出口|||||||||||||||
 |[VIVI](http://cibertb.xyz/) <br />@JR錦糸町駅北口|||||||||||||||
+|[Angel’s Smile](http://www.hu-wa.work/) <br />@JR小岩駅南口|||||||||||||||
 
 
 
@@ -151,4 +153,5 @@ description: "キーワード別チャイエス嬢情報"
 |[恋姫](http://cpienakada.com/) <br />@JR亀戸駅北口||||
 |[秋](http://shizuku2009.com/) <br />@青砥駅A2出口||||
 |[VIVI](http://cibertb.xyz/) <br />@JR錦糸町駅北口||||
+|[Angel’s Smile](http://www.hu-wa.work/) <br />@JR小岩駅南口||||
 
