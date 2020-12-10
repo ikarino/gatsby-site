@@ -1,5 +1,5 @@
 ---
-date: 2020-12-09
+date: 2020-12-10
 title: "神奈川地区"
 cover: "https://unsplash.it/1152/300/?random?BirchintheRoses"
 categories:
@@ -24,7 +24,7 @@ description: "キーワード別チャイエス嬢情報"
 |店名|C|D|E|F|G|
 |:--|:---:|:---:|:---:|:---:|:---:|
 |[リラクゼーション妹](http://www.imouto-esute2866.com/) <br />@JR平塚駅北口|[7](https://www.google.com/search?q=site%3Awww.imouto-esute2866.com/+C)|||||
-|[yuyu-ゆうゆ-](https://www.aroma-relax.com/kamiooka/) <br />@上大岡駅|[6](https://www.google.com/search?q=site%3Awww.aroma-relax.com/kamiooka/+C)|||||
+|[yuyu-ゆうゆ-](http://www.cc-girl.work/) <br />@上大岡駅||||||
 |[椿](http://o-jp.com/tsubaki/) <br />@JR平塚駅西口|[6](https://www.google.com/search?q=site%3Ao-jp.com/tsubaki/+C)|||||
 |[Fairy Ark](http://www.relax-fairyark.info/) <br />@JR藤沢駅南口|[1](https://www.google.com/search?q=site%3Awww.relax-fairyark.info/+C)|[7](https://www.google.com/search?q=site%3Awww.relax-fairyark.info/+D)|[7](https://www.google.com/search?q=site%3Awww.relax-fairyark.info/+E)|||
 |[癒心園](http://yushinen.info/) <br />@JR藤沢駅南口||||||
@@ -55,7 +55,7 @@ description: "キーワード別チャイエス嬢情報"
 |[空澄 -あすみ-](https://asumi.estjp.info/) <br />@小田原駅東口|||[4](https://www.google.com/search?q=site%3Aasumi.estjp.info/+E)|[2](https://www.google.com/search?q=site%3Aasumi.estjp.info/+F)||
 |[華蓮](http://karen.ies.fun/) <br />@JR茅ヶ崎駅北口||[3](https://www.google.com/search?q=site%3Akaren.ies.fun/+D)||||
 |[カノジョの部屋](https://kanojyo-room.jpn.cm/) <br />@上大岡駅|[40](https://www.google.com/search?q=site%3Akanojyo-room.jpn.cm/+C)|[48](https://www.google.com/search?q=site%3Akanojyo-room.jpn.cm/+D)||||
-|[萌え](http://pretty-esthe.com/) <br />@JR戸塚駅東口||[10](https://www.google.com/search?q=site%3Apretty-esthe.com/+D)|[11](https://www.google.com/search?q=site%3Apretty-esthe.com/+E)|||
+|[萌え](http://pretty-esthe.com/) <br />@JR戸塚駅東口||[13](https://www.google.com/search?q=site%3Apretty-esthe.com/+D)|[11](https://www.google.com/search?q=site%3Apretty-esthe.com/+E)|||
 |[メイド](http://meido.est888.com/) <br />@JR東戸塚駅東口||[4](https://www.google.com/search?q=site%3Ameido.est888.com/+D)|[2](https://www.google.com/search?q=site%3Ameido.est888.com/+E)|||
 |[アロエ](http://oil.abnavi.info/) <br />@鶴巻温泉駅北口|[15](https://www.google.com/search?q=site%3Aoil.abnavi.info/+C)|[8](https://www.google.com/search?q=site%3Aoil.abnavi.info/+D)||||
 |[リブレス](http://es-libres.com/) <br />@JR東戸塚駅西口|[1](https://www.google.com/search?q=site%3Aes-libres.com/+C)|[2](https://www.google.com/search?q=site%3Aes-libres.com/+D)|[1](https://www.google.com/search?q=site%3Aes-libres.com/+E)|||
@@ -77,7 +77,7 @@ description: "キーワード別チャイエス嬢情報"
 |店名|83|85|86|87|88|89|90|92|
 |:--|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |[リラクゼーション妹](http://www.imouto-esute2866.com/) <br />@JR平塚駅北口|||||||||
-|[yuyu-ゆうゆ-](https://www.aroma-relax.com/kamiooka/) <br />@上大岡駅|||||||||
+|[yuyu-ゆうゆ-](http://www.cc-girl.work/) <br />@上大岡駅|||||||||
 |[椿](http://o-jp.com/tsubaki/) <br />@JR平塚駅西口|||||||||
 |[Fairy Ark](http://www.relax-fairyark.info/) <br />@JR藤沢駅南口||[2](https://www.google.com/search?q=site%3Awww.relax-fairyark.info/+85)|[6](https://www.google.com/search?q=site%3Awww.relax-fairyark.info/+86)|[6](https://www.google.com/search?q=site%3Awww.relax-fairyark.info/+87)|[1](https://www.google.com/search?q=site%3Awww.relax-fairyark.info/+88)||||
 |[癒心園](http://yushinen.info/) <br />@JR藤沢駅南口|||||||||
@@ -108,7 +108,7 @@ description: "キーワード別チャイエス嬢情報"
 |[空澄 -あすみ-](https://asumi.estjp.info/) <br />@小田原駅東口|||||[2](https://www.google.com/search?q=site%3Aasumi.estjp.info/+88)||[4](https://www.google.com/search?q=site%3Aasumi.estjp.info/+90)||
 |[華蓮](http://karen.ies.fun/) <br />@JR茅ヶ崎駅北口|||[3](https://www.google.com/search?q=site%3Akaren.ies.fun/+86)||||||
 |[カノジョの部屋](https://kanojyo-room.jpn.cm/) <br />@上大岡駅||[12](https://www.google.com/search?q=site%3Akanojyo-room.jpn.cm/+85)|[24](https://www.google.com/search?q=site%3Akanojyo-room.jpn.cm/+86)|[12](https://www.google.com/search?q=site%3Akanojyo-room.jpn.cm/+87)|||||
-|[萌え](http://pretty-esthe.com/) <br />@JR戸塚駅東口||[3](https://www.google.com/search?q=site%3Apretty-esthe.com/+85)|[18](https://www.google.com/search?q=site%3Apretty-esthe.com/+86)||||||
+|[萌え](http://pretty-esthe.com/) <br />@JR戸塚駅東口||[3](https://www.google.com/search?q=site%3Apretty-esthe.com/+85)|[21](https://www.google.com/search?q=site%3Apretty-esthe.com/+86)||||||
 |[メイド](http://meido.est888.com/) <br />@JR東戸塚駅東口||||||[4](https://www.google.com/search?q=site%3Ameido.est888.com/+89)||[2](https://www.google.com/search?q=site%3Ameido.est888.com/+92)|
 |[アロエ](http://oil.abnavi.info/) <br />@鶴巻温泉駅北口|[4](https://www.google.com/search?q=site%3Aoil.abnavi.info/+83)||[8](https://www.google.com/search?q=site%3Aoil.abnavi.info/+86)||||||
 |[リブレス](http://es-libres.com/) <br />@JR東戸塚駅西口||||||[1](https://www.google.com/search?q=site%3Aes-libres.com/+89)|||
@@ -130,7 +130,7 @@ description: "キーワード別チャイエス嬢情報"
 |店名||
 |:--|
 |[リラクゼーション妹](http://www.imouto-esute2866.com/) <br />@JR平塚駅北口|
-|[yuyu-ゆうゆ-](https://www.aroma-relax.com/kamiooka/) <br />@上大岡駅|
+|[yuyu-ゆうゆ-](http://www.cc-girl.work/) <br />@上大岡駅|
 |[椿](http://o-jp.com/tsubaki/) <br />@JR平塚駅西口|
 |[Fairy Ark](http://www.relax-fairyark.info/) <br />@JR藤沢駅南口|
 |[癒心園](http://yushinen.info/) <br />@JR藤沢駅南口|
