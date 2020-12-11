@@ -1,5 +1,5 @@
 ---
-date: 2020-12-10
+date: 2020-12-11
 title: "川崎・鶴見"
 cover: "https://unsplash.it/1152/300/?random?BirchintheRoses"
 categories:
@@ -40,7 +40,7 @@ description: "キーワード別チャイエス嬢情報"
 |[人魚の恋](http://genkimori.ests.jp/) <br />@JR鶴見駅東口|[154](https://www.google.com/search?q=site%3Agenkimori.ests.jp/+C)|[273](https://www.google.com/search?q=site%3Agenkimori.ests.jp/+D)|[21](https://www.google.com/search?q=site%3Agenkimori.ests.jp/+E)||
 |[一目惚れ](https://hitomebore.tokyo/) <br />@JR鶴見駅東口|||||
 |[ぼくのデリエステ](http://deli-esthe.jpn.mn/) <br />@JR川崎駅東口||[52](https://www.google.com/search?q=site%3Adeli-esthe.jpn.mn/+D)|[6](https://www.google.com/search?q=site%3Adeli-esthe.jpn.mn/+E)||
-|[GooD](http://good.abnavi.info/) <br />@JR鶴見駅東口|[16](https://www.google.com/search?q=site%3Agood.abnavi.info/+C)|[32](https://www.google.com/search?q=site%3Agood.abnavi.info/+D)|[8](https://www.google.com/search?q=site%3Agood.abnavi.info/+E)||
+|[GooD](http://good.abnavi.info/) <br />@JR鶴見駅東口|[16](https://www.google.com/search?q=site%3Agood.abnavi.info/+C)|[40](https://www.google.com/search?q=site%3Agood.abnavi.info/+D)|[8](https://www.google.com/search?q=site%3Agood.abnavi.info/+E)||
 |[HaNa](http://www.play-land.work) <br />@京急鶴見駅東口|||||
 |[縁園](http://rabbit.est.cm/) <br />@JR川崎駅東口||[16](https://www.google.com/search?q=site%3Arabbit.est.cm/+D)|||
 |[ギャルズ](http://gyaruzu.esnavi.work/) <br />@JR川崎駅西口|[5](https://www.google.com/search?q=site%3Agyaruzu.esnavi.work/+C)|[3](https://www.google.com/search?q=site%3Agyaruzu.esnavi.work/+D)|||
@@ -78,15 +78,15 @@ description: "キーワード別チャイエス嬢情報"
 |[人魚の恋](http://genkimori.ests.jp/) <br />@JR鶴見駅東口||[21](https://www.google.com/search?q=site%3Agenkimori.ests.jp/+82)|[63](https://www.google.com/search?q=site%3Agenkimori.ests.jp/+83)||[147](https://www.google.com/search?q=site%3Agenkimori.ests.jp/+85)|[105](https://www.google.com/search?q=site%3Agenkimori.ests.jp/+86)|[84](https://www.google.com/search?q=site%3Agenkimori.ests.jp/+87)|||||
 |[一目惚れ](https://hitomebore.tokyo/) <br />@JR鶴見駅東口||||||||||||
 |[ぼくのデリエステ](http://deli-esthe.jpn.mn/) <br />@JR川崎駅東口||[4](https://www.google.com/search?q=site%3Adeli-esthe.jpn.mn/+82)|||[10](https://www.google.com/search?q=site%3Adeli-esthe.jpn.mn/+85)|[22](https://www.google.com/search?q=site%3Adeli-esthe.jpn.mn/+86)|[22](https://www.google.com/search?q=site%3Adeli-esthe.jpn.mn/+87)|||||
-|[GooD](http://good.abnavi.info/) <br />@JR鶴見駅東口||||[8](https://www.google.com/search?q=site%3Agood.abnavi.info/+84)|[24](https://www.google.com/search?q=site%3Agood.abnavi.info/+85)|[16](https://www.google.com/search?q=site%3Agood.abnavi.info/+86)||[8](https://www.google.com/search?q=site%3Agood.abnavi.info/+88)||||
+|[GooD](http://good.abnavi.info/) <br />@JR鶴見駅東口||||[8](https://www.google.com/search?q=site%3Agood.abnavi.info/+84)|[32](https://www.google.com/search?q=site%3Agood.abnavi.info/+85)|[16](https://www.google.com/search?q=site%3Agood.abnavi.info/+86)||[8](https://www.google.com/search?q=site%3Agood.abnavi.info/+88)||||
 |[HaNa](http://www.play-land.work) <br />@京急鶴見駅東口||||||||||||
 |[縁園](http://rabbit.est.cm/) <br />@JR川崎駅東口||||||[16](https://www.google.com/search?q=site%3Arabbit.est.cm/+86)||||||
-|[ギャルズ](http://gyaruzu.esnavi.work/) <br />@JR川崎駅西口|||[3](https://www.google.com/search?q=site%3Agyaruzu.esnavi.work/+83)|[2](https://www.google.com/search?q=site%3Agyaruzu.esnavi.work/+84)||[2](https://www.google.com/search?q=site%3Agyaruzu.esnavi.work/+86)||[2](https://www.google.com/search?q=site%3Agyaruzu.esnavi.work/+88)|[14](https://www.google.com/search?q=site%3Agyaruzu.esnavi.work/+89)|[5](https://www.google.com/search?q=site%3Agyaruzu.esnavi.work/+90)||
+|[ギャルズ](http://gyaruzu.esnavi.work/) <br />@JR川崎駅西口|||[2](https://www.google.com/search?q=site%3Agyaruzu.esnavi.work/+83)|[3](https://www.google.com/search?q=site%3Agyaruzu.esnavi.work/+84)||[3](https://www.google.com/search?q=site%3Agyaruzu.esnavi.work/+86)||[3](https://www.google.com/search?q=site%3Agyaruzu.esnavi.work/+88)|[13](https://www.google.com/search?q=site%3Agyaruzu.esnavi.work/+89)|[4](https://www.google.com/search?q=site%3Agyaruzu.esnavi.work/+90)||
 |[I for You](http://iforyou.iyasi.me/) <br />@JR鶴見駅東口||||[2](https://www.google.com/search?q=site%3Aiforyou.iyasi.me/+84)|[2](https://www.google.com/search?q=site%3Aiforyou.iyasi.me/+85)|||||||
 |[制服美少女](http://seifuku.esnavi.work/) <br />@JR川崎駅西口|||[2](https://www.google.com/search?q=site%3Aseifuku.esnavi.work/+83)|||[2](https://www.google.com/search?q=site%3Aseifuku.esnavi.work/+86)|[1](https://www.google.com/search?q=site%3Aseifuku.esnavi.work/+87)|[2](https://www.google.com/search?q=site%3Aseifuku.esnavi.work/+88)|[2](https://www.google.com/search?q=site%3Aseifuku.esnavi.work/+89)|||
 |[Men’s Pal Spa・メンズパルスパ](https://www.pal-spa.com/) <br />@JR鶴見駅東口|[1](https://www.google.com/search?q=site%3Awww.pal-spa.com/+100)|||||||||||
 |[GODメンズエステ](http://god-esthe.com/) <br />@JR鶴見駅東口|||[4](https://www.google.com/search?q=site%3Agod-esthe.com/+83)|[4](https://www.google.com/search?q=site%3Agod-esthe.com/+84)|||||||[2](https://www.google.com/search?q=site%3Agod-esthe.com/+94)|
-|[sweet](https://tsurumi-mensesthe.com/) <br />@JR鶴見駅西口||||[8](https://www.google.com/search?q=site%3Atsurumi-mensesthe.com/+84)|[16](https://www.google.com/search?q=site%3Atsurumi-mensesthe.com/+85)|[8](https://www.google.com/search?q=site%3Atsurumi-mensesthe.com/+86)||[8](https://www.google.com/search?q=site%3Atsurumi-mensesthe.com/+88)||[16](https://www.google.com/search?q=site%3Atsurumi-mensesthe.com/+90)||
+|[sweet](https://tsurumi-mensesthe.com/) <br />@JR鶴見駅西口|||||[7](https://www.google.com/search?q=site%3Atsurumi-mensesthe.com/+85)|[7](https://www.google.com/search?q=site%3Atsurumi-mensesthe.com/+86)||[14](https://www.google.com/search?q=site%3Atsurumi-mensesthe.com/+88)||[14](https://www.google.com/search?q=site%3Atsurumi-mensesthe.com/+90)||
 |[For You](http://nymphe-est.xyz/) <br />@JR矢向駅||||||||||||
 |[Zero Aroma](http://aroma-zero.com/) <br />@JR鶴見駅東口||||||||||||
 
