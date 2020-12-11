@@ -1,5 +1,5 @@
 ---
-date: 2020-12-10
+date: 2020-12-11
 title: "赤羽・東十条・王子・板橋"
 cover: "https://unsplash.it/1152/300/?random?BirchintheRoses"
 categories:
@@ -45,6 +45,7 @@ description: "キーワード別チャイエス嬢情報"
 |[Love Sea](https://higashijujo-mensesthe.com/) <br />@JR東十条駅北口||||
 |[ACEアロマ](http://ace-esthe.com/) <br />@JR赤羽駅東口|[18](https://www.google.com/search?q=site%3Aace-esthe.com/+C)|||
 |[夢ご](https://yumego.tyo.cm/) <br />@JR十条駅南口||[36](https://www.google.com/search?q=site%3Ayumego.tyo.cm/+D)||
+|[キラキラ](http://kirakira.est888.com/) <br />@JR赤羽駅東口||[3](https://www.google.com/search?q=site%3Akirakira.est888.com/+D)||
 
 
 
@@ -77,6 +78,7 @@ description: "キーワード別チャイエス嬢情報"
 |[Love Sea](https://higashijujo-mensesthe.com/) <br />@JR東十条駅北口|||||||||||
 |[ACEアロマ](http://ace-esthe.com/) <br />@JR赤羽駅東口|||||||||||
 |[夢ご](https://yumego.tyo.cm/) <br />@JR十条駅南口||||[6](https://www.google.com/search?q=site%3Ayumego.tyo.cm/+85)|[18](https://www.google.com/search?q=site%3Ayumego.tyo.cm/+86)||[12](https://www.google.com/search?q=site%3Ayumego.tyo.cm/+88)||||
+|[キラキラ](http://kirakira.est888.com/) <br />@JR赤羽駅東口||||||||[3](https://www.google.com/search?q=site%3Akirakira.est888.com/+89)|||
 
 
 
@@ -109,4 +111,5 @@ description: "キーワード別チャイエス嬢情報"
 |[Love Sea](https://higashijujo-mensesthe.com/) <br />@JR東十条駅北口||
 |[ACEアロマ](http://ace-esthe.com/) <br />@JR赤羽駅東口||
 |[夢ご](https://yumego.tyo.cm/) <br />@JR十条駅南口||
+|[キラキラ](http://kirakira.est888.com/) <br />@JR赤羽駅東口||
 
