@@ -1,5 +1,5 @@
 ---
-date: 2020-12-11
+date: 2020-12-12
 title: "町田・相模原・厚木・大和"
 cover: "https://unsplash.it/1152/300/?random?BirchintheRoses"
 categories:
@@ -96,7 +96,7 @@ description: "キーワード別チャイエス嬢情報"
 |[Merci ～メルシー～](http://merci-massage.work/) <br />@本厚木駅南口|[10](https://www.google.com/search?q=site%3Amerci-massage.work/+C)||||||
 |[百合](http://www.yuri.esjoho.com/) <br />@町田駅北口||[4](https://www.google.com/search?q=site%3Awww.yuri.esjoho.com/+D)|[2](https://www.google.com/search?q=site%3Awww.yuri.esjoho.com/+E)|[2](https://www.google.com/search?q=site%3Awww.yuri.esjoho.com/+F)|||
 |[茉莉花](http://melpomene-est.com/) <br />@本厚木駅北口||[3](https://www.google.com/search?q=site%3Amelpomene-est.com/+D)|[3](https://www.google.com/search?q=site%3Amelpomene-est.com/+E)||||
-|[Latis ラティス](https://latis.ests.jp/) <br />@JR相模原駅南口|[20](https://www.google.com/search?q=site%3Alatis.ests.jp/+C)||||||
+|[Latis ラティス](https://latis.ests.jp/) <br />@JR相模原駅南口|[18](https://www.google.com/search?q=site%3Alatis.ests.jp/+C)||||||
 |[チャーミング](http://msg-aroma.com/) <br />@本厚木駅北口|[14](https://www.google.com/search?q=site%3Amsg-aroma.com/+C)||||||
 |[Kawaii恋人](http://www.kawaii.maesjp.com/) <br />@JR相模原駅南口|||||||
 |[オーシャン](http://koukoku.xyz/ocean/) <br />@中央林間駅北口|||||||
@@ -110,7 +110,7 @@ description: "キーワード別チャイエス嬢情報"
 |[Darling ～ダーリン～](http://darling.estjp.info/) <br />@小田急相模原駅南口|[4](https://www.google.com/search?q=site%3Adarling.estjp.info/+C)|[7](https://www.google.com/search?q=site%3Adarling.estjp.info/+D)|||||
 |[らくらく](https://www.newrakuraku.com/) <br />@小田急相模原駅北口|||||||
 |[ViVian](http://www.sh-vivian.work/) <br />@相模大野駅北口|[5](https://www.google.com/search?q=site%3Awww.sh-vivian.work/+C)|[3](https://www.google.com/search?q=site%3Awww.sh-vivian.work/+D)|||||
-|[Angela ～アンジェラ～](http://www.angela.masg.info/) <br />@中央林間駅北口|[8](https://www.google.com/search?q=site%3Awww.angela.masg.info/+C)|[24](https://www.google.com/search?q=site%3Awww.angela.masg.info/+D)|||||
+|[Angela ～アンジェラ～](http://www.angela.masg.info/) <br />@中央林間駅北口|[16](https://www.google.com/search?q=site%3Awww.angela.masg.info/+C)|[24](https://www.google.com/search?q=site%3Awww.angela.masg.info/+D)|||||
 |[Lucky](http://biretuip.xyz/) <br />@本厚木駅北口|||||||
 |[Alice ～アリス～](http://www.alice.iesjp.com/) <br />@本厚木駅北口|[4](https://www.google.com/search?q=site%3Awww.alice.iesjp.com/+C)|[16](https://www.google.com/search?q=site%3Awww.alice.iesjp.com/+D)|||||
 |[みさき](https://misaki.iest.info/) <br />@本厚木駅北口|[16](https://www.google.com/search?q=site%3Amisaki.iest.info/+C)|[27](https://www.google.com/search?q=site%3Amisaki.iest.info/+D)|||||
@@ -118,7 +118,6 @@ description: "キーワード別チャイエス嬢情報"
 |[縁](http://en-massage.work/) <br />@相模大野駅南口|[20](https://www.google.com/search?q=site%3Aen-massage.work/+C)|[3](https://www.google.com/search?q=site%3Aen-massage.work/+D)|||||
 |[優しい夜](http://pinklibon.xyz/) <br />@大和駅|[1](https://www.google.com/search?q=site%3Apinklibon.xyz/+C)|[4](https://www.google.com/search?q=site%3Apinklibon.xyz/+D)|||||
 |[夜曜日](http://nightday-relax.work/) <br />@大和駅|[10](https://www.google.com/search?q=site%3Anightday-relax.work/+C)|[3](https://www.google.com/search?q=site%3Anightday-relax.work/+D)|[3](https://www.google.com/search?q=site%3Anightday-relax.work/+E)|[3](https://www.google.com/search?q=site%3Anightday-relax.work/+F)|||
-|[キララ](http://vbfncxaop.xyz/) <br />@JR相模原駅南口|||||||
 |[サラン](https://saran.sosoxo.com/) <br />@中央林間駅西口||[4](https://www.google.com/search?q=site%3Asaran.sosoxo.com/+D)||[4](https://www.google.com/search?q=site%3Asaran.sosoxo.com/+F)|||
 |[花魁～おいらん～](http://www.kango.esjp.site/) <br />@JR相模原駅南口||[48](https://www.google.com/search?q=site%3Awww.kango.esjp.site/+D)|||||
 |[初の葉](http://shonoyou.me-es.com/) <br />@座間駅西口|||||||
@@ -132,8 +131,9 @@ description: "キーワード別チャイエス嬢情報"
 |[apple](http://www.binatsujiyamu.xyz/) <br />@町田駅|[7](https://www.google.com/search?q=site%3Awww.binatsujiyamu.xyz/+C)|[5](https://www.google.com/search?q=site%3Awww.binatsujiyamu.xyz/+D)|||||
 |[HIMAWARI](http://aroma-himawari.com/) <br />@JR町田駅北口|||||||
 |[ねこちゃん](http://esthe-japan.work/nekochan/) <br />@相模大野駅南口|||||||
-|[癒しハウス](http://www.iyashi.relaxjp.info/) <br />@中央林間駅小田急南口||[48](https://www.google.com/search?q=site%3Awww.iyashi.relaxjp.info/+D)|||||
+|[癒しハウス](http://www.iyashi.relaxjp.info/) <br />@中央林間駅小田急南口||[60](https://www.google.com/search?q=site%3Awww.iyashi.relaxjp.info/+D)|||||
 |[Sweet](http://mvp.ests.jp/) <br />@大和駅南口|[16](https://www.google.com/search?q=site%3Amvp.ests.jp/+C)|[90](https://www.google.com/search?q=site%3Amvp.ests.jp/+D)|||||
+|[ラフィール ～Rafeel～](http://vbfncxaop.xyz/) <br />@JR相模原駅南口|||||||
 
 
 
@@ -217,7 +217,7 @@ description: "キーワード別チャイエス嬢情報"
 |[Merci ～メルシー～](http://merci-massage.work/) <br />@本厚木駅南口||||||[3](https://www.google.com/search?q=site%3Amerci-massage.work/+86)|[3](https://www.google.com/search?q=site%3Amerci-massage.work/+87)||||[3](https://www.google.com/search?q=site%3Amerci-massage.work/+91)||||
 |[百合](http://www.yuri.esjoho.com/) <br />@町田駅北口|||||||[4](https://www.google.com/search?q=site%3Awww.yuri.esjoho.com/+87)|[2](https://www.google.com/search?q=site%3Awww.yuri.esjoho.com/+88)|[2](https://www.google.com/search?q=site%3Awww.yuri.esjoho.com/+89)||||||
 |[茉莉花](http://melpomene-est.com/) <br />@本厚木駅北口||||||[6](https://www.google.com/search?q=site%3Amelpomene-est.com/+86)|||||||||
-|[Latis ラティス](https://latis.ests.jp/) <br />@JR相模原駅南口||||||[34](https://www.google.com/search?q=site%3Alatis.ests.jp/+86)|||||||||
+|[Latis ラティス](https://latis.ests.jp/) <br />@JR相模原駅南口||||||[30](https://www.google.com/search?q=site%3Alatis.ests.jp/+86)|||||||||
 |[チャーミング](http://msg-aroma.com/) <br />@本厚木駅北口|||||||||||||||
 |[Kawaii恋人](http://www.kawaii.maesjp.com/) <br />@JR相模原駅南口|||||||||||||||
 |[オーシャン](http://koukoku.xyz/ocean/) <br />@中央林間駅北口|||||||||||||||
@@ -231,7 +231,7 @@ description: "キーワード別チャイエス嬢情報"
 |[Darling ～ダーリン～](http://darling.estjp.info/) <br />@小田急相模原駅南口|||||||[4](https://www.google.com/search?q=site%3Adarling.estjp.info/+87)||[4](https://www.google.com/search?q=site%3Adarling.estjp.info/+89)|[3](https://www.google.com/search?q=site%3Adarling.estjp.info/+90)|||||
 |[らくらく](https://www.newrakuraku.com/) <br />@小田急相模原駅北口|||||||||||||||
 |[ViVian](http://www.sh-vivian.work/) <br />@相模大野駅北口|||||[6](https://www.google.com/search?q=site%3Awww.sh-vivian.work/+85)|[2](https://www.google.com/search?q=site%3Awww.sh-vivian.work/+86)|||||||||
-|[Angela ～アンジェラ～](http://www.angela.masg.info/) <br />@中央林間駅北口|||||[16](https://www.google.com/search?q=site%3Awww.angela.masg.info/+85)|[8](https://www.google.com/search?q=site%3Awww.angela.masg.info/+86)|[8](https://www.google.com/search?q=site%3Awww.angela.masg.info/+87)||||||||
+|[Angela ～アンジェラ～](http://www.angela.masg.info/) <br />@中央林間駅北口||[8](https://www.google.com/search?q=site%3Awww.angela.masg.info/+82)|||[16](https://www.google.com/search?q=site%3Awww.angela.masg.info/+85)|[8](https://www.google.com/search?q=site%3Awww.angela.masg.info/+86)|[8](https://www.google.com/search?q=site%3Awww.angela.masg.info/+87)||||||||
 |[Lucky](http://biretuip.xyz/) <br />@本厚木駅北口|||||||||||||||
 |[Alice ～アリス～](http://www.alice.iesjp.com/) <br />@本厚木駅北口||||||[4](https://www.google.com/search?q=site%3Awww.alice.iesjp.com/+86)|[16](https://www.google.com/search?q=site%3Awww.alice.iesjp.com/+87)||||||||
 |[みさき](https://misaki.iest.info/) <br />@本厚木駅北口|||||[12](https://www.google.com/search?q=site%3Amisaki.iest.info/+85)|[15](https://www.google.com/search?q=site%3Amisaki.iest.info/+86)|||||||||
@@ -239,7 +239,6 @@ description: "キーワード別チャイエス嬢情報"
 |[縁](http://en-massage.work/) <br />@相模大野駅南口|||[3](https://www.google.com/search?q=site%3Aen-massage.work/+83)|||[6](https://www.google.com/search?q=site%3Aen-massage.work/+86)|[3](https://www.google.com/search?q=site%3Aen-massage.work/+87)||||||||
 |[優しい夜](http://pinklibon.xyz/) <br />@大和駅|||||[3](https://www.google.com/search?q=site%3Apinklibon.xyz/+85)|[1](https://www.google.com/search?q=site%3Apinklibon.xyz/+86)|[1](https://www.google.com/search?q=site%3Apinklibon.xyz/+87)||||||||
 |[夜曜日](http://nightday-relax.work/) <br />@大和駅||||||[3](https://www.google.com/search?q=site%3Anightday-relax.work/+86)|[3](https://www.google.com/search?q=site%3Anightday-relax.work/+87)||[3](https://www.google.com/search?q=site%3Anightday-relax.work/+89)||||||
-|[キララ](http://vbfncxaop.xyz/) <br />@JR相模原駅南口|||||||||||||||
 |[サラン](https://saran.sosoxo.com/) <br />@中央林間駅西口|||||||||||||||
 |[花魁～おいらん～](http://www.kango.esjp.site/) <br />@JR相模原駅南口||||||[16](https://www.google.com/search?q=site%3Awww.kango.esjp.site/+86)|[32](https://www.google.com/search?q=site%3Awww.kango.esjp.site/+87)||||||||
 |[初の葉](http://shonoyou.me-es.com/) <br />@座間駅西口|||||||||||||||
@@ -253,8 +252,9 @@ description: "キーワード別チャイエス嬢情報"
 |[apple](http://www.binatsujiyamu.xyz/) <br />@町田駅||||[1](https://www.google.com/search?q=site%3Awww.binatsujiyamu.xyz/+84)|[5](https://www.google.com/search?q=site%3Awww.binatsujiyamu.xyz/+85)||||||||||
 |[HIMAWARI](http://aroma-himawari.com/) <br />@JR町田駅北口|||||||||||||||
 |[ねこちゃん](http://esthe-japan.work/nekochan/) <br />@相模大野駅南口|||||||||||||||
-|[癒しハウス](http://www.iyashi.relaxjp.info/) <br />@中央林間駅小田急南口|||[12](https://www.google.com/search?q=site%3Awww.iyashi.relaxjp.info/+83)||||[48](https://www.google.com/search?q=site%3Awww.iyashi.relaxjp.info/+87)||||||||
+|[癒しハウス](http://www.iyashi.relaxjp.info/) <br />@中央林間駅小田急南口|||[12](https://www.google.com/search?q=site%3Awww.iyashi.relaxjp.info/+83)||||[60](https://www.google.com/search?q=site%3Awww.iyashi.relaxjp.info/+87)||||||||
 |[Sweet](http://mvp.ests.jp/) <br />@大和駅南口|||[20](https://www.google.com/search?q=site%3Amvp.ests.jp/+83)||[30](https://www.google.com/search?q=site%3Amvp.ests.jp/+85)|[30](https://www.google.com/search?q=site%3Amvp.ests.jp/+86)|[10](https://www.google.com/search?q=site%3Amvp.ests.jp/+87)||||||||
+|[ラフィール ～Rafeel～](http://vbfncxaop.xyz/) <br />@JR相模原駅南口|||||||||||||||
 
 
 
@@ -360,7 +360,6 @@ description: "キーワード別チャイエス嬢情報"
 |[縁](http://en-massage.work/) <br />@相模大野駅南口||||||
 |[優しい夜](http://pinklibon.xyz/) <br />@大和駅||||||
 |[夜曜日](http://nightday-relax.work/) <br />@大和駅||||||
-|[キララ](http://vbfncxaop.xyz/) <br />@JR相模原駅南口||||||
 |[サラン](https://saran.sosoxo.com/) <br />@中央林間駅西口||||||
 |[花魁～おいらん～](http://www.kango.esjp.site/) <br />@JR相模原駅南口||||||
 |[初の葉](http://shonoyou.me-es.com/) <br />@座間駅西口||||||
@@ -376,4 +375,5 @@ description: "キーワード別チャイエス嬢情報"
 |[ねこちゃん](http://esthe-japan.work/nekochan/) <br />@相模大野駅南口||||||
 |[癒しハウス](http://www.iyashi.relaxjp.info/) <br />@中央林間駅小田急南口||||||
 |[Sweet](http://mvp.ests.jp/) <br />@大和駅南口||||||
+|[ラフィール ～Rafeel～](http://vbfncxaop.xyz/) <br />@JR相模原駅南口||||||
 
