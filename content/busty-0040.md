@@ -1,5 +1,5 @@
 ---
-date: 2020-12-11
+date: 2020-12-12
 title: "大塚・巣鴨"
 cover: "https://unsplash.it/1152/300/?random?BirchintheRoses"
 categories:
@@ -38,6 +38,7 @@ description: "キーワード別チャイエス嬢情報"
 |[癒処](http://relaxation.red/) <br />@JR駒込駅北口|||||
 |[ねこちゃん](http://www.nekochan.masg.info/) <br />@JR駒込駅東口|[1](https://www.google.com/search?q=site%3Awww.nekochan.masg.info/+C)|[2](https://www.google.com/search?q=site%3Awww.nekochan.masg.info/+D)|[2](https://www.google.com/search?q=site%3Awww.nekochan.masg.info/+E)||
 |[愛](http://airelax.xyz/) <br />@向原駅|||||
+|[お帰りBABY](http://es-romance.work/) <br />@JR巣鴨駅正面口|||||
 
 
 
@@ -63,6 +64,7 @@ description: "キーワード別チャイエス嬢情報"
 |[癒処](http://relaxation.red/) <br />@JR駒込駅北口|||||||||
 |[ねこちゃん](http://www.nekochan.masg.info/) <br />@JR駒込駅東口|[1](https://www.google.com/search?q=site%3Awww.nekochan.masg.info/+81)|||||[3](https://www.google.com/search?q=site%3Awww.nekochan.masg.info/+88)||[1](https://www.google.com/search?q=site%3Awww.nekochan.masg.info/+90)|
 |[愛](http://airelax.xyz/) <br />@向原駅|||||||||
+|[お帰りBABY](http://es-romance.work/) <br />@JR巣鴨駅正面口|||||||||
 
 
 
@@ -88,4 +90,5 @@ description: "キーワード別チャイエス嬢情報"
 |[癒処](http://relaxation.red/) <br />@JR駒込駅北口||
 |[ねこちゃん](http://www.nekochan.masg.info/) <br />@JR駒込駅東口||
 |[愛](http://airelax.xyz/) <br />@向原駅||
+|[お帰りBABY](http://es-romance.work/) <br />@JR巣鴨駅正面口||
 
