@@ -1,5 +1,5 @@
 ---
-date: 2020-12-11
+date: 2020-12-12
 title: "国分寺・立川・八王子・東京郊外"
 cover: "https://unsplash.it/1152/300/?random?BirchintheRoses"
 categories:
@@ -59,7 +59,7 @@ description: "キーワード別チャイエス嬢情報"
 |[SOFIA ～ソフィア～](http://sofia-es.tokyo/) <br />@花小金井駅南口|[1](https://www.google.com/search?q=site%3Asofia-es.tokyo/+C)|[2](https://www.google.com/search?q=site%3Asofia-es.tokyo/+D)|||||
 |[Girls](http://www.girls.esjp.info/) <br />@JR国分寺駅南口|[8](https://www.google.com/search?q=site%3Awww.girls.esjp.info/+C)|[7](https://www.google.com/search?q=site%3Awww.girls.esjp.info/+D)|[1](https://www.google.com/search?q=site%3Awww.girls.esjp.info/+E)|[2](https://www.google.com/search?q=site%3Awww.girls.esjp.info/+F)|||
 |[Cawaii Girl～かわいいガール～](https://ca-girl.com/) <br />@JR国分寺駅北口||[66](https://www.google.com/search?q=site%3Aca-girl.com/+D)|[99](https://www.google.com/search?q=site%3Aca-girl.com/+E)|[3](https://www.google.com/search?q=site%3Aca-girl.com/+F)|||
-|[八王子蜜夢](https://es-cream.tokyo/) <br />@JR八王子駅北口||[78](https://www.google.com/search?q=site%3Aes-cream.tokyo/+D)|[42](https://www.google.com/search?q=site%3Aes-cream.tokyo/+E)|[4](https://www.google.com/search?q=site%3Aes-cream.tokyo/+F)|||
+|[八王子蜜夢](https://es-cream.tokyo/) <br />@JR八王子駅北口||[61](https://www.google.com/search?q=site%3Aes-cream.tokyo/+D)|[58](https://www.google.com/search?q=site%3Aes-cream.tokyo/+E)|[4](https://www.google.com/search?q=site%3Aes-cream.tokyo/+F)|||
 |[ピカ・おちゅ～](http://pikachu.ests.jp/) <br />@JR立川駅南口|[1](https://www.google.com/search?q=site%3Apikachu.ests.jp/+C)|[28](https://www.google.com/search?q=site%3Apikachu.ests.jp/+D)|[2](https://www.google.com/search?q=site%3Apikachu.ests.jp/+E)||||
 |[キャンディ](http://candy.jpn.cm/) <br />@JR八王子駅|[29](https://www.google.com/search?q=site%3Acandy.jpn.cm/+C)|[9](https://www.google.com/search?q=site%3Acandy.jpn.cm/+D)|[2](https://www.google.com/search?q=site%3Acandy.jpn.cm/+E)||||
 |[アロマラブ](http://aromalove.est-u.com/) <br />@JR八王子駅北口|||||||
@@ -133,6 +133,7 @@ description: "キーワード別チャイエス嬢情報"
 |[Angel Baby ～エンジェルベビー～](http://www.angelbaby.masg.info/) <br />@JR国分寺駅北口|[24](https://www.google.com/search?q=site%3Awww.angelbaby.masg.info/+C)|[24](https://www.google.com/search?q=site%3Awww.angelbaby.masg.info/+D)|||||
 |[VENUS ヴィーナス](http://relax-massage.tokyo/) <br />@東大和市駅|||||||
 |[佳美](http://www.kami.mensest.com/) <br />@JR羽村駅西口|[3](https://www.google.com/search?q=site%3Awww.kami.mensest.com/+C)|[9](https://www.google.com/search?q=site%3Awww.kami.mensest.com/+D)|||||
+|[BIOU・ビオウ](http://biou-massage.work/) <br />@東久留米駅北口||[7](https://www.google.com/search?q=site%3Abiou-massage.work/+D)|[7](https://www.google.com/search?q=site%3Abiou-massage.work/+E)|[8](https://www.google.com/search?q=site%3Abiou-massage.work/+F)|||
 
 
 
@@ -153,7 +154,7 @@ description: "キーワード別チャイエス嬢情報"
 |[アスター](http://www.relax-aster.com/) <br />@JR国分寺駅南口|||||||||[8](https://www.google.com/search?q=site%3Awww.relax-aster.com/+89)|[2](https://www.google.com/search?q=site%3Awww.relax-aster.com/+90)||||
 |[エデンの園](http://e-hoya.info/) <br />@保谷駅南口||||||||||||||
 |[ハピネス](http://www.kenkoukoubou.com/) <br />@JR武蔵境駅南口||||||||||||||
-|[アロマスパ](http://es-aroma.tokyo/) <br />@JR八王子駅北口|||[4](https://www.google.com/search?q=site%3Aes-aroma.tokyo/+83)|[28](https://www.google.com/search?q=site%3Aes-aroma.tokyo/+84)|[91](https://www.google.com/search?q=site%3Aes-aroma.tokyo/+85)|[8](https://www.google.com/search?q=site%3Aes-aroma.tokyo/+86)||||||||
+|[アロマスパ](http://es-aroma.tokyo/) <br />@JR八王子駅北口|||[4](https://www.google.com/search?q=site%3Aes-aroma.tokyo/+83)|[24](https://www.google.com/search?q=site%3Aes-aroma.tokyo/+84)|[95](https://www.google.com/search?q=site%3Aes-aroma.tokyo/+85)|[8](https://www.google.com/search?q=site%3Aes-aroma.tokyo/+86)||||||||
 |[水の縁](http://www.hibari.link/) <br />@ひばりヶ丘駅南口||||||||||||||
 |[雅](http://a-rlx.info) <br />@JR福生駅東口||||||||||||||
 |[萌](http://www.moe-es.link/) <br />@JR八王子駅北口||||||||||||||
@@ -179,7 +180,7 @@ description: "キーワード別チャイエス嬢情報"
 |[SOFIA ～ソフィア～](http://sofia-es.tokyo/) <br />@花小金井駅南口||||||[1](https://www.google.com/search?q=site%3Asofia-es.tokyo/+86)||[2](https://www.google.com/search?q=site%3Asofia-es.tokyo/+88)||||||
 |[Girls](http://www.girls.esjp.info/) <br />@JR国分寺駅南口|||||[1](https://www.google.com/search?q=site%3Awww.girls.esjp.info/+85)|[2](https://www.google.com/search?q=site%3Awww.girls.esjp.info/+86)|[6](https://www.google.com/search?q=site%3Awww.girls.esjp.info/+87)||[1](https://www.google.com/search?q=site%3Awww.girls.esjp.info/+89)|[1](https://www.google.com/search?q=site%3Awww.girls.esjp.info/+90)||||
 |[Cawaii Girl～かわいいガール～](https://ca-girl.com/) <br />@JR国分寺駅北口||||||||||||||
-|[八王子蜜夢](https://es-cream.tokyo/) <br />@JR八王子駅北口|||||[94](https://www.google.com/search?q=site%3Aes-cream.tokyo/+85)|[18](https://www.google.com/search?q=site%3Aes-cream.tokyo/+86)|[12](https://www.google.com/search?q=site%3Aes-cream.tokyo/+87)|||||||
+|[八王子蜜夢](https://es-cream.tokyo/) <br />@JR八王子駅北口|||||[80](https://www.google.com/search?q=site%3Aes-cream.tokyo/+85)|[19](https://www.google.com/search?q=site%3Aes-cream.tokyo/+86)|[24](https://www.google.com/search?q=site%3Aes-cream.tokyo/+87)|||||||
 |[ピカ・おちゅ～](http://pikachu.ests.jp/) <br />@JR立川駅南口|||[3](https://www.google.com/search?q=site%3Apikachu.ests.jp/+83)||[6](https://www.google.com/search?q=site%3Apikachu.ests.jp/+85)|[14](https://www.google.com/search?q=site%3Apikachu.ests.jp/+86)|[8](https://www.google.com/search?q=site%3Apikachu.ests.jp/+87)|||||||
 |[キャンディ](http://candy.jpn.cm/) <br />@JR八王子駅|||||[2](https://www.google.com/search?q=site%3Acandy.jpn.cm/+85)|[5](https://www.google.com/search?q=site%3Acandy.jpn.cm/+86)|[4](https://www.google.com/search?q=site%3Acandy.jpn.cm/+87)|[1](https://www.google.com/search?q=site%3Acandy.jpn.cm/+88)||||||
 |[アロマラブ](http://aromalove.est-u.com/) <br />@JR八王子駅北口||||||||||||||
@@ -253,6 +254,7 @@ description: "キーワード別チャイエス嬢情報"
 |[Angel Baby ～エンジェルベビー～](http://www.angelbaby.masg.info/) <br />@JR国分寺駅北口|||||[12](https://www.google.com/search?q=site%3Awww.angelbaby.masg.info/+85)|[24](https://www.google.com/search?q=site%3Awww.angelbaby.masg.info/+86)|[12](https://www.google.com/search?q=site%3Awww.angelbaby.masg.info/+87)|||||||
 |[VENUS ヴィーナス](http://relax-massage.tokyo/) <br />@東大和市駅||||||||||||||
 |[佳美](http://www.kami.mensest.com/) <br />@JR羽村駅西口||||||[6](https://www.google.com/search?q=site%3Awww.kami.mensest.com/+86)|[6](https://www.google.com/search?q=site%3Awww.kami.mensest.com/+87)|||||||
+|[BIOU・ビオウ](http://biou-massage.work/) <br />@東久留米駅北口||||[3](https://www.google.com/search?q=site%3Abiou-massage.work/+84)|||[7](https://www.google.com/search?q=site%3Abiou-massage.work/+87)|[4](https://www.google.com/search?q=site%3Abiou-massage.work/+88)|[8](https://www.google.com/search?q=site%3Abiou-massage.work/+89)|||||
 
 
 
@@ -373,4 +375,5 @@ description: "キーワード別チャイエス嬢情報"
 |[Angel Baby ～エンジェルベビー～](http://www.angelbaby.masg.info/) <br />@JR国分寺駅北口|||||
 |[VENUS ヴィーナス](http://relax-massage.tokyo/) <br />@東大和市駅|||||
 |[佳美](http://www.kami.mensest.com/) <br />@JR羽村駅西口|||||
+|[BIOU・ビオウ](http://biou-massage.work/) <br />@東久留米駅北口|||||
 
