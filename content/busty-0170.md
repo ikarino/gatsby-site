@@ -1,5 +1,5 @@
 ---
-date: 2020-12-13
+date: 2020-12-15
 title: "錦糸町・亀戸・新小岩"
 cover: "https://unsplash.it/1152/300/?random?BirchintheRoses"
 categories:
@@ -32,7 +32,7 @@ description: "キーワード別チャイエス嬢情報"
 |[マリアベーラ](http://mariabella.ies.fun/) <br />@JR小岩駅北口|||[3](https://www.google.com/search?q=site%3Amariabella.ies.fun/+E)|||
 |[Aria～アリア～](http://aria.tokyo-relaxtime.asia/) <br />@JR小岩駅北口||||||
 |[Mirage～ミラージュ～](http://mirage.sweet-relaxation.com/) <br />@JR亀戸駅東口||||||
-|[ゆき](http://www.sh-yuki.work/) <br />@JR小岩駅北口||[14](https://www.google.com/search?q=site%3Awww.sh-yuki.work/+D)||||
+|[ゆき](http://www.sh-yuki.work/) <br />@JR小岩駅北口||[15](https://www.google.com/search?q=site%3Awww.sh-yuki.work/+D)||||
 |[Remoon](http://yousei.xyz/) <br />@JR亀戸駅東口||||||
 |[スマイル](http://kinshicho-es.xyz/) <br />@JR錦糸町駅北口|[7](https://www.google.com/search?q=site%3Akinshicho-es.xyz/+C)|||||
 |[癒しの泉](https://iyashinoizumi.com/) <br />@JR錦糸町駅北口||||||
@@ -79,7 +79,7 @@ description: "キーワード別チャイエス嬢情報"
 |[マリアベーラ](http://mariabella.ies.fun/) <br />@JR小岩駅北口|||||||||||||||
 |[Aria～アリア～](http://aria.tokyo-relaxtime.asia/) <br />@JR小岩駅北口|||||||||||||||
 |[Mirage～ミラージュ～](http://mirage.sweet-relaxation.com/) <br />@JR亀戸駅東口|||||||||||||||
-|[ゆき](http://www.sh-yuki.work/) <br />@JR小岩駅北口|||||[11](https://www.google.com/search?q=site%3Awww.sh-yuki.work/+86)||[1](https://www.google.com/search?q=site%3Awww.sh-yuki.work/+88)|[2](https://www.google.com/search?q=site%3Awww.sh-yuki.work/+89)|||||||
+|[ゆき](http://www.sh-yuki.work/) <br />@JR小岩駅北口|||||[12](https://www.google.com/search?q=site%3Awww.sh-yuki.work/+86)||[1](https://www.google.com/search?q=site%3Awww.sh-yuki.work/+88)|[2](https://www.google.com/search?q=site%3Awww.sh-yuki.work/+89)|||||||
 |[Remoon](http://yousei.xyz/) <br />@JR亀戸駅東口|||||||||||||||
 |[スマイル](http://kinshicho-es.xyz/) <br />@JR錦糸町駅北口|||||||||||||||
 |[癒しの泉](https://iyashinoizumi.com/) <br />@JR錦糸町駅北口|||||||||||||||
