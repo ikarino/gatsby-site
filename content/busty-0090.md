@@ -1,5 +1,5 @@
 ---
-date: 2020-12-15
+date: 2020-12-16
 title: "東京・有楽町・銀座"
 cover: "https://unsplash.it/1152/300/?random?BirchintheRoses"
 categories:
@@ -26,7 +26,7 @@ description: "キーワード別チャイエス嬢情報"
 |[Tiara-テイアラ-](https://est-tiara.info/) <br />@東銀座駅A7出口|[1](https://www.google.com/search?q=site%3Aest-tiara.info/+C)|[3](https://www.google.com/search?q=site%3Aest-tiara.info/+D)|[1](https://www.google.com/search?q=site%3Aest-tiara.info/+E)|||
 |[Dream](https://ningyocho-esthe.work/) <br />@人形町駅A1出口||||||
 |[東京日本橋メンズエステ](https://mens-esthe.jpn.vin/) <br />@JR東京駅八重洲北口||[120](https://www.google.com/search?q=site%3Amens-esthe.jpn.vin/+D)||||
-|[極上メンズアロマ日本橋](https://aroma.tyo.cm/) <br />@茅場町駅10番出口|[32](https://www.google.com/search?q=site%3Aaroma.tyo.cm/+C)|[62](https://www.google.com/search?q=site%3Aaroma.tyo.cm/+D)|[70](https://www.google.com/search?q=site%3Aaroma.tyo.cm/+E)|[40](https://www.google.com/search?q=site%3Aaroma.tyo.cm/+F)|[32](https://www.google.com/search?q=site%3Aaroma.tyo.cm/+G)|
+|[極上メンズアロマ日本橋](https://aroma.tyo.cm/) <br />@茅場町駅10番出口|[57](https://www.google.com/search?q=site%3Aaroma.tyo.cm/+C)|[37](https://www.google.com/search?q=site%3Aaroma.tyo.cm/+D)|[70](https://www.google.com/search?q=site%3Aaroma.tyo.cm/+E)|[65](https://www.google.com/search?q=site%3Aaroma.tyo.cm/+F)|[7](https://www.google.com/search?q=site%3Aaroma.tyo.cm/+G)|
 |[夢の郷](http://yume-sato.blue/) <br />@人形町駅A6||||||
 |[紅葉](http://arm-heal.com/) <br />@八丁堀駅A5口|[15](https://www.google.com/search?q=site%3Aarm-heal.com/+C)|||||
 |[元気モリモリ](http://ohbilin.com/) <br />@茅場町駅10番||||||
@@ -41,12 +41,13 @@ description: "キーワード別チャイエス嬢情報"
 |[ラフィール](http://s-este.net/) <br />@新日本橋駅5番出口|[4](https://www.google.com/search?q=site%3As-este.net/+C)|[2](https://www.google.com/search?q=site%3As-este.net/+D)|[6](https://www.google.com/search?q=site%3As-este.net/+E)|[2](https://www.google.com/search?q=site%3As-este.net/+F)||
 |[PRIME・プライム](http://prime-relax.work/) <br />@馬喰町駅1番出口|[7](https://www.google.com/search?q=site%3Aprime-relax.work/+C)|[10](https://www.google.com/search?q=site%3Aprime-relax.work/+D)|[1](https://www.google.com/search?q=site%3Aprime-relax.work/+E)|||
 |[ルナシャイン](http://luna-shine.info/) <br />@小伝馬町駅3番出口|[12](https://www.google.com/search?q=site%3Aluna-shine.info/+C)|[30](https://www.google.com/search?q=site%3Aluna-shine.info/+D)|[13](https://www.google.com/search?q=site%3Aluna-shine.info/+E)|[6](https://www.google.com/search?q=site%3Aluna-shine.info/+F)|[6](https://www.google.com/search?q=site%3Aluna-shine.info/+G)|
-|[Spa Ananda](https://kayabacho-mensesthe.com/) <br />@茅場町駅2番出口|[12](https://www.google.com/search?q=site%3Akayabacho-mensesthe.com/+C)|[34](https://www.google.com/search?q=site%3Akayabacho-mensesthe.com/+D)|[12](https://www.google.com/search?q=site%3Akayabacho-mensesthe.com/+E)|||
+|[Spa Ananda](https://kayabacho-mensesthe.com/) <br />@茅場町駅2番出口|[10](https://www.google.com/search?q=site%3Akayabacho-mensesthe.com/+C)|[36](https://www.google.com/search?q=site%3Akayabacho-mensesthe.com/+D)|[14](https://www.google.com/search?q=site%3Akayabacho-mensesthe.com/+E)|||
 |[快適堂](http://kaitekido.eei.jp/) <br />@八丁堀駅B2出口||||||
 |[Melody Spa -メロディ スパ-](https://melodyspa.tokyo/) <br />@JR新日本橋駅6番出口|[32](https://www.google.com/search?q=site%3Amelodyspa.tokyo/+C)|||[2](https://www.google.com/search?q=site%3Amelodyspa.tokyo/+F)||
 |[アロマアリア](http://e-berry.work/index.html) <br />@水天宮前駅6番出口||||||
 |[COMODO -コモド-](http://www.comodo.relaxjp.info/) <br />@馬喰横山駅A2出口||[6](https://www.google.com/search?q=site%3Awww.comodo.relaxjp.info/+D)||||
 |[癒しの海](http://xn--vckg5a5c7c8c1czd.in.net/) <br />@新富町駅||[16](https://www.google.com/search?q=site%3Axn--vckg5a5c7c8c1czd.in.net/+D)|[4](https://www.google.com/search?q=site%3Axn--vckg5a5c7c8c1czd.in.net/+E)|||
+|[RUMIA・ルミア](https://rumia.tyo.cm/) <br />@人形町駅A5出口||[3](https://www.google.com/search?q=site%3Arumia.tyo.cm/+D)|[1](https://www.google.com/search?q=site%3Arumia.tyo.cm/+E)|||
 |[LuLuAs ～ルルアス～](http://ruana.work/) <br />@水天宮前駅8番出口|[2](https://www.google.com/search?q=site%3Aruana.work/+C)|[6](https://www.google.com/search?q=site%3Aruana.work/+D)|[4](https://www.google.com/search?q=site%3Aruana.work/+E)|||
 |[Sweet](http://sweet-massage.work/) <br />@茅場町駅3番出口|[3](https://www.google.com/search?q=site%3Asweet-massage.work/+C)|[3](https://www.google.com/search?q=site%3Asweet-massage.work/+D)|[6](https://www.google.com/search?q=site%3Asweet-massage.work/+E)|||
 |[ベビーラブリー](http://esthe-massage.red/) <br />@八丁堀駅B4出口||||||
@@ -68,7 +69,7 @@ description: "キーワード別チャイエス嬢情報"
 |[Tiara-テイアラ-](https://est-tiara.info/) <br />@東銀座駅A7出口||||||||||[1](https://www.google.com/search?q=site%3Aest-tiara.info/+89)|||||
 |[Dream](https://ningyocho-esthe.work/) <br />@人形町駅A1出口|||||||||[1](https://www.google.com/search?q=site%3Aningyocho-esthe.work/+88)||||||
 |[東京日本橋メンズエステ](https://mens-esthe.jpn.vin/) <br />@JR東京駅八重洲北口||||||[24](https://www.google.com/search?q=site%3Amens-esthe.jpn.vin/+85)|[96](https://www.google.com/search?q=site%3Amens-esthe.jpn.vin/+86)||||||||
-|[極上メンズアロマ日本橋](https://aroma.tyo.cm/) <br />@茅場町駅10番出口|[32](https://www.google.com/search?q=site%3Aaroma.tyo.cm/+100)||||[30](https://www.google.com/search?q=site%3Aaroma.tyo.cm/+84)||[8](https://www.google.com/search?q=site%3Aaroma.tyo.cm/+86)||[32](https://www.google.com/search?q=site%3Aaroma.tyo.cm/+88)||[38](https://www.google.com/search?q=site%3Aaroma.tyo.cm/+90)||[39](https://www.google.com/search?q=site%3Aaroma.tyo.cm/+93)|[32](https://www.google.com/search?q=site%3Aaroma.tyo.cm/+95)|
+|[極上メンズアロマ日本橋](https://aroma.tyo.cm/) <br />@茅場町駅10番出口|[7](https://www.google.com/search?q=site%3Aaroma.tyo.cm/+100)||||[30](https://www.google.com/search?q=site%3Aaroma.tyo.cm/+84)||[33](https://www.google.com/search?q=site%3Aaroma.tyo.cm/+86)||[7](https://www.google.com/search?q=site%3Aaroma.tyo.cm/+88)||[38](https://www.google.com/search?q=site%3Aaroma.tyo.cm/+90)||[64](https://www.google.com/search?q=site%3Aaroma.tyo.cm/+93)|[32](https://www.google.com/search?q=site%3Aaroma.tyo.cm/+95)|
 |[夢の郷](http://yume-sato.blue/) <br />@人形町駅A6|||||||||||||||
 |[紅葉](http://arm-heal.com/) <br />@八丁堀駅A5口|||||||||||||||
 |[元気モリモリ](http://ohbilin.com/) <br />@茅場町駅10番|||||||||||||||
@@ -89,6 +90,7 @@ description: "キーワード別チャイエス嬢情報"
 |[アロマアリア](http://e-berry.work/index.html) <br />@水天宮前駅6番出口|||||||||||||||
 |[COMODO -コモド-](http://www.comodo.relaxjp.info/) <br />@馬喰横山駅A2出口|||||||[1](https://www.google.com/search?q=site%3Awww.comodo.relaxjp.info/+86)|[5](https://www.google.com/search?q=site%3Awww.comodo.relaxjp.info/+87)|||||||
 |[癒しの海](http://xn--vckg5a5c7c8c1czd.in.net/) <br />@新富町駅|||||||[20](https://www.google.com/search?q=site%3Axn--vckg5a5c7c8c1czd.in.net/+86)||||||||
+|[RUMIA・ルミア](https://rumia.tyo.cm/) <br />@人形町駅A5出口||||[1](https://www.google.com/search?q=site%3Arumia.tyo.cm/+83)||[1](https://www.google.com/search?q=site%3Arumia.tyo.cm/+85)|[1](https://www.google.com/search?q=site%3Arumia.tyo.cm/+86)|[1](https://www.google.com/search?q=site%3Arumia.tyo.cm/+87)|||||||
 |[LuLuAs ～ルルアス～](http://ruana.work/) <br />@水天宮前駅8番出口|||||||[2](https://www.google.com/search?q=site%3Aruana.work/+86)|[2](https://www.google.com/search?q=site%3Aruana.work/+87)|[1](https://www.google.com/search?q=site%3Aruana.work/+88)|[1](https://www.google.com/search?q=site%3Aruana.work/+89)|||||
 |[Sweet](http://sweet-massage.work/) <br />@茅場町駅3番出口||||||[3](https://www.google.com/search?q=site%3Asweet-massage.work/+85)|[3](https://www.google.com/search?q=site%3Asweet-massage.work/+86)||[3](https://www.google.com/search?q=site%3Asweet-massage.work/+88)|[3](https://www.google.com/search?q=site%3Asweet-massage.work/+89)|||||
 |[ベビーラブリー](http://esthe-massage.red/) <br />@八丁堀駅B4出口|||||||||||||||
@@ -131,6 +133,7 @@ description: "キーワード別チャイエス嬢情報"
 |[アロマアリア](http://e-berry.work/index.html) <br />@水天宮前駅6番出口|||
 |[COMODO -コモド-](http://www.comodo.relaxjp.info/) <br />@馬喰横山駅A2出口|||
 |[癒しの海](http://xn--vckg5a5c7c8c1czd.in.net/) <br />@新富町駅|||
+|[RUMIA・ルミア](https://rumia.tyo.cm/) <br />@人形町駅A5出口|||
 |[LuLuAs ～ルルアス～](http://ruana.work/) <br />@水天宮前駅8番出口|||
 |[Sweet](http://sweet-massage.work/) <br />@茅場町駅3番出口|||
 |[ベビーラブリー](http://esthe-massage.red/) <br />@八丁堀駅B4出口|||
