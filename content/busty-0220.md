@@ -1,5 +1,5 @@
 ---
-date: 2020-12-16
+date: 2020-12-17
 title: "練馬・下赤塚"
 cover: "https://unsplash.it/1152/300/?random?BirchintheRoses"
 categories:
@@ -131,7 +131,7 @@ description: "キーワード別チャイエス嬢情報"
 |[華～はな～](http://www.hanaest.net/) <br />@下赤塚駅北口||
 |[Lemon](https://massage.nerima-mensesthe.net/) <br />@練馬駅西口||
 |[夜のガーデン](http://koukoku.xyz/garden/) <br />@練馬駅||
-|[バビ](http://giuytor.xyz/) <br />@練馬駅A1出口|[6](https://www.google.com/search?q=site%3Agiuytor.xyz/+乳)|
+|[バビ](http://giuytor.xyz/) <br />@練馬駅A1出口|[3](https://www.google.com/search?q=site%3Agiuytor.xyz/+乳)|
 |[癒しの部屋](http://www.seoul.esjp.info/) <br />@練馬駅西口||
 |[姫のゆびさき](http://nymphe-est.biz/) <br />@東武練馬駅北口||
 |[姫](http://anzu.abnavi.info/) <br />@成増駅||

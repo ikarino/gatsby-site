@@ -1,5 +1,5 @@
 ---
-date: 2020-12-16
+date: 2020-12-17
 title: "町田・相模原・厚木・大和"
 cover: "https://unsplash.it/1152/300/?random?BirchintheRoses"
 categories:
@@ -113,7 +113,6 @@ description: "キーワード別チャイエス嬢情報"
 |[Angela ～アンジェラ～](http://www.angela.masg.info/) <br />@中央林間駅北口|[16](https://www.google.com/search?q=site%3Awww.angela.masg.info/+C)|[24](https://www.google.com/search?q=site%3Awww.angela.masg.info/+D)|||||
 |[Lucky](http://biretuip.xyz/) <br />@本厚木駅北口|||||||
 |[Alice ～アリス～](http://www.alice.iesjp.com/) <br />@本厚木駅北口|[4](https://www.google.com/search?q=site%3Awww.alice.iesjp.com/+C)|[16](https://www.google.com/search?q=site%3Awww.alice.iesjp.com/+D)|||||
-|[みさき](https://misaki.iest.info/) <br />@本厚木駅北口|[16](https://www.google.com/search?q=site%3Amisaki.iest.info/+C)|[27](https://www.google.com/search?q=site%3Amisaki.iest.info/+D)|||||
 |[心の夢](http://forever-est.xyz/) <br />@中央林間駅北口||[5](https://www.google.com/search?q=site%3Aforever-est.xyz/+D)|[1](https://www.google.com/search?q=site%3Aforever-est.xyz/+E)||||
 |[縁](http://en-massage.work/) <br />@相模大野駅南口|[20](https://www.google.com/search?q=site%3Aen-massage.work/+C)|[3](https://www.google.com/search?q=site%3Aen-massage.work/+D)|||||
 |[優しい夜](http://pinklibon.xyz/) <br />@大和駅|[1](https://www.google.com/search?q=site%3Apinklibon.xyz/+C)|[4](https://www.google.com/search?q=site%3Apinklibon.xyz/+D)|||||
@@ -135,6 +134,7 @@ description: "キーワード別チャイエス嬢情報"
 |[Cocoa](http://cocoa.ests.jp/) <br />@大和駅南口|[24](https://www.google.com/search?q=site%3Acocoa.ests.jp/+C)|[14](https://www.google.com/search?q=site%3Acocoa.ests.jp/+D)|||||
 |[ラフィール ～Rafeel～](http://vbfncxaop.xyz/) <br />@JR相模原駅南口|||||||
 |[ニャーニャ](http://www.nyanya.mesthe.com/) <br />@本厚木駅北口||[16](https://www.google.com/search?q=site%3Awww.nyanya.mesthe.com/+D)|[4](https://www.google.com/search?q=site%3Awww.nyanya.mesthe.com/+E)||||
+|[dorami](http://dorami-jp.work/) <br />@本厚木駅北口|||||||
 
 
 
@@ -235,7 +235,6 @@ description: "キーワード別チャイエス嬢情報"
 |[Angela ～アンジェラ～](http://www.angela.masg.info/) <br />@中央林間駅北口||[8](https://www.google.com/search?q=site%3Awww.angela.masg.info/+82)|||[16](https://www.google.com/search?q=site%3Awww.angela.masg.info/+85)|[8](https://www.google.com/search?q=site%3Awww.angela.masg.info/+86)|[8](https://www.google.com/search?q=site%3Awww.angela.masg.info/+87)||||||||
 |[Lucky](http://biretuip.xyz/) <br />@本厚木駅北口|||||||||||||||
 |[Alice ～アリス～](http://www.alice.iesjp.com/) <br />@本厚木駅北口||||||[4](https://www.google.com/search?q=site%3Awww.alice.iesjp.com/+86)|[16](https://www.google.com/search?q=site%3Awww.alice.iesjp.com/+87)||||||||
-|[みさき](https://misaki.iest.info/) <br />@本厚木駅北口|||||[12](https://www.google.com/search?q=site%3Amisaki.iest.info/+85)|[15](https://www.google.com/search?q=site%3Amisaki.iest.info/+86)|||||||||
 |[心の夢](http://forever-est.xyz/) <br />@中央林間駅北口||||||[6](https://www.google.com/search?q=site%3Aforever-est.xyz/+86)|||||||||
 |[縁](http://en-massage.work/) <br />@相模大野駅南口|||[3](https://www.google.com/search?q=site%3Aen-massage.work/+83)|||[6](https://www.google.com/search?q=site%3Aen-massage.work/+86)|[3](https://www.google.com/search?q=site%3Aen-massage.work/+87)||||||||
 |[優しい夜](http://pinklibon.xyz/) <br />@大和駅|||||[3](https://www.google.com/search?q=site%3Apinklibon.xyz/+85)|[1](https://www.google.com/search?q=site%3Apinklibon.xyz/+86)|[1](https://www.google.com/search?q=site%3Apinklibon.xyz/+87)||||||||
@@ -257,6 +256,7 @@ description: "キーワード別チャイエス嬢情報"
 |[Cocoa](http://cocoa.ests.jp/) <br />@大和駅南口|||[1](https://www.google.com/search?q=site%3Acocoa.ests.jp/+83)||[3](https://www.google.com/search?q=site%3Acocoa.ests.jp/+85)|[8](https://www.google.com/search?q=site%3Acocoa.ests.jp/+86)|[3](https://www.google.com/search?q=site%3Acocoa.ests.jp/+87)||||||||
 |[ラフィール ～Rafeel～](http://vbfncxaop.xyz/) <br />@JR相模原駅南口|||||||||||||||
 |[ニャーニャ](http://www.nyanya.mesthe.com/) <br />@本厚木駅北口||||||[4](https://www.google.com/search?q=site%3Awww.nyanya.mesthe.com/+86)|[4](https://www.google.com/search?q=site%3Awww.nyanya.mesthe.com/+87)|[8](https://www.google.com/search?q=site%3Awww.nyanya.mesthe.com/+88)|||[4](https://www.google.com/search?q=site%3Awww.nyanya.mesthe.com/+91)||||
+|[dorami](http://dorami-jp.work/) <br />@本厚木駅北口|||||||||||||||
 
 
 
@@ -357,7 +357,6 @@ description: "キーワード別チャイエス嬢情報"
 |[Angela ～アンジェラ～](http://www.angela.masg.info/) <br />@中央林間駅北口||||||
 |[Lucky](http://biretuip.xyz/) <br />@本厚木駅北口||||||
 |[Alice ～アリス～](http://www.alice.iesjp.com/) <br />@本厚木駅北口||||||
-|[みさき](https://misaki.iest.info/) <br />@本厚木駅北口||||||
 |[心の夢](http://forever-est.xyz/) <br />@中央林間駅北口||||||
 |[縁](http://en-massage.work/) <br />@相模大野駅南口||||||
 |[優しい夜](http://pinklibon.xyz/) <br />@大和駅||||||
@@ -379,4 +378,5 @@ description: "キーワード別チャイエス嬢情報"
 |[Cocoa](http://cocoa.ests.jp/) <br />@大和駅南口||||||
 |[ラフィール ～Rafeel～](http://vbfncxaop.xyz/) <br />@JR相模原駅南口||||||
 |[ニャーニャ](http://www.nyanya.mesthe.com/) <br />@本厚木駅北口||||||
+|[dorami](http://dorami-jp.work/) <br />@本厚木駅北口||||||
 
