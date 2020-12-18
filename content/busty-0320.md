@@ -1,5 +1,5 @@
 ---
-date: 2020-12-17
+date: 2020-12-18
 title: "川崎・鶴見"
 cover: "https://unsplash.it/1152/300/?random?BirchintheRoses"
 categories:
@@ -25,7 +25,7 @@ description: "キーワード別チャイエス嬢情報"
 |:--|:---:|:---:|:---:|:---:|
 |[クラウン・Crown](http://www.crownman.tank.jp/) <br />@JR鶴見駅|||||
 |[癒健楽](http://es-china.info/) <br />@JR川崎駅東口|||||
-|[福縁・FUKUEN](http://www.fukuen.in/) <br />@JR鶴見駅東口|||||
+|[福縁・FUKUEN](http://www.fukuen.in/) <br />@JR鶴見駅東口||||[2](https://www.google.com/search?q=site%3Awww.fukuen.in/+G)|
 |[月下美人](https://moon-beauty.jp/) <br />@JR鶴見駅東口|[36](https://www.google.com/search?q=site%3Amoon-beauty.jp/+C)|[45](https://www.google.com/search?q=site%3Amoon-beauty.jp/+D)|||
 |[桃源郷](http://www.iyasi-massage.com/) <br />@JR川崎駅東口|||||
 |[Yulala](http://esthe-heal.com/) <br />@JR鶴見駅東口|[23](https://www.google.com/search?q=site%3Aesthe-heal.com/+C)||||
@@ -82,7 +82,7 @@ description: "キーワード別チャイエス嬢情報"
 |[GooD](http://good.abnavi.info/) <br />@JR鶴見駅東口||||[8](https://www.google.com/search?q=site%3Agood.abnavi.info/+84)|[32](https://www.google.com/search?q=site%3Agood.abnavi.info/+85)|[16](https://www.google.com/search?q=site%3Agood.abnavi.info/+86)||[8](https://www.google.com/search?q=site%3Agood.abnavi.info/+88)||||
 |[HaNa](http://www.play-land.work) <br />@京急鶴見駅東口||||||||||||
 |[縁園](http://rabbit.est.cm/) <br />@JR川崎駅東口||||||[16](https://www.google.com/search?q=site%3Arabbit.est.cm/+86)||||||
-|[ギャルズ](http://gyaruzu.esnavi.work/) <br />@JR川崎駅西口|||[2](https://www.google.com/search?q=site%3Agyaruzu.esnavi.work/+83)|[3](https://www.google.com/search?q=site%3Agyaruzu.esnavi.work/+84)||[3](https://www.google.com/search?q=site%3Agyaruzu.esnavi.work/+86)||[2](https://www.google.com/search?q=site%3Agyaruzu.esnavi.work/+88)|[13](https://www.google.com/search?q=site%3Agyaruzu.esnavi.work/+89)|[5](https://www.google.com/search?q=site%3Agyaruzu.esnavi.work/+90)||
+|[ギャルズ](http://gyaruzu.esnavi.work/) <br />@JR川崎駅西口|||[2](https://www.google.com/search?q=site%3Agyaruzu.esnavi.work/+83)|[3](https://www.google.com/search?q=site%3Agyaruzu.esnavi.work/+84)||[4](https://www.google.com/search?q=site%3Agyaruzu.esnavi.work/+86)||[3](https://www.google.com/search?q=site%3Agyaruzu.esnavi.work/+88)|[12](https://www.google.com/search?q=site%3Agyaruzu.esnavi.work/+89)|[4](https://www.google.com/search?q=site%3Agyaruzu.esnavi.work/+90)||
 |[I for You](http://iforyou.iyasi.me/) <br />@JR鶴見駅東口||||[2](https://www.google.com/search?q=site%3Aiforyou.iyasi.me/+84)|[2](https://www.google.com/search?q=site%3Aiforyou.iyasi.me/+85)|||||||
 |[制服美少女](http://seifuku.esnavi.work/) <br />@JR川崎駅西口|||[2](https://www.google.com/search?q=site%3Aseifuku.esnavi.work/+83)|||[2](https://www.google.com/search?q=site%3Aseifuku.esnavi.work/+86)|[1](https://www.google.com/search?q=site%3Aseifuku.esnavi.work/+87)|[2](https://www.google.com/search?q=site%3Aseifuku.esnavi.work/+88)|[2](https://www.google.com/search?q=site%3Aseifuku.esnavi.work/+89)|||
 |[Men’s Pal Spa・メンズパルスパ](https://www.pal-spa.com/) <br />@JR鶴見駅東口|[1](https://www.google.com/search?q=site%3Awww.pal-spa.com/+100)|||||||||||
@@ -99,35 +99,35 @@ description: "キーワード別チャイエス嬢情報"
 
 ### 直接表記
 
-|店名|セクシー|ダイナマイト|乳|
-|:--|:---:|:---:|:---:|
-|[クラウン・Crown](http://www.crownman.tank.jp/) <br />@JR鶴見駅|||[2](https://www.google.com/search?q=site%3Awww.crownman.tank.jp/+乳)|
-|[癒健楽](http://es-china.info/) <br />@JR川崎駅東口||||
-|[福縁・FUKUEN](http://www.fukuen.in/) <br />@JR鶴見駅東口|[1](https://www.google.com/search?q=site%3Awww.fukuen.in/+セクシー)|||
-|[月下美人](https://moon-beauty.jp/) <br />@JR鶴見駅東口|[4](https://www.google.com/search?q=site%3Amoon-beauty.jp/+セクシー)|||
-|[桃源郷](http://www.iyasi-massage.com/) <br />@JR川崎駅東口||||
-|[Yulala](http://esthe-heal.com/) <br />@JR鶴見駅東口||||
-|[寵深花風](http://kafu.ests.co/) <br />@JR矢向駅西口||||
-|[朝露](http://asatsuyu-es.com/) <br />@JR鶴見駅西口||||
-|[バブりん娘](http://baburin.iest.info/) <br />@京急鶴見駅東口||||
-|[チェリー](http://cherry.est-gogo.com/) <br />@JR鶴見駅西口||||
-|[爽やかな朝](http://massage-salon.xyz/) <br />@JR川崎駅東口||||
-|[癒し風～いやしかぜ～](http://iyashi-kaze.oks.bz/) <br />@JR川崎駅東口||||
-|[Lucky・ラッキー](http://t-lucky.work/) <br />@鶴見駅東口||||
-|[Smile](http://tsurumi-est.xyz/) <br />@京急鶴見駅東口||||
-|[人魚の恋](http://genkimori.ests.jp/) <br />@JR鶴見駅東口||||
-|[一目惚れ](https://hitomebore.tokyo/) <br />@JR鶴見駅東口||||
-|[ぼくのデリエステ](http://deli-esthe.jpn.mn/) <br />@JR川崎駅東口||||
-|[GooD](http://good.abnavi.info/) <br />@JR鶴見駅東口||||
-|[HaNa](http://www.play-land.work) <br />@京急鶴見駅東口||||
-|[縁園](http://rabbit.est.cm/) <br />@JR川崎駅東口||||
-|[ギャルズ](http://gyaruzu.esnavi.work/) <br />@JR川崎駅西口||||
-|[I for You](http://iforyou.iyasi.me/) <br />@JR鶴見駅東口||||
-|[制服美少女](http://seifuku.esnavi.work/) <br />@JR川崎駅西口|[3](https://www.google.com/search?q=site%3Aseifuku.esnavi.work/+セクシー)|||
-|[Men’s Pal Spa・メンズパルスパ](https://www.pal-spa.com/) <br />@JR鶴見駅東口|[11](https://www.google.com/search?q=site%3Awww.pal-spa.com/+セクシー)|[1](https://www.google.com/search?q=site%3Awww.pal-spa.com/+ダイナマイト)||
-|[GODメンズエステ](http://god-esthe.com/) <br />@JR鶴見駅東口||||
-|[sweet](https://tsurumi-mensesthe.com/) <br />@JR鶴見駅西口||||
-|[For You](http://nymphe-est.xyz/) <br />@JR矢向駅||||
-|[Zero Aroma](http://aroma-zero.com/) <br />@JR鶴見駅東口||||
-|[Barbie・バービー](http://barbie.este88.com/) <br />@JR鶴見駅東口||||
+|店名|セクシー|ダイナマイト|乳|胸|
+|:--|:---:|:---:|:---:|:---:|
+|[クラウン・Crown](http://www.crownman.tank.jp/) <br />@JR鶴見駅|||[2](https://www.google.com/search?q=site%3Awww.crownman.tank.jp/+乳)||
+|[癒健楽](http://es-china.info/) <br />@JR川崎駅東口|||||
+|[福縁・FUKUEN](http://www.fukuen.in/) <br />@JR鶴見駅東口|[2](https://www.google.com/search?q=site%3Awww.fukuen.in/+セクシー)|||[1](https://www.google.com/search?q=site%3Awww.fukuen.in/+胸)|
+|[月下美人](https://moon-beauty.jp/) <br />@JR鶴見駅東口|[4](https://www.google.com/search?q=site%3Amoon-beauty.jp/+セクシー)||||
+|[桃源郷](http://www.iyasi-massage.com/) <br />@JR川崎駅東口|||||
+|[Yulala](http://esthe-heal.com/) <br />@JR鶴見駅東口|||||
+|[寵深花風](http://kafu.ests.co/) <br />@JR矢向駅西口|||||
+|[朝露](http://asatsuyu-es.com/) <br />@JR鶴見駅西口|||||
+|[バブりん娘](http://baburin.iest.info/) <br />@京急鶴見駅東口|||||
+|[チェリー](http://cherry.est-gogo.com/) <br />@JR鶴見駅西口|||||
+|[爽やかな朝](http://massage-salon.xyz/) <br />@JR川崎駅東口|||||
+|[癒し風～いやしかぜ～](http://iyashi-kaze.oks.bz/) <br />@JR川崎駅東口|||||
+|[Lucky・ラッキー](http://t-lucky.work/) <br />@鶴見駅東口|||||
+|[Smile](http://tsurumi-est.xyz/) <br />@京急鶴見駅東口|||||
+|[人魚の恋](http://genkimori.ests.jp/) <br />@JR鶴見駅東口|||||
+|[一目惚れ](https://hitomebore.tokyo/) <br />@JR鶴見駅東口|||||
+|[ぼくのデリエステ](http://deli-esthe.jpn.mn/) <br />@JR川崎駅東口|||||
+|[GooD](http://good.abnavi.info/) <br />@JR鶴見駅東口|||||
+|[HaNa](http://www.play-land.work) <br />@京急鶴見駅東口|||||
+|[縁園](http://rabbit.est.cm/) <br />@JR川崎駅東口|||||
+|[ギャルズ](http://gyaruzu.esnavi.work/) <br />@JR川崎駅西口|||||
+|[I for You](http://iforyou.iyasi.me/) <br />@JR鶴見駅東口|||||
+|[制服美少女](http://seifuku.esnavi.work/) <br />@JR川崎駅西口|[3](https://www.google.com/search?q=site%3Aseifuku.esnavi.work/+セクシー)||||
+|[Men’s Pal Spa・メンズパルスパ](https://www.pal-spa.com/) <br />@JR鶴見駅東口|[11](https://www.google.com/search?q=site%3Awww.pal-spa.com/+セクシー)|[1](https://www.google.com/search?q=site%3Awww.pal-spa.com/+ダイナマイト)|||
+|[GODメンズエステ](http://god-esthe.com/) <br />@JR鶴見駅東口|||||
+|[sweet](https://tsurumi-mensesthe.com/) <br />@JR鶴見駅西口|||||
+|[For You](http://nymphe-est.xyz/) <br />@JR矢向駅|||||
+|[Zero Aroma](http://aroma-zero.com/) <br />@JR鶴見駅東口|||||
+|[Barbie・バービー](http://barbie.este88.com/) <br />@JR鶴見駅東口|||||
 
