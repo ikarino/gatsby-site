@@ -1,5 +1,5 @@
 ---
-date: 2020-12-17
+date: 2020-12-18
 title: "千葉地区"
 cover: "https://unsplash.it/1152/300/?random?BirchintheRoses"
 categories:
@@ -34,7 +34,7 @@ description: "キーワード別チャイエス嬢情報"
 |[Leo](http://www.relax-leo.com/) <br />@勝田台駅南口|[13](https://www.google.com/search?q=site%3Awww.relax-leo.com/+C)|||||
 |[美優](http://www.miyu-est.com/) <br />@習志野駅||||[1](https://www.google.com/search?q=site%3Awww.miyu-est.com/+F)||
 |[BLUEハワイ](http://www.es-bluehawai.com/) <br />@JR津田沼駅北口|[4](https://www.google.com/search?q=site%3Awww.es-bluehawai.com/+C)|[10](https://www.google.com/search?q=site%3Awww.es-bluehawai.com/+D)||||
-|[胡蝶花](http://www.es-chiba.com/) <br />@京成線千葉中央駅東口|[4](https://www.google.com/search?q=site%3Awww.es-chiba.com/+C)|[1](https://www.google.com/search?q=site%3Awww.es-chiba.com/+D)||[1](https://www.google.com/search?q=site%3Awww.es-chiba.com/+F)||
+|[胡蝶花](http://www.es-chiba.com/) <br />@京成線千葉中央駅東口|[4](https://www.google.com/search?q=site%3Awww.es-chiba.com/+C)|[2](https://www.google.com/search?q=site%3Awww.es-chiba.com/+D)||[1](https://www.google.com/search?q=site%3Awww.es-chiba.com/+F)||
 |[麗うらら](http://rosabella.red/) <br />@JR稲毛駅東口||||||
 |[ピーチ](http://peach-est.com/) <br />@JR稲毛駅東口|[17](https://www.google.com/search?q=site%3Apeach-est.com/+C)|||||
 |[金玲瓏-キンレーロー-](http://aimise.com/) <br />@高根木戸駅南口||||||
@@ -144,7 +144,7 @@ description: "キーワード別チャイエス嬢情報"
 |[Leo](http://www.relax-leo.com/) <br />@勝田台駅南口|||||||[24](https://www.google.com/search?q=site%3Awww.relax-leo.com/+85)|[12](https://www.google.com/search?q=site%3Awww.relax-leo.com/+86)|||||||||
 |[美優](http://www.miyu-est.com/) <br />@習志野駅|||||||||[1](https://www.google.com/search?q=site%3Awww.miyu-est.com/+87)||||||||
 |[BLUEハワイ](http://www.es-bluehawai.com/) <br />@JR津田沼駅北口||||||||[4](https://www.google.com/search?q=site%3Awww.es-bluehawai.com/+86)|[8](https://www.google.com/search?q=site%3Awww.es-bluehawai.com/+87)|[2](https://www.google.com/search?q=site%3Awww.es-bluehawai.com/+88)|||||||
-|[胡蝶花](http://www.es-chiba.com/) <br />@京成線千葉中央駅東口||||[1](https://www.google.com/search?q=site%3Awww.es-chiba.com/+82)||||||[1](https://www.google.com/search?q=site%3Awww.es-chiba.com/+88)|[4](https://www.google.com/search?q=site%3Awww.es-chiba.com/+89)||||||
+|[胡蝶花](http://www.es-chiba.com/) <br />@京成線千葉中央駅東口||||[1](https://www.google.com/search?q=site%3Awww.es-chiba.com/+82)||||||[2](https://www.google.com/search?q=site%3Awww.es-chiba.com/+88)|[4](https://www.google.com/search?q=site%3Awww.es-chiba.com/+89)||||||
 |[麗うらら](http://rosabella.red/) <br />@JR稲毛駅東口|||||||||||||||||
 |[ピーチ](http://peach-est.com/) <br />@JR稲毛駅東口|||||||[7](https://www.google.com/search?q=site%3Apeach-est.com/+85)||[1](https://www.google.com/search?q=site%3Apeach-est.com/+87)||[1](https://www.google.com/search?q=site%3Apeach-est.com/+89)||||||
 |[金玲瓏-キンレーロー-](http://aimise.com/) <br />@高根木戸駅南口|||||||||||||||||
