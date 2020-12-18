@@ -1,5 +1,5 @@
 ---
-date: 2020-12-17
+date: 2020-12-18
 title: "神奈川地区"
 cover: "https://unsplash.it/1152/300/?random?BirchintheRoses"
 categories:
@@ -64,9 +64,10 @@ description: "キーワード別チャイエス嬢情報"
 |[夢都美](http://www.airi-est.xyz/) <br />@JR小田原駅東口|[9](https://www.google.com/search?q=site%3Awww.airi-est.xyz/+C)|||||
 |[魔法の女王](http://civebt.xyz/) <br />@湘南台駅西口|||[8](https://www.google.com/search?q=site%3Acivebt.xyz/+E)||[4](https://www.google.com/search?q=site%3Acivebt.xyz/+G)|
 |[元気もりもり](http://genkimorimori.ies.bz/) <br />@秦野駅北口||||||
-|[桜](http://www.sakura.iesjp.com/) <br />@JR東戸塚駅東口|[10](https://www.google.com/search?q=site%3Awww.sakura.iesjp.com/+C)|||||
-|[Best Love ～ベストラブ～](http://www.bestlove.iesjp.com/) <br />@JR平塚駅北口|[21](https://www.google.com/search?q=site%3Awww.bestlove.iesjp.com/+C)|[4](https://www.google.com/search?q=site%3Awww.bestlove.iesjp.com/+D)||||
+|[桜](http://www.sakura.iesjp.com/) <br />@JR東戸塚駅東口||||||
+|[Best Love ～ベストラブ～](http://www.bestlove.iesjp.com/) <br />@JR平塚駅北口||||||
 |[美庵 -ビアン-](http://massage-relax.tokyo/) <br />@上永谷駅||[2](https://www.google.com/search?q=site%3Amassage-relax.tokyo/+D)|[3](https://www.google.com/search?q=site%3Amassage-relax.tokyo/+E)|||
+|[縁](http://en.este88.com/) <br />@JR藤沢駅北口||||||
 
 
 
@@ -119,8 +120,9 @@ description: "キーワード別チャイエス嬢情報"
 |[魔法の女王](http://civebt.xyz/) <br />@湘南台駅西口|||||||||
 |[元気もりもり](http://genkimorimori.ies.bz/) <br />@秦野駅北口|||||||||
 |[桜](http://www.sakura.iesjp.com/) <br />@JR東戸塚駅東口|||||||||
-|[Best Love ～ベストラブ～](http://www.bestlove.iesjp.com/) <br />@JR平塚駅北口||[4](https://www.google.com/search?q=site%3Awww.bestlove.iesjp.com/+85)||[8](https://www.google.com/search?q=site%3Awww.bestlove.iesjp.com/+87)|||||
+|[Best Love ～ベストラブ～](http://www.bestlove.iesjp.com/) <br />@JR平塚駅北口|||||||||
 |[美庵 -ビアン-](http://massage-relax.tokyo/) <br />@上永谷駅|||[5](https://www.google.com/search?q=site%3Amassage-relax.tokyo/+86)||||||
+|[縁](http://en.este88.com/) <br />@JR藤沢駅北口|||||||||
 
 
 
@@ -175,4 +177,5 @@ description: "キーワード別チャイエス嬢情報"
 |[桜](http://www.sakura.iesjp.com/) <br />@JR東戸塚駅東口|
 |[Best Love ～ベストラブ～](http://www.bestlove.iesjp.com/) <br />@JR平塚駅北口|
 |[美庵 -ビアン-](http://massage-relax.tokyo/) <br />@上永谷駅|
+|[縁](http://en.este88.com/) <br />@JR藤沢駅北口|
 
