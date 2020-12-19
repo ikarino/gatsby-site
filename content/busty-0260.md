@@ -1,5 +1,5 @@
 ---
-date: 2020-12-18
+date: 2020-12-19
 title: "京王・小田急線沿線"
 cover: "https://unsplash.it/1152/300/?random?BirchintheRoses"
 categories:
@@ -23,7 +23,7 @@ description: "キーワード別チャイエス嬢情報"
 
 |店名|C|D|E|F|G|
 |:--|:---:|:---:|:---:|:---:|:---:|
-|[椿](http://aroma-tsubaki.com/) <br />@京王多摩センター駅西口|[8](https://www.google.com/search?q=site%3Aaroma-tsubaki.com/+C)|||||
+|[椿](http://aroma-tsubaki.com/) <br />@京王多摩センター駅西口|[9](https://www.google.com/search?q=site%3Aaroma-tsubaki.com/+C)|||||
 |[潤園](http://www.kousei-jyunen.com/) <br />@成城学園前駅||||||
 |[癒しの空間](http://www.iyashikukan.xyz/) <br />@千歳烏山駅北口||||||
 |[Blue Moon](http://bluemoon.ests.jp/) <br />@調布駅東口||||||
@@ -48,7 +48,7 @@ description: "キーワード別チャイエス嬢情報"
 |[COCORO](http://www.iyasi.work/) <br />@調布駅東口||||||
 |[Ruby・ルビー](http://ruby.iest.info/) <br />@登戸駅生田緑地口|[10](https://www.google.com/search?q=site%3Aruby.iest.info/+C)|[12](https://www.google.com/search?q=site%3Aruby.iest.info/+D)||||
 |[マーメイド](http://gakuen.iest.info/) <br />@聖蹟桜ケ丘駅西口||||||
-|[桜雪](https://lu-rinpa.tokyo/) <br />@聖蹟桜ヶ丘駅東口||[8](https://www.google.com/search?q=site%3Alu-rinpa.tokyo/+D)|[7](https://www.google.com/search?q=site%3Alu-rinpa.tokyo/+E)|||
+|[桜雪](https://lu-rinpa.tokyo/) <br />@聖蹟桜ヶ丘駅東口||||||
 |[なでしこ](http://www.nadeshikotamacenter.com/) <br />@多摩センター駅東口|[15](https://www.google.com/search?q=site%3Awww.nadeshikotamacenter.com/+C)|[1](https://www.google.com/search?q=site%3Awww.nadeshikotamacenter.com/+D)|[1](https://www.google.com/search?q=site%3Awww.nadeshikotamacenter.com/+E)|||
 |[恋人](http://koibito.ies.fun/) <br />@永山駅|[27](https://www.google.com/search?q=site%3Akoibito.ies.fun/+C)|[12](https://www.google.com/search?q=site%3Akoibito.ies.fun/+D)|[18](https://www.google.com/search?q=site%3Akoibito.ies.fun/+E)|||
 |[癒し空間](http://space.iyasi.me/) <br />@聖蹟桜ヶ丘駅東口||||||
@@ -76,7 +76,6 @@ description: "キーワード別チャイエス嬢情報"
 |[フェアリー・ウイングス](http://est70.jp/fwg/) <br />@登戸駅生田緑地出口||||||
 |[あや](http://barequite.xyz/) <br />@府中駅北口||||||
 |[魔女っ子](http://est70.jp/mjk/) <br />@調布駅東口||||||
-|[ななこちゃん](http://koukoku.xyz/nanako/) <br />@千歳烏山駅北口|[6](https://www.google.com/search?q=site%3Akoukoku.xyz/nanako/+C)|[3](https://www.google.com/search?q=site%3Akoukoku.xyz/nanako/+D)|[3](https://www.google.com/search?q=site%3Akoukoku.xyz/nanako/+E)|||
 |[N.チェリー](http://est70.jp/nch/) <br />@登戸駅||||||
 |[come here リラクゼーション](http://shes-room.ests.jp/) <br />@高幡不動駅|[66](https://www.google.com/search?q=site%3Ashes-room.ests.jp/+C)|[108](https://www.google.com/search?q=site%3Ashes-room.ests.jp/+D)|[12](https://www.google.com/search?q=site%3Ashes-room.ests.jp/+E)|||
 |[Angel Hand](http://www.rose-mary.work/) <br />@登戸駅生田緑地口||[9](https://www.google.com/search?q=site%3Awww.rose-mary.work/+D)|[7](https://www.google.com/search?q=site%3Awww.rose-mary.work/+E)|[9](https://www.google.com/search?q=site%3Awww.rose-mary.work/+F)||
@@ -92,7 +91,7 @@ description: "キーワード別チャイエス嬢情報"
 |[Crescent -クレッセント-](http://www.dhdwdjw.xyz/) <br />@笹塚駅北口|[6](https://www.google.com/search?q=site%3Awww.dhdwdjw.xyz/+C)|[1](https://www.google.com/search?q=site%3Awww.dhdwdjw.xyz/+D)|[4](https://www.google.com/search?q=site%3Awww.dhdwdjw.xyz/+E)|[1](https://www.google.com/search?q=site%3Awww.dhdwdjw.xyz/+F)||
 |[ラッキー](http://hatagayarelax.xyz/) <br />@幡ヶ谷駅北口||||||
 |[Barbie ～バービー～](http://www.baby.masg.info/) <br />@明大前駅中央口||||||
-|[バービー](http://barbie.estheya.com/) <br />@登戸駅生田緑地口|[1](https://www.google.com/search?q=site%3Abarbie.estheya.com/+C)|[1](https://www.google.com/search?q=site%3Abarbie.estheya.com/+D)|||[1](https://www.google.com/search?q=site%3Abarbie.estheya.com/+G)|
+|[バービー](http://barbie.estheya.com/) <br />@登戸駅生田緑地口|[1](https://www.google.com/search?q=site%3Abarbie.estheya.com/+C)|[1](https://www.google.com/search?q=site%3Abarbie.estheya.com/+D)||[1](https://www.google.com/search?q=site%3Abarbie.estheya.com/+F)|[1](https://www.google.com/search?q=site%3Abarbie.estheya.com/+G)|
 |[オラワク ～Orawaku～](http://orawaku.est888.com/) <br />@千歳烏山駅北口|[1](https://www.google.com/search?q=site%3Aorawaku.est888.com/+C)|[2](https://www.google.com/search?q=site%3Aorawaku.est888.com/+D)|[1](https://www.google.com/search?q=site%3Aorawaku.est888.com/+E)|||
 |[順天](http://www.junten-massage.com/) <br />@府中駅北口|[17](https://www.google.com/search?q=site%3Awww.junten-massage.com/+C)|[6](https://www.google.com/search?q=site%3Awww.junten-massage.com/+D)||||
 |[ファンタジー蝶](https://fantasy.estjp.info/) <br />@向ヶ丘遊園駅||[6](https://www.google.com/search?q=site%3Afantasy.estjp.info/+D)|[3](https://www.google.com/search?q=site%3Afantasy.estjp.info/+E)|||
@@ -102,9 +101,11 @@ description: "キーワード別チャイエス嬢情報"
 |[看護美人](http://www.kangobijin.iesjp.com/) <br />@笹塚駅北口||[4](https://www.google.com/search?q=site%3Awww.kangobijin.iesjp.com/+D)||||
 |[FLOWER](http://flower.est-u.com/) <br />@幡ヶ谷駅北口||||||
 |[ラブハート](http://pre-cious.work/) <br />@JR稲田堤駅||||||
-|[美人クラブ](http://www.bijin-club.relaxjp.info/) <br />@登戸駅生田緑地口||[18](https://www.google.com/search?q=site%3Awww.bijin-club.relaxjp.info/+D)||||
+|[美人クラブ](http://www.bijin-club.relaxjp.info/) <br />@登戸駅生田緑地口||[30](https://www.google.com/search?q=site%3Awww.bijin-club.relaxjp.info/+D)||||
 |[Lovely](http://almond.ests.jp/) <br />@千歳烏山駅南口|[13](https://www.google.com/search?q=site%3Aalmond.ests.jp/+C)|[6](https://www.google.com/search?q=site%3Aalmond.ests.jp/+D)||||
 |[ラビット](http://www.rabbit.esjp.site/) <br />@登戸駅||[32](https://www.google.com/search?q=site%3Awww.rabbit.esjp.site/+D)||||
+|[セクシーガール](http://www.sexy.masg.info/) <br />@つつじヶ丘駅南口||||||
+|[音姫 ～オトヒメ～](http://otohime.relaxnabi.com/) <br />@千歳烏山駅北口||[2](https://www.google.com/search?q=site%3Aotohime.relaxnabi.com/+D)|[2](https://www.google.com/search?q=site%3Aotohime.relaxnabi.com/+E)|||
 
 
 
@@ -168,7 +169,6 @@ description: "キーワード別チャイエス嬢情報"
 |[フェアリー・ウイングス](http://est70.jp/fwg/) <br />@登戸駅生田緑地出口|||||||||||||
 |[あや](http://barequite.xyz/) <br />@府中駅北口|||||||||||||
 |[魔女っ子](http://est70.jp/mjk/) <br />@調布駅東口|||||||||||||
-|[ななこちゃん](http://koukoku.xyz/nanako/) <br />@千歳烏山駅北口||||||||[1](https://www.google.com/search?q=site%3Akoukoku.xyz/nanako/+89)|[2](https://www.google.com/search?q=site%3Akoukoku.xyz/nanako/+90)|[1](https://www.google.com/search?q=site%3Akoukoku.xyz/nanako/+91)|[2](https://www.google.com/search?q=site%3Akoukoku.xyz/nanako/+92)||
 |[N.チェリー](http://est70.jp/nch/) <br />@登戸駅|||||||||||||
 |[come here リラクゼーション](http://shes-room.ests.jp/) <br />@高幡不動駅||||[48](https://www.google.com/search?q=site%3Ashes-room.ests.jp/+85)|[24](https://www.google.com/search?q=site%3Ashes-room.ests.jp/+86)|[48](https://www.google.com/search?q=site%3Ashes-room.ests.jp/+87)|[12](https://www.google.com/search?q=site%3Ashes-room.ests.jp/+88)||||||
 |[Angel Hand](http://www.rose-mary.work/) <br />@登戸駅生田緑地口||||[9](https://www.google.com/search?q=site%3Awww.rose-mary.work/+85)||[7](https://www.google.com/search?q=site%3Awww.rose-mary.work/+87)|[9](https://www.google.com/search?q=site%3Awww.rose-mary.work/+88)||||||
@@ -184,7 +184,7 @@ description: "キーワード別チャイエス嬢情報"
 |[Crescent -クレッセント-](http://www.dhdwdjw.xyz/) <br />@笹塚駅北口||||[4](https://www.google.com/search?q=site%3Awww.dhdwdjw.xyz/+85)|[5](https://www.google.com/search?q=site%3Awww.dhdwdjw.xyz/+86)||||||||
 |[ラッキー](http://hatagayarelax.xyz/) <br />@幡ヶ谷駅北口|||||||||||||
 |[Barbie ～バービー～](http://www.baby.masg.info/) <br />@明大前駅中央口|||||||||||||
-|[バービー](http://barbie.estheya.com/) <br />@登戸駅生田緑地口||||||[1](https://www.google.com/search?q=site%3Abarbie.estheya.com/+87)|||||[1](https://www.google.com/search?q=site%3Abarbie.estheya.com/+92)|[1](https://www.google.com/search?q=site%3Abarbie.estheya.com/+94)|
+|[バービー](http://barbie.estheya.com/) <br />@登戸駅生田緑地口||||||[1](https://www.google.com/search?q=site%3Abarbie.estheya.com/+87)|||||[2](https://www.google.com/search?q=site%3Abarbie.estheya.com/+92)|[1](https://www.google.com/search?q=site%3Abarbie.estheya.com/+94)|
 |[オラワク ～Orawaku～](http://orawaku.est888.com/) <br />@千歳烏山駅北口||||||[1](https://www.google.com/search?q=site%3Aorawaku.est888.com/+87)|[1](https://www.google.com/search?q=site%3Aorawaku.est888.com/+88)|[2](https://www.google.com/search?q=site%3Aorawaku.est888.com/+89)|||||
 |[順天](http://www.junten-massage.com/) <br />@府中駅北口||||[2](https://www.google.com/search?q=site%3Awww.junten-massage.com/+85)||[4](https://www.google.com/search?q=site%3Awww.junten-massage.com/+87)|[4](https://www.google.com/search?q=site%3Awww.junten-massage.com/+88)||||||
 |[ファンタジー蝶](https://fantasy.estjp.info/) <br />@向ヶ丘遊園駅|||||||[3](https://www.google.com/search?q=site%3Afantasy.estjp.info/+88)|[6](https://www.google.com/search?q=site%3Afantasy.estjp.info/+89)|||||
@@ -194,9 +194,11 @@ description: "キーワード別チャイエス嬢情報"
 |[看護美人](http://www.kangobijin.iesjp.com/) <br />@笹塚駅北口||||||[4](https://www.google.com/search?q=site%3Awww.kangobijin.iesjp.com/+87)|||||||
 |[FLOWER](http://flower.est-u.com/) <br />@幡ヶ谷駅北口|||||||||||||
 |[ラブハート](http://pre-cious.work/) <br />@JR稲田堤駅|||||||||||||
-|[美人クラブ](http://www.bijin-club.relaxjp.info/) <br />@登戸駅生田緑地口|||||[6](https://www.google.com/search?q=site%3Awww.bijin-club.relaxjp.info/+86)|[12](https://www.google.com/search?q=site%3Awww.bijin-club.relaxjp.info/+87)|||||||
+|[美人クラブ](http://www.bijin-club.relaxjp.info/) <br />@登戸駅生田緑地口|||||[6](https://www.google.com/search?q=site%3Awww.bijin-club.relaxjp.info/+86)|[24](https://www.google.com/search?q=site%3Awww.bijin-club.relaxjp.info/+87)|||||||
 |[Lovely](http://almond.ests.jp/) <br />@千歳烏山駅南口||||[2](https://www.google.com/search?q=site%3Aalmond.ests.jp/+85)|[2](https://www.google.com/search?q=site%3Aalmond.ests.jp/+86)|[2](https://www.google.com/search?q=site%3Aalmond.ests.jp/+87)|||||||
 |[ラビット](http://www.rabbit.esjp.site/) <br />@登戸駅||||[16](https://www.google.com/search?q=site%3Awww.rabbit.esjp.site/+85)||[8](https://www.google.com/search?q=site%3Awww.rabbit.esjp.site/+87)|[8](https://www.google.com/search?q=site%3Awww.rabbit.esjp.site/+88)||||||
+|[セクシーガール](http://www.sexy.masg.info/) <br />@つつじヶ丘駅南口|||||||||||||
+|[音姫 ～オトヒメ～](http://otohime.relaxnabi.com/) <br />@千歳烏山駅北口||||||||[2](https://www.google.com/search?q=site%3Aotohime.relaxnabi.com/+89)||[1](https://www.google.com/search?q=site%3Aotohime.relaxnabi.com/+91)|||
 
 
 
@@ -260,7 +262,6 @@ description: "キーワード別チャイエス嬢情報"
 |[フェアリー・ウイングス](http://est70.jp/fwg/) <br />@登戸駅生田緑地出口|||||
 |[あや](http://barequite.xyz/) <br />@府中駅北口|||||
 |[魔女っ子](http://est70.jp/mjk/) <br />@調布駅東口|||||
-|[ななこちゃん](http://koukoku.xyz/nanako/) <br />@千歳烏山駅北口|||||
 |[N.チェリー](http://est70.jp/nch/) <br />@登戸駅|||||
 |[come here リラクゼーション](http://shes-room.ests.jp/) <br />@高幡不動駅|||||
 |[Angel Hand](http://www.rose-mary.work/) <br />@登戸駅生田緑地口|||||
@@ -289,4 +290,6 @@ description: "キーワード別チャイエス嬢情報"
 |[美人クラブ](http://www.bijin-club.relaxjp.info/) <br />@登戸駅生田緑地口||[1](https://www.google.com/search?q=site%3Awww.bijin-club.relaxjp.info/+乳)|[1](https://www.google.com/search?q=site%3Awww.bijin-club.relaxjp.info/+巨乳)||
 |[Lovely](http://almond.ests.jp/) <br />@千歳烏山駅南口|||||
 |[ラビット](http://www.rabbit.esjp.site/) <br />@登戸駅|||||
+|[セクシーガール](http://www.sexy.masg.info/) <br />@つつじヶ丘駅南口|[15](https://www.google.com/search?q=site%3Awww.sexy.masg.info/+セクシー)||||
+|[音姫 ～オトヒメ～](http://otohime.relaxnabi.com/) <br />@千歳烏山駅北口|||||
 

@@ -1,5 +1,5 @@
 ---
-date: 2020-12-18
+date: 2020-12-19
 title: "飯田橋・水道橋・御茶ノ水"
 cover: "https://unsplash.it/1152/300/?random?BirchintheRoses"
 categories:
@@ -23,7 +23,7 @@ description: "キーワード別チャイエス嬢情報"
 
 |店名|C|D|E|F|G|
 |:--|:---:|:---:|:---:|:---:|:---:|
-|[癒しの泉](https://izumi-esthe.tokyo/) <br />@小川町駅B5出口|[22](https://www.google.com/search?q=site%3Aizumi-esthe.tokyo/+C)|[58](https://www.google.com/search?q=site%3Aizumi-esthe.tokyo/+D)|[26](https://www.google.com/search?q=site%3Aizumi-esthe.tokyo/+E)||[4](https://www.google.com/search?q=site%3Aizumi-esthe.tokyo/+G)|
+|[癒しの泉](https://izumi-esthe.tokyo/) <br />@小川町駅B5出口|[18](https://www.google.com/search?q=site%3Aizumi-esthe.tokyo/+C)|[68](https://www.google.com/search?q=site%3Aizumi-esthe.tokyo/+D)|[26](https://www.google.com/search?q=site%3Aizumi-esthe.tokyo/+E)||[4](https://www.google.com/search?q=site%3Aizumi-esthe.tokyo/+G)|
 |[Lime](http://sln-relax.com/) <br />@JR水道橋駅西口|[17](https://www.google.com/search?q=site%3Asln-relax.com/+C)|||||
 |[はなび](http://jinbocho.xyz/) <br />@神保町駅A5出口||||||
 |[アロマラッキー](http://aromalucky.xyz/) <br />@小川町駅B4||||||
@@ -35,7 +35,7 @@ description: "キーワード別チャイエス嬢情報"
 |[ビーナス](http://venus.tyo.cm/) <br />@JR水道橋駅東口||[18](https://www.google.com/search?q=site%3Avenus.tyo.cm/+D)|[6](https://www.google.com/search?q=site%3Avenus.tyo.cm/+E)|[6](https://www.google.com/search?q=site%3Avenus.tyo.cm/+F)||
 |[癒しの心](http://www.iyashikokoro.xyz/) <br />@JR飯田橋駅東口||||||
 |[春姫](https://haruhime.ests.jp/) <br />@本郷三丁目駅5番出口|[16](https://www.google.com/search?q=site%3Aharuhime.ests.jp/+C)|[5](https://www.google.com/search?q=site%3Aharuhime.ests.jp/+D)|[10](https://www.google.com/search?q=site%3Aharuhime.ests.jp/+E)|||
-|[キララ](https://kira.uouono.com/) <br />@神保町駅A1出口|[4](https://www.google.com/search?q=site%3Akira.uouono.com/+C)|[14](https://www.google.com/search?q=site%3Akira.uouono.com/+D)|[10](https://www.google.com/search?q=site%3Akira.uouono.com/+E)|[3](https://www.google.com/search?q=site%3Akira.uouono.com/+F)||
+|[キララ](https://kira.uouono.com/) <br />@神保町駅A1出口|[4](https://www.google.com/search?q=site%3Akira.uouono.com/+C)|[13](https://www.google.com/search?q=site%3Akira.uouono.com/+D)|[10](https://www.google.com/search?q=site%3Akira.uouono.com/+E)|[3](https://www.google.com/search?q=site%3Akira.uouono.com/+F)||
 |[みさき](http://rioplioop.xyz/) <br />@JR水道橋駅東口|[2](https://www.google.com/search?q=site%3Arioplioop.xyz/+C)|[3](https://www.google.com/search?q=site%3Arioplioop.xyz/+D)||[8](https://www.google.com/search?q=site%3Arioplioop.xyz/+F)||
 |[桃源郷](https://akihabara-mensesthe.com/) <br />@JR御茶ノ水駅御茶ノ水橋口||[15](https://www.google.com/search?q=site%3Aakihabara-mensesthe.com/+D)||||
 
