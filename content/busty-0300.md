@@ -1,5 +1,5 @@
 ---
-date: 2020-12-18
+date: 2020-12-19
 title: "神奈川地区"
 cover: "https://unsplash.it/1152/300/?random?BirchintheRoses"
 categories:
@@ -55,7 +55,7 @@ description: "キーワード別チャイエス嬢情報"
 |[空澄 -あすみ-](https://asumi.estjp.info/) <br />@小田原駅東口|||[4](https://www.google.com/search?q=site%3Aasumi.estjp.info/+E)|[2](https://www.google.com/search?q=site%3Aasumi.estjp.info/+F)||
 |[華蓮](http://karen.ies.fun/) <br />@JR茅ヶ崎駅北口||[3](https://www.google.com/search?q=site%3Akaren.ies.fun/+D)||||
 |[カノジョの部屋](https://kanojyo-room.jpn.cm/) <br />@上大岡駅|[40](https://www.google.com/search?q=site%3Akanojyo-room.jpn.cm/+C)|[48](https://www.google.com/search?q=site%3Akanojyo-room.jpn.cm/+D)||||
-|[萌え](http://pretty-esthe.com/) <br />@JR戸塚駅東口||[13](https://www.google.com/search?q=site%3Apretty-esthe.com/+D)|[11](https://www.google.com/search?q=site%3Apretty-esthe.com/+E)|||
+|[萌え](http://pretty-esthe.com/) <br />@JR戸塚駅東口||[16](https://www.google.com/search?q=site%3Apretty-esthe.com/+D)|[11](https://www.google.com/search?q=site%3Apretty-esthe.com/+E)|||
 |[メイド](http://meido.est888.com/) <br />@JR東戸塚駅東口||[6](https://www.google.com/search?q=site%3Ameido.est888.com/+D)|[2](https://www.google.com/search?q=site%3Ameido.est888.com/+E)|||
 |[アロエ](http://oil.abnavi.info/) <br />@鶴巻温泉駅北口|[15](https://www.google.com/search?q=site%3Aoil.abnavi.info/+C)|[8](https://www.google.com/search?q=site%3Aoil.abnavi.info/+D)||||
 |[リブレス](http://es-libres.com/) <br />@JR東戸塚駅西口|[1](https://www.google.com/search?q=site%3Aes-libres.com/+C)|[2](https://www.google.com/search?q=site%3Aes-libres.com/+D)|[1](https://www.google.com/search?q=site%3Aes-libres.com/+E)|||
@@ -64,8 +64,8 @@ description: "キーワード別チャイエス嬢情報"
 |[夢都美](http://www.airi-est.xyz/) <br />@JR小田原駅東口|[9](https://www.google.com/search?q=site%3Awww.airi-est.xyz/+C)|||||
 |[魔法の女王](http://civebt.xyz/) <br />@湘南台駅西口|||[8](https://www.google.com/search?q=site%3Acivebt.xyz/+E)||[4](https://www.google.com/search?q=site%3Acivebt.xyz/+G)|
 |[元気もりもり](http://genkimorimori.ies.bz/) <br />@秦野駅北口||||||
-|[桜](http://www.sakura.iesjp.com/) <br />@JR東戸塚駅東口||||||
-|[Best Love ～ベストラブ～](http://www.bestlove.iesjp.com/) <br />@JR平塚駅北口||||||
+|[桜](http://www.sakura.iesjp.com/) <br />@JR東戸塚駅東口|[10](https://www.google.com/search?q=site%3Awww.sakura.iesjp.com/+C)|||||
+|[Best Love ～ベストラブ～](http://www.bestlove.iesjp.com/) <br />@JR平塚駅北口|[21](https://www.google.com/search?q=site%3Awww.bestlove.iesjp.com/+C)|[4](https://www.google.com/search?q=site%3Awww.bestlove.iesjp.com/+D)||||
 |[美庵 -ビアン-](http://massage-relax.tokyo/) <br />@上永谷駅||[2](https://www.google.com/search?q=site%3Amassage-relax.tokyo/+D)|[3](https://www.google.com/search?q=site%3Amassage-relax.tokyo/+E)|||
 |[縁](http://en.este88.com/) <br />@JR藤沢駅北口||||||
 
@@ -110,7 +110,7 @@ description: "キーワード別チャイエス嬢情報"
 |[空澄 -あすみ-](https://asumi.estjp.info/) <br />@小田原駅東口|||||[2](https://www.google.com/search?q=site%3Aasumi.estjp.info/+88)||[4](https://www.google.com/search?q=site%3Aasumi.estjp.info/+90)||
 |[華蓮](http://karen.ies.fun/) <br />@JR茅ヶ崎駅北口|||[3](https://www.google.com/search?q=site%3Akaren.ies.fun/+86)||||||
 |[カノジョの部屋](https://kanojyo-room.jpn.cm/) <br />@上大岡駅||[12](https://www.google.com/search?q=site%3Akanojyo-room.jpn.cm/+85)|[24](https://www.google.com/search?q=site%3Akanojyo-room.jpn.cm/+86)|[12](https://www.google.com/search?q=site%3Akanojyo-room.jpn.cm/+87)|||||
-|[萌え](http://pretty-esthe.com/) <br />@JR戸塚駅東口||[3](https://www.google.com/search?q=site%3Apretty-esthe.com/+85)|[21](https://www.google.com/search?q=site%3Apretty-esthe.com/+86)||||||
+|[萌え](http://pretty-esthe.com/) <br />@JR戸塚駅東口||[3](https://www.google.com/search?q=site%3Apretty-esthe.com/+85)|[24](https://www.google.com/search?q=site%3Apretty-esthe.com/+86)||||||
 |[メイド](http://meido.est888.com/) <br />@JR東戸塚駅東口||||[1](https://www.google.com/search?q=site%3Ameido.est888.com/+87)||[5](https://www.google.com/search?q=site%3Ameido.est888.com/+89)||[2](https://www.google.com/search?q=site%3Ameido.est888.com/+92)|
 |[アロエ](http://oil.abnavi.info/) <br />@鶴巻温泉駅北口|[4](https://www.google.com/search?q=site%3Aoil.abnavi.info/+83)||[8](https://www.google.com/search?q=site%3Aoil.abnavi.info/+86)||||||
 |[リブレス](http://es-libres.com/) <br />@JR東戸塚駅西口||||||[1](https://www.google.com/search?q=site%3Aes-libres.com/+89)|||
@@ -120,7 +120,7 @@ description: "キーワード別チャイエス嬢情報"
 |[魔法の女王](http://civebt.xyz/) <br />@湘南台駅西口|||||||||
 |[元気もりもり](http://genkimorimori.ies.bz/) <br />@秦野駅北口|||||||||
 |[桜](http://www.sakura.iesjp.com/) <br />@JR東戸塚駅東口|||||||||
-|[Best Love ～ベストラブ～](http://www.bestlove.iesjp.com/) <br />@JR平塚駅北口|||||||||
+|[Best Love ～ベストラブ～](http://www.bestlove.iesjp.com/) <br />@JR平塚駅北口||[4](https://www.google.com/search?q=site%3Awww.bestlove.iesjp.com/+85)||[8](https://www.google.com/search?q=site%3Awww.bestlove.iesjp.com/+87)|||||
 |[美庵 -ビアン-](http://massage-relax.tokyo/) <br />@上永谷駅|||[5](https://www.google.com/search?q=site%3Amassage-relax.tokyo/+86)||||||
 |[縁](http://en.este88.com/) <br />@JR藤沢駅北口|||||||||
 
