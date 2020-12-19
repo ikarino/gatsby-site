@@ -1,5 +1,5 @@
 ---
-date: 2020-12-18
+date: 2020-12-19
 title: "国分寺・立川・八王子・東京郊外"
 cover: "https://unsplash.it/1152/300/?random?BirchintheRoses"
 categories:
@@ -73,7 +73,7 @@ description: "キーワード別チャイエス嬢情報"
 |[太陽](http://www.tay184.info/) <br />@東久留米駅北口|[15](https://www.google.com/search?q=site%3Awww.tay184.info/+C)||||||
 |[楽癒](http://hi-msg.com/rakuyu/) <br />@JR八王子駅北口|||||||
 |[縁](http://kaijun.club/) <br />@国分寺駅北口|||||||
-|[アサヒエステ](https://www.asahi-esthe.com/) <br />@JR八王子駅北口|[35](https://www.google.com/search?q=site%3Awww.asahi-esthe.com/+C)|[8](https://www.google.com/search?q=site%3Awww.asahi-esthe.com/+D)||[4](https://www.google.com/search?q=site%3Awww.asahi-esthe.com/+F)|||
+|[アサヒエステ](https://www.asahi-esthe.com/) <br />@JR八王子駅北口|[43](https://www.google.com/search?q=site%3Awww.asahi-esthe.com/+C)|[8](https://www.google.com/search?q=site%3Awww.asahi-esthe.com/+D)||[4](https://www.google.com/search?q=site%3Awww.asahi-esthe.com/+F)|||
 |[Fairy Girl](http://www.fairygirl.relaxjp.info/) <br />@清瀬駅北口|[4](https://www.google.com/search?q=site%3Awww.fairygirl.relaxjp.info/+C)|[26](https://www.google.com/search?q=site%3Awww.fairygirl.relaxjp.info/+D)|||||
 |[Beautiful](http://beautiful-show.jpn.cm/) <br />@JR八王子駅北口|[36](https://www.google.com/search?q=site%3Abeautiful-show.jpn.cm/+C)|[5](https://www.google.com/search?q=site%3Abeautiful-show.jpn.cm/+D)|||||
 |[Sweet Honey スウィート. ハニー](http://sh-akasur.work/) <br />@JR国分寺駅|||||||
@@ -128,7 +128,7 @@ description: "キーワード別チャイエス嬢情報"
 |[T-ARA](http://sunflower.jp.net/) <br />@東久留米駅西口|[8](https://www.google.com/search?q=site%3Asunflower.jp.net/+C)||||||
 |[美人館](https://bijinkan.tyo.cm/) <br />@JR立川駅南口||[12](https://www.google.com/search?q=site%3Abijinkan.tyo.cm/+D)|[8](https://www.google.com/search?q=site%3Abijinkan.tyo.cm/+E)||||
 |[満足空間](http://hanaki.jpn.mn/) <br />@JR国分寺駅南口||[30](https://www.google.com/search?q=site%3Ahanaki.jpn.mn/+D)|||||
-|[Angel Baby ～エンジェルベビー～](http://www.angelbaby.masg.info/) <br />@JR国分寺駅北口|[24](https://www.google.com/search?q=site%3Awww.angelbaby.masg.info/+C)|[24](https://www.google.com/search?q=site%3Awww.angelbaby.masg.info/+D)|||||
+|[Bali SPA](http://www.bali.mensnv.com/) <br />@JR国分寺駅北口|[4](https://www.google.com/search?q=site%3Awww.bali.mensnv.com/+C)|[2](https://www.google.com/search?q=site%3Awww.bali.mensnv.com/+D)|||||
 |[VENUS ヴィーナス](http://relax-massage.tokyo/) <br />@東大和市駅|||||||
 |[佳美](http://www.kami.mensest.com/) <br />@JR羽村駅西口|[3](https://www.google.com/search?q=site%3Awww.kami.mensest.com/+C)|[12](https://www.google.com/search?q=site%3Awww.kami.mensest.com/+D)|||||
 |[BIOU・ビオウ](http://biou-massage.work/) <br />@東久留米駅北口||[7](https://www.google.com/search?q=site%3Abiou-massage.work/+D)|[7](https://www.google.com/search?q=site%3Abiou-massage.work/+E)|[8](https://www.google.com/search?q=site%3Abiou-massage.work/+F)|||
@@ -249,7 +249,7 @@ description: "キーワード別チャイエス嬢情報"
 |[T-ARA](http://sunflower.jp.net/) <br />@東久留米駅西口||||||||||||||
 |[美人館](https://bijinkan.tyo.cm/) <br />@JR立川駅南口|||||[8](https://www.google.com/search?q=site%3Abijinkan.tyo.cm/+85)|[4](https://www.google.com/search?q=site%3Abijinkan.tyo.cm/+86)|[8](https://www.google.com/search?q=site%3Abijinkan.tyo.cm/+87)|||||||
 |[満足空間](http://hanaki.jpn.mn/) <br />@JR国分寺駅南口|||||[18](https://www.google.com/search?q=site%3Ahanaki.jpn.mn/+85)|[12](https://www.google.com/search?q=site%3Ahanaki.jpn.mn/+86)||||||||
-|[Angel Baby ～エンジェルベビー～](http://www.angelbaby.masg.info/) <br />@JR国分寺駅北口|||||[12](https://www.google.com/search?q=site%3Awww.angelbaby.masg.info/+85)|[24](https://www.google.com/search?q=site%3Awww.angelbaby.masg.info/+86)|[12](https://www.google.com/search?q=site%3Awww.angelbaby.masg.info/+87)|||||||
+|[Bali SPA](http://www.bali.mensnv.com/) <br />@JR国分寺駅北口||||||[4](https://www.google.com/search?q=site%3Awww.bali.mensnv.com/+86)|[2](https://www.google.com/search?q=site%3Awww.bali.mensnv.com/+87)|[2](https://www.google.com/search?q=site%3Awww.bali.mensnv.com/+88)||||||
 |[VENUS ヴィーナス](http://relax-massage.tokyo/) <br />@東大和市駅||||||||||||||
 |[佳美](http://www.kami.mensest.com/) <br />@JR羽村駅西口||||||[6](https://www.google.com/search?q=site%3Awww.kami.mensest.com/+86)|[9](https://www.google.com/search?q=site%3Awww.kami.mensest.com/+87)|||||||
 |[BIOU・ビオウ](http://biou-massage.work/) <br />@東久留米駅北口||||[3](https://www.google.com/search?q=site%3Abiou-massage.work/+84)|||[7](https://www.google.com/search?q=site%3Abiou-massage.work/+87)|[4](https://www.google.com/search?q=site%3Abiou-massage.work/+88)|[8](https://www.google.com/search?q=site%3Abiou-massage.work/+89)|||||
@@ -370,7 +370,7 @@ description: "キーワード別チャイエス嬢情報"
 |[T-ARA](http://sunflower.jp.net/) <br />@東久留米駅西口|||||
 |[美人館](https://bijinkan.tyo.cm/) <br />@JR立川駅南口|||||
 |[満足空間](http://hanaki.jpn.mn/) <br />@JR国分寺駅南口|||||
-|[Angel Baby ～エンジェルベビー～](http://www.angelbaby.masg.info/) <br />@JR国分寺駅北口|||||
+|[Bali SPA](http://www.bali.mensnv.com/) <br />@JR国分寺駅北口|||||
 |[VENUS ヴィーナス](http://relax-massage.tokyo/) <br />@東大和市駅|||||
 |[佳美](http://www.kami.mensest.com/) <br />@JR羽村駅西口|||||
 |[BIOU・ビオウ](http://biou-massage.work/) <br />@東久留米駅北口|||||
