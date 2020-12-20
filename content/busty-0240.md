@@ -1,5 +1,5 @@
 ---
-date: 2020-12-19
+date: 2020-12-20
 title: "門前仲町・東陽町・葛西・南行徳"
 cover: "https://unsplash.it/1152/300/?random?BirchintheRoses"
 categories:
@@ -240,5 +240,5 @@ description: "キーワード別チャイエス嬢情報"
 |[楽楽](http://www.rakulax.jp/) <br />@門前仲町駅3番出口|||||
 |[爽健](http://www.styleone.cf/sk/) <br />@葛西駅南口|||||
 |[SexyGirl～セクシーガール～](http://www.kawaii.relaxjp.info/) <br />@西葛西駅北口|[15](https://www.google.com/search?q=site%3Awww.kawaii.relaxjp.info/+セクシー)||||
-|[ダイヤモンド](http://ikeibana.xyz/) <br />@西葛西駅南口||[8](https://www.google.com/search?q=site%3Aikeibana.xyz/+乳)|||
+|[ダイヤモンド](http://ikeibana.xyz/) <br />@西葛西駅南口||[6](https://www.google.com/search?q=site%3Aikeibana.xyz/+乳)|||
 
