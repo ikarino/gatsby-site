@@ -1,5 +1,5 @@
 ---
-date: 2020-12-21
+date: 2020-12-22
 title: "千葉地区"
 cover: "https://unsplash.it/1152/300/?random?BirchintheRoses"
 categories:
@@ -82,7 +82,7 @@ description: "キーワード別チャイエス嬢情報"
 |[美魔女](http://yureloyuli.xyz/) <br />@高根木戸駅北口|[4](https://www.google.com/search?q=site%3Ayureloyuli.xyz/+C)|[8](https://www.google.com/search?q=site%3Ayureloyuli.xyz/+D)||||
 |[ミント](http://www.mint.esjp.info/) <br />@習志野駅||[3](https://www.google.com/search?q=site%3Awww.mint.esjp.info/+D)||||
 |[PAREO・パレオ](http://pareo.ests.jp/) <br />@JR西千葉駅南口||[30](https://www.google.com/search?q=site%3Apareo.ests.jp/+D)||||
-|[Angel～エンジェル～](http://www.angel-esthe.xyz/) <br />@JR稲毛駅東口||[40](https://www.google.com/search?q=site%3Awww.angel-esthe.xyz/+D)|[8](https://www.google.com/search?q=site%3Awww.angel-esthe.xyz/+E)|||
+|[Angel～エンジェル～](http://www.angel-esthe.xyz/) <br />@JR稲毛駅東口||[24](https://www.google.com/search?q=site%3Awww.angel-esthe.xyz/+D)||||
 |[天使楽園](http://sara.xyz.mn/) <br />@千葉中央駅|[1](https://www.google.com/search?q=site%3Asara.xyz.mn/+C)|[2](https://www.google.com/search?q=site%3Asara.xyz.mn/+D)|[2](https://www.google.com/search?q=site%3Asara.xyz.mn/+E)|||
 |[Happiness](http://happiness.jpn.vin/) <br />@八千代台駅西口|[12](https://www.google.com/search?q=site%3Ahappiness.jpn.vin/+C)|[30](https://www.google.com/search?q=site%3Ahappiness.jpn.vin/+D)||||
 |[秋月](http://www.akizu.esjoho.com/) <br />@八千代台駅西口|[3](https://www.google.com/search?q=site%3Awww.akizu.esjoho.com/+C)|[9](https://www.google.com/search?q=site%3Awww.akizu.esjoho.com/+D)||||
@@ -95,12 +95,12 @@ description: "キーワード別チャイエス嬢情報"
 |[夢里 ～ゆめさと～](https://yumesato.relaxjp.com/) <br />@JR四街道駅北口|[1](https://www.google.com/search?q=site%3Ayumesato.relaxjp.com/+C)|[2](https://www.google.com/search?q=site%3Ayumesato.relaxjp.com/+D)|[3](https://www.google.com/search?q=site%3Ayumesato.relaxjp.com/+E)||[1](https://www.google.com/search?q=site%3Ayumesato.relaxjp.com/+G)|
 |[ルビー](http://estela-spa.ests.jp/) <br />@千葉中央駅西口|[23](https://www.google.com/search?q=site%3Aestela-spa.ests.jp/+C)|[7](https://www.google.com/search?q=site%3Aestela-spa.ests.jp/+D)||||
 |[萌愛 -もえあい-](http://moeai.est888.com/) <br />@千葉中央駅東口||[2](https://www.google.com/search?q=site%3Amoeai.est888.com/+D)|[6](https://www.google.com/search?q=site%3Amoeai.est888.com/+E)|||
-|[For You フォーユー](http://foryou.este.work/) <br />@成田駅西口|[14](https://www.google.com/search?q=site%3Aforyou.este.work/+C)|[14](https://www.google.com/search?q=site%3Aforyou.este.work/+D)||||
+|[For You フォーユー](http://foryou.este.work/) <br />@成田駅西口|[12](https://www.google.com/search?q=site%3Aforyou.este.work/+C)|[12](https://www.google.com/search?q=site%3Aforyou.este.work/+D)||||
 |[天使の森](https://tenshinomori.xyz.mn/) <br />@JR津田沼駅北口|[30](https://www.google.com/search?q=site%3Atenshinomori.xyz.mn/+C)|[35](https://www.google.com/search?q=site%3Atenshinomori.xyz.mn/+D)|[44](https://www.google.com/search?q=site%3Atenshinomori.xyz.mn/+E)|[30](https://www.google.com/search?q=site%3Atenshinomori.xyz.mn/+F)||
 |[悠](http://es-happy.work/) <br />@JR成田駅||||||
 |[満足](http://aroma-relax.pink/) <br />@JR佐倉駅北口||||||
 |[茉莉花](http://massage-est.net/) <br />@JR八幡宿駅西口||[2](https://www.google.com/search?q=site%3Amassage-est.net/+D)||||
-|[LaQoo ～ラクー～](http://www.laqoo.relaxjp.info/) <br />@JR稲毛駅東口||[7](https://www.google.com/search?q=site%3Awww.laqoo.relaxjp.info/+D)||||
+|[LaQoo ～ラクー～](http://www.laqoo.relaxjp.info/) <br />@JR稲毛駅東口||[8](https://www.google.com/search?q=site%3Awww.laqoo.relaxjp.info/+D)||||
 |[ヤーホー](http://aroma-esthe.blue) <br />@八千代台駅東口|[1](https://www.google.com/search?q=site%3Aaroma-esthe.blue+C)|[2](https://www.google.com/search?q=site%3Aaroma-esthe.blue+D)|[1](https://www.google.com/search?q=site%3Aaroma-esthe.blue+E)|||
 |[癒し美人](http://kurumioui.tokyo/) <br />@JR幕張本郷駅東口|[4](https://www.google.com/search?q=site%3Akurumioui.tokyo/+C)|[6](https://www.google.com/search?q=site%3Akurumioui.tokyo/+D)||||
 |[愛](http://ai.es-relax.info/) <br />@勝田台駅南口||||||
@@ -118,7 +118,7 @@ description: "キーワード別チャイエス嬢情報"
 |[Dear](http://lolita.jpest.net/) <br />@JR稲毛駅東口||||||
 |[月の恋](http://tsukinokoi.tyo.ac/) <br />@京成臼井駅北口|[7](https://www.google.com/search?q=site%3Atsukinokoi.tyo.ac/+C)|||||
 |[we love](http://kurimu.tokyo/) <br />@千葉中央駅西口||||||
-|[チェリー](http://cherry.estheya.com/) <br />@JR四街道駅北口|[12](https://www.google.com/search?q=site%3Acherry.estheya.com/+C)|[48](https://www.google.com/search?q=site%3Acherry.estheya.com/+D)||||
+|[チェリー](http://cherry.estheya.com/) <br />@JR四街道駅北口|[12](https://www.google.com/search?q=site%3Acherry.estheya.com/+C)|[36](https://www.google.com/search?q=site%3Acherry.estheya.com/+D)|[12](https://www.google.com/search?q=site%3Acherry.estheya.com/+E)|||
 |[睡蓮花](http://riversopdd.site/) <br />@JR蘇我駅西口|[2](https://www.google.com/search?q=site%3Ariversopdd.site/+C)|[5](https://www.google.com/search?q=site%3Ariversopdd.site/+D)||[1](https://www.google.com/search?q=site%3Ariversopdd.site/+F)||
 |[おかえり](http://www.cianzan.xyz/) <br />@JR四街道駅北口||[2](https://www.google.com/search?q=site%3Awww.cianzan.xyz/+D)||||
 |[イブ](https://eve.iest.info/) <br />@京成千葉中央駅西口||[5](https://www.google.com/search?q=site%3Aeve.iest.info/+D)||||
@@ -193,7 +193,7 @@ description: "キーワード別チャイエス嬢情報"
 |[美魔女](http://yureloyuli.xyz/) <br />@高根木戸駅北口||||||[3](https://www.google.com/search?q=site%3Ayureloyuli.xyz/+84)|[7](https://www.google.com/search?q=site%3Ayureloyuli.xyz/+85)|[2](https://www.google.com/search?q=site%3Ayureloyuli.xyz/+86)|||||||||
 |[ミント](http://www.mint.esjp.info/) <br />@習志野駅||||||||[1](https://www.google.com/search?q=site%3Awww.mint.esjp.info/+86)|[1](https://www.google.com/search?q=site%3Awww.mint.esjp.info/+87)|[1](https://www.google.com/search?q=site%3Awww.mint.esjp.info/+88)|||||||
 |[PAREO・パレオ](http://pareo.ests.jp/) <br />@JR西千葉駅南口||||||||[18](https://www.google.com/search?q=site%3Apareo.ests.jp/+86)|[12](https://www.google.com/search?q=site%3Apareo.ests.jp/+87)||||||||
-|[Angel～エンジェル～](http://www.angel-esthe.xyz/) <br />@JR稲毛駅東口||||||||[8](https://www.google.com/search?q=site%3Awww.angel-esthe.xyz/+86)|[24](https://www.google.com/search?q=site%3Awww.angel-esthe.xyz/+87)|[8](https://www.google.com/search?q=site%3Awww.angel-esthe.xyz/+88)|||[8](https://www.google.com/search?q=site%3Awww.angel-esthe.xyz/+91)||||
+|[Angel～エンジェル～](http://www.angel-esthe.xyz/) <br />@JR稲毛駅東口||||||||[8](https://www.google.com/search?q=site%3Awww.angel-esthe.xyz/+86)|[8](https://www.google.com/search?q=site%3Awww.angel-esthe.xyz/+87)|[8](https://www.google.com/search?q=site%3Awww.angel-esthe.xyz/+88)|||||||
 |[天使楽園](http://sara.xyz.mn/) <br />@千葉中央駅||||||||[2](https://www.google.com/search?q=site%3Asara.xyz.mn/+86)|[2](https://www.google.com/search?q=site%3Asara.xyz.mn/+87)|[1](https://www.google.com/search?q=site%3Asara.xyz.mn/+88)|||||||
 |[Happiness](http://happiness.jpn.vin/) <br />@八千代台駅西口|||||||[6](https://www.google.com/search?q=site%3Ahappiness.jpn.vin/+85)|[12](https://www.google.com/search?q=site%3Ahappiness.jpn.vin/+86)|[12](https://www.google.com/search?q=site%3Ahappiness.jpn.vin/+87)||||||||
 |[秋月](http://www.akizu.esjoho.com/) <br />@八千代台駅西口||||||||[9](https://www.google.com/search?q=site%3Awww.akizu.esjoho.com/+86)||[3](https://www.google.com/search?q=site%3Awww.akizu.esjoho.com/+88)|||||||
@@ -206,12 +206,12 @@ description: "キーワード別チャイエス嬢情報"
 |[夢里 ～ゆめさと～](https://yumesato.relaxjp.com/) <br />@JR四街道駅北口||||||||[5](https://www.google.com/search?q=site%3Ayumesato.relaxjp.com/+86)|||[1](https://www.google.com/search?q=site%3Ayumesato.relaxjp.com/+89)||||[1](https://www.google.com/search?q=site%3Ayumesato.relaxjp.com/+93)||
 |[ルビー](http://estela-spa.ests.jp/) <br />@千葉中央駅西口||||[1](https://www.google.com/search?q=site%3Aestela-spa.ests.jp/+82)|||[1](https://www.google.com/search?q=site%3Aestela-spa.ests.jp/+85)|[4](https://www.google.com/search?q=site%3Aestela-spa.ests.jp/+86)|[1](https://www.google.com/search?q=site%3Aestela-spa.ests.jp/+87)||||||||
 |[萌愛 -もえあい-](http://moeai.est888.com/) <br />@千葉中央駅東口|||||||||||[2](https://www.google.com/search?q=site%3Amoeai.est888.com/+89)|[4](https://www.google.com/search?q=site%3Amoeai.est888.com/+90)||[2](https://www.google.com/search?q=site%3Amoeai.est888.com/+92)|||
-|[For You フォーユー](http://foryou.este.work/) <br />@成田駅西口|||||[14](https://www.google.com/search?q=site%3Aforyou.este.work/+83)||[7](https://www.google.com/search?q=site%3Aforyou.este.work/+85)||||||||||
+|[For You フォーユー](http://foryou.este.work/) <br />@成田駅西口|||||[12](https://www.google.com/search?q=site%3Aforyou.este.work/+83)||[6](https://www.google.com/search?q=site%3Aforyou.este.work/+85)||||||||||
 |[天使の森](https://tenshinomori.xyz.mn/) <br />@JR津田沼駅北口||||||[22](https://www.google.com/search?q=site%3Atenshinomori.xyz.mn/+84)|[11](https://www.google.com/search?q=site%3Atenshinomori.xyz.mn/+85)|[11](https://www.google.com/search?q=site%3Atenshinomori.xyz.mn/+86)|[33](https://www.google.com/search?q=site%3Atenshinomori.xyz.mn/+87)|[33](https://www.google.com/search?q=site%3Atenshinomori.xyz.mn/+88)|||||||
 |[悠](http://es-happy.work/) <br />@JR成田駅|||||||||||||||||
 |[満足](http://aroma-relax.pink/) <br />@JR佐倉駅北口|||||||||||||||||
 |[茉莉花](http://massage-est.net/) <br />@JR八幡宿駅西口||||||||[2](https://www.google.com/search?q=site%3Amassage-est.net/+86)|||||||||
-|[LaQoo ～ラクー～](http://www.laqoo.relaxjp.info/) <br />@JR稲毛駅東口||||||||[1](https://www.google.com/search?q=site%3Awww.laqoo.relaxjp.info/+86)|[6](https://www.google.com/search?q=site%3Awww.laqoo.relaxjp.info/+87)||||||||
+|[LaQoo ～ラクー～](http://www.laqoo.relaxjp.info/) <br />@JR稲毛駅東口||||||||[1](https://www.google.com/search?q=site%3Awww.laqoo.relaxjp.info/+86)|[7](https://www.google.com/search?q=site%3Awww.laqoo.relaxjp.info/+87)||||||||
 |[ヤーホー](http://aroma-esthe.blue) <br />@八千代台駅東口||||||||[3](https://www.google.com/search?q=site%3Aaroma-esthe.blue+86)||[1](https://www.google.com/search?q=site%3Aaroma-esthe.blue+88)|||||||
 |[癒し美人](http://kurumioui.tokyo/) <br />@JR幕張本郷駅東口||||||[3](https://www.google.com/search?q=site%3Akurumioui.tokyo/+84)|[4](https://www.google.com/search?q=site%3Akurumioui.tokyo/+85)|[1](https://www.google.com/search?q=site%3Akurumioui.tokyo/+86)|[2](https://www.google.com/search?q=site%3Akurumioui.tokyo/+87)||||||||
 |[愛](http://ai.es-relax.info/) <br />@勝田台駅南口|||||||||||||||||
@@ -229,7 +229,7 @@ description: "キーワード別チャイエス嬢情報"
 |[Dear](http://lolita.jpest.net/) <br />@JR稲毛駅東口|||||||||||||||||
 |[月の恋](http://tsukinokoi.tyo.ac/) <br />@京成臼井駅北口|||||||||||||||||
 |[we love](http://kurimu.tokyo/) <br />@千葉中央駅西口|||||||||||||||||
-|[チェリー](http://cherry.estheya.com/) <br />@JR四街道駅北口||||||||[12](https://www.google.com/search?q=site%3Acherry.estheya.com/+86)||||[24](https://www.google.com/search?q=site%3Acherry.estheya.com/+90)|[12](https://www.google.com/search?q=site%3Acherry.estheya.com/+91)||||
+|[チェリー](http://cherry.estheya.com/) <br />@JR四街道駅北口||||||||[12](https://www.google.com/search?q=site%3Acherry.estheya.com/+86)||||[24](https://www.google.com/search?q=site%3Acherry.estheya.com/+90)||[12](https://www.google.com/search?q=site%3Acherry.estheya.com/+92)|||
 |[睡蓮花](http://riversopdd.site/) <br />@JR蘇我駅西口|||||||[3](https://www.google.com/search?q=site%3Ariversopdd.site/+85)|[4](https://www.google.com/search?q=site%3Ariversopdd.site/+86)||||||||[1](https://www.google.com/search?q=site%3Ariversopdd.site/+94)|
 |[おかえり](http://www.cianzan.xyz/) <br />@JR四街道駅北口||||||||[2](https://www.google.com/search?q=site%3Awww.cianzan.xyz/+86)|||||||||
 |[イブ](https://eve.iest.info/) <br />@京成千葉中央駅西口|||||||[2](https://www.google.com/search?q=site%3Aeve.iest.info/+85)|[3](https://www.google.com/search?q=site%3Aeve.iest.info/+86)|||||||||
