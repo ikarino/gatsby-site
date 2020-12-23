@@ -1,5 +1,5 @@
 ---
-date: 2020-12-22
+date: 2020-12-23
 title: "駒込・田端"
 cover: "https://unsplash.it/1152/300/?random?BirchintheRoses"
 categories:
@@ -24,7 +24,7 @@ description: "キーワード別チャイエス嬢情報"
 |店名|C|D|E|
 |:--|:---:|:---:|:---:|
 |[ストーリー](http://www.ko-story.com/) <br />@JR駒込駅南口||[8](https://www.google.com/search?q=site%3Awww.ko-story.com/+D)||
-|[てもみや](http://ko-relax.info/) <br />@JR駒込駅東口|[3](https://www.google.com/search?q=site%3Ako-relax.info/+C)|[8](https://www.google.com/search?q=site%3Ako-relax.info/+D)|[7](https://www.google.com/search?q=site%3Ako-relax.info/+E)|
+|[てもみや](http://ko-relax.info/) <br />@JR駒込駅東口|[3](https://www.google.com/search?q=site%3Ako-relax.info/+C)|[14](https://www.google.com/search?q=site%3Ako-relax.info/+D)|[7](https://www.google.com/search?q=site%3Ako-relax.info/+E)|
 |[癒しの森](http://iyashinomori.oks.bz/) <br />@JR駒込駅南口||||
 |[うさぎ](http://koukou.ests.co/) <br />@JR駒込駅北口||[4](https://www.google.com/search?q=site%3Akoukou.ests.co/+D)||
 |[癒処](http://relaxation.red/) <br />@JR駒込駅北口||||
