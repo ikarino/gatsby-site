@@ -1,5 +1,5 @@
 ---
-date: 2020-12-22
+date: 2020-12-23
 title: "国分寺・立川・八王子・東京郊外"
 cover: "https://unsplash.it/1152/300/?random?BirchintheRoses"
 categories:
@@ -58,7 +58,7 @@ description: "キーワード別チャイエス嬢情報"
 |[トロトロのトトロ](http://totoro.ests.jp/) <br />@久米川駅南口|[3](https://www.google.com/search?q=site%3Atotoro.ests.jp/+C)|[19](https://www.google.com/search?q=site%3Atotoro.ests.jp/+D)|[1](https://www.google.com/search?q=site%3Atotoro.ests.jp/+E)||||
 |[SOFIA ～ソフィア～](http://sofia-es.tokyo/) <br />@花小金井駅南口|[1](https://www.google.com/search?q=site%3Asofia-es.tokyo/+C)|[2](https://www.google.com/search?q=site%3Asofia-es.tokyo/+D)|||||
 |[Girls](http://www.girls.esjp.info/) <br />@JR国分寺駅南口|[8](https://www.google.com/search?q=site%3Awww.girls.esjp.info/+C)|[7](https://www.google.com/search?q=site%3Awww.girls.esjp.info/+D)|[1](https://www.google.com/search?q=site%3Awww.girls.esjp.info/+E)|[2](https://www.google.com/search?q=site%3Awww.girls.esjp.info/+F)|||
-|[Cawaii Girl～かわいいガール～](https://ca-girl.com/) <br />@JR国分寺駅北口||[69](https://www.google.com/search?q=site%3Aca-girl.com/+D)|[98](https://www.google.com/search?q=site%3Aca-girl.com/+E)|[3](https://www.google.com/search?q=site%3Aca-girl.com/+F)|||
+|[Cawaii Girl～かわいいガール～](https://ca-girl.com/) <br />@JR国分寺駅北口||[66](https://www.google.com/search?q=site%3Aca-girl.com/+D)|[98](https://www.google.com/search?q=site%3Aca-girl.com/+E)|[3](https://www.google.com/search?q=site%3Aca-girl.com/+F)|||
 |[八王子蜜夢](https://es-cream.tokyo/) <br />@JR八王子駅北口||[61](https://www.google.com/search?q=site%3Aes-cream.tokyo/+D)|[58](https://www.google.com/search?q=site%3Aes-cream.tokyo/+E)|[4](https://www.google.com/search?q=site%3Aes-cream.tokyo/+F)|||
 |[ピカ・おちゅ～](http://pikachu.ests.jp/) <br />@JR立川駅南口|[1](https://www.google.com/search?q=site%3Apikachu.ests.jp/+C)|[27](https://www.google.com/search?q=site%3Apikachu.ests.jp/+D)|[2](https://www.google.com/search?q=site%3Apikachu.ests.jp/+E)||||
 |[キャンディ](http://candy.jpn.cm/) <br />@JR八王子駅|[29](https://www.google.com/search?q=site%3Acandy.jpn.cm/+C)|[9](https://www.google.com/search?q=site%3Acandy.jpn.cm/+D)|[2](https://www.google.com/search?q=site%3Acandy.jpn.cm/+E)||||
@@ -68,7 +68,6 @@ description: "キーワード別チャイエス嬢情報"
 |[ラベンダー](http://esthe-massage.in.net/) <br />@JR豊田駅北口|||||||
 |[意](http://akishima.xyz/) <br />@JR昭島駅南口|||||||
 |[美姫](http://www.miki-es.info) <br />@秋津駅南口|[13](https://www.google.com/search?q=site%3Awww.miki-es.info+C)|[6](https://www.google.com/search?q=site%3Awww.miki-es.info+D)|||||
-|[シャイニングエンジェル](http://www.spa-tckw.com/) <br />@JR立川駅南口|||||||
 |[きらら](http://sln-heal.com/) <br />@ひばりヶ丘駅南口|[13](https://www.google.com/search?q=site%3Asln-heal.com/+C)||||||
 |[太陽](http://www.tay184.info/) <br />@東久留米駅北口|[15](https://www.google.com/search?q=site%3Awww.tay184.info/+C)||||||
 |[楽癒](http://hi-msg.com/rakuyu/) <br />@JR八王子駅北口|||||||
@@ -91,10 +90,10 @@ description: "キーワード別チャイエス嬢情報"
 |[Q-Flower ～キューフラワー～](http://www.qflower.esjp.info/) <br />@久米川駅南口|[24](https://www.google.com/search?q=site%3Awww.qflower.esjp.info/+C)|[40](https://www.google.com/search?q=site%3Awww.qflower.esjp.info/+D)|||||
 |[Seven恋](http://seven-love.xyz.mn/) <br />@ひばりヶ丘駅南口||[48](https://www.google.com/search?q=site%3Aseven-love.xyz.mn/+D)|[8](https://www.google.com/search?q=site%3Aseven-love.xyz.mn/+E)||||
 |[香](http://kaori.me-es.com/) <br />@JR青梅駅|||||||
-|[Dear](https://dear.tyo.cm/) <br />@JR八王子駅北口|[3](https://www.google.com/search?q=site%3Adear.tyo.cm/+C)|[5](https://www.google.com/search?q=site%3Adear.tyo.cm/+D)|[33](https://www.google.com/search?q=site%3Adear.tyo.cm/+E)||||
+|[Dear](https://dear.tyo.cm/) <br />@JR八王子駅北口|[3](https://www.google.com/search?q=site%3Adear.tyo.cm/+C)|[6](https://www.google.com/search?q=site%3Adear.tyo.cm/+D)|[34](https://www.google.com/search?q=site%3Adear.tyo.cm/+E)||||
 |[緑健康館](http://midori.este88.com/) <br />@東久留米駅北口|||||||
 |[桃花](http://taipei-yoru.jpn.mn/) <br />@清瀬駅北口||[42](https://www.google.com/search?q=site%3Ataipei-yoru.jpn.mn/+D)|||||
-|[Lucky Day](http://lucky-day.jpn.vin/) <br />@JR立川駅南口|[16](https://www.google.com/search?q=site%3Alucky-day.jpn.vin/+C)|[80](https://www.google.com/search?q=site%3Alucky-day.jpn.vin/+D)|[10](https://www.google.com/search?q=site%3Alucky-day.jpn.vin/+E)||||
+|[Lucky Day](http://lucky-day.jpn.vin/) <br />@JR立川駅南口|[16](https://www.google.com/search?q=site%3Alucky-day.jpn.vin/+C)|[80](https://www.google.com/search?q=site%3Alucky-day.jpn.vin/+D)|[20](https://www.google.com/search?q=site%3Alucky-day.jpn.vin/+E)||||
 |[癒悠華](http://uuka.loveyaku.com/) <br />@JR八王子駅南口|[7](https://www.google.com/search?q=site%3Auuka.loveyaku.com/+C)||||||
 |[Yulala～ゆらら～](https://hoya.aoaoeo.com/) <br />@保谷駅南口||[7](https://www.google.com/search?q=site%3Ahoya.aoaoeo.com/+D)|[8](https://www.google.com/search?q=site%3Ahoya.aoaoeo.com/+E)||||
 |[アカシア](http://www.acacia-esthe.xyz/) <br />@清瀬駅北口||[48](https://www.google.com/search?q=site%3Awww.acacia-esthe.xyz/+D)|[8](https://www.google.com/search?q=site%3Awww.acacia-esthe.xyz/+E)||[8](https://www.google.com/search?q=site%3Awww.acacia-esthe.xyz/+G)||
@@ -134,6 +133,7 @@ description: "キーワード別チャイエス嬢情報"
 |[BIOU・ビオウ](http://biou-massage.work/) <br />@東久留米駅北口||[7](https://www.google.com/search?q=site%3Abiou-massage.work/+D)|[7](https://www.google.com/search?q=site%3Abiou-massage.work/+E)|[8](https://www.google.com/search?q=site%3Abiou-massage.work/+F)|||
 |[姫](http://jasmine-mizonokuti.xyz/) <br />@久米川駅南口|||||||
 |[ローズ](http://www.china-massage.work/) <br />@田無駅北口|||||||
+|[癒しの天使](http://anntrizumu.xyz/) <br />@JR立川駅南口|||||||
 
 
 
@@ -189,7 +189,6 @@ description: "キーワード別チャイエス嬢情報"
 |[ラベンダー](http://esthe-massage.in.net/) <br />@JR豊田駅北口||||||[5](https://www.google.com/search?q=site%3Aesthe-massage.in.net/+86)|[2](https://www.google.com/search?q=site%3Aesthe-massage.in.net/+87)|||||||
 |[意](http://akishima.xyz/) <br />@JR昭島駅南口||||||||||||||
 |[美姫](http://www.miki-es.info) <br />@秋津駅南口|[1](https://www.google.com/search?q=site%3Awww.miki-es.info+80)|||||[5](https://www.google.com/search?q=site%3Awww.miki-es.info+86)||||||||
-|[シャイニングエンジェル](http://www.spa-tckw.com/) <br />@JR立川駅南口||||||||||||||
 |[きらら](http://sln-heal.com/) <br />@ひばりヶ丘駅南口||||||||||||||
 |[太陽](http://www.tay184.info/) <br />@東久留米駅北口||||||||||||||
 |[楽癒](http://hi-msg.com/rakuyu/) <br />@JR八王子駅北口||||||||||||||
@@ -215,7 +214,7 @@ description: "キーワード別チャイエス嬢情報"
 |[Dear](https://dear.tyo.cm/) <br />@JR八王子駅北口||||||||||||||
 |[緑健康館](http://midori.este88.com/) <br />@東久留米駅北口||||||||||||||
 |[桃花](http://taipei-yoru.jpn.mn/) <br />@清瀬駅北口||||[14](https://www.google.com/search?q=site%3Ataipei-yoru.jpn.mn/+84)|[7](https://www.google.com/search?q=site%3Ataipei-yoru.jpn.mn/+85)|[7](https://www.google.com/search?q=site%3Ataipei-yoru.jpn.mn/+86)|[14](https://www.google.com/search?q=site%3Ataipei-yoru.jpn.mn/+87)|||||||
-|[Lucky Day](http://lucky-day.jpn.vin/) <br />@JR立川駅南口|||||[50](https://www.google.com/search?q=site%3Alucky-day.jpn.vin/+85)|[30](https://www.google.com/search?q=site%3Alucky-day.jpn.vin/+86)||[10](https://www.google.com/search?q=site%3Alucky-day.jpn.vin/+88)||||||
+|[Lucky Day](http://lucky-day.jpn.vin/) <br />@JR立川駅南口|||||[50](https://www.google.com/search?q=site%3Alucky-day.jpn.vin/+85)|[30](https://www.google.com/search?q=site%3Alucky-day.jpn.vin/+86)||[10](https://www.google.com/search?q=site%3Alucky-day.jpn.vin/+88)|[10](https://www.google.com/search?q=site%3Alucky-day.jpn.vin/+89)|||||
 |[癒悠華](http://uuka.loveyaku.com/) <br />@JR八王子駅南口||||||||||||||
 |[Yulala～ゆらら～](https://hoya.aoaoeo.com/) <br />@保谷駅南口||||||||||||||
 |[アカシア](http://www.acacia-esthe.xyz/) <br />@清瀬駅北口||||||[8](https://www.google.com/search?q=site%3Awww.acacia-esthe.xyz/+86)|[40](https://www.google.com/search?q=site%3Awww.acacia-esthe.xyz/+87)|[16](https://www.google.com/search?q=site%3Awww.acacia-esthe.xyz/+88)||[8](https://www.google.com/search?q=site%3Awww.acacia-esthe.xyz/+90)||||
@@ -249,12 +248,13 @@ description: "キーワード別チャイエス嬢情報"
 |[T-ARA](http://sunflower.jp.net/) <br />@東久留米駅西口||||||||||||||
 |[美人館](https://bijinkan.tyo.cm/) <br />@JR立川駅南口|||||[8](https://www.google.com/search?q=site%3Abijinkan.tyo.cm/+85)|[4](https://www.google.com/search?q=site%3Abijinkan.tyo.cm/+86)|[8](https://www.google.com/search?q=site%3Abijinkan.tyo.cm/+87)|||||||
 |[満足空間](http://hanaki.jpn.mn/) <br />@JR国分寺駅南口|||||[18](https://www.google.com/search?q=site%3Ahanaki.jpn.mn/+85)|[12](https://www.google.com/search?q=site%3Ahanaki.jpn.mn/+86)||||||||
-|[Bali SPA](http://www.bali.mensnv.com/) <br />@JR国分寺駅北口||||||[4](https://www.google.com/search?q=site%3Awww.bali.mensnv.com/+86)|[2](https://www.google.com/search?q=site%3Awww.bali.mensnv.com/+87)|[2](https://www.google.com/search?q=site%3Awww.bali.mensnv.com/+88)||[2](https://www.google.com/search?q=site%3Awww.bali.mensnv.com/+90)||||
+|[Bali SPA](http://www.bali.mensnv.com/) <br />@JR国分寺駅北口|||||[2](https://www.google.com/search?q=site%3Awww.bali.mensnv.com/+85)|[4](https://www.google.com/search?q=site%3Awww.bali.mensnv.com/+86)|[2](https://www.google.com/search?q=site%3Awww.bali.mensnv.com/+87)|[2](https://www.google.com/search?q=site%3Awww.bali.mensnv.com/+88)||[2](https://www.google.com/search?q=site%3Awww.bali.mensnv.com/+90)||||
 |[VENUS ヴィーナス](http://relax-massage.tokyo/) <br />@東大和市駅||||||||||||||
 |[佳美](http://www.kami.mensest.com/) <br />@JR羽村駅西口||||||[6](https://www.google.com/search?q=site%3Awww.kami.mensest.com/+86)|[9](https://www.google.com/search?q=site%3Awww.kami.mensest.com/+87)|||||||
 |[BIOU・ビオウ](http://biou-massage.work/) <br />@東久留米駅北口||||[3](https://www.google.com/search?q=site%3Abiou-massage.work/+84)|||[7](https://www.google.com/search?q=site%3Abiou-massage.work/+87)|[4](https://www.google.com/search?q=site%3Abiou-massage.work/+88)|[8](https://www.google.com/search?q=site%3Abiou-massage.work/+89)|||||
 |[姫](http://jasmine-mizonokuti.xyz/) <br />@久米川駅南口||||||||||||||
 |[ローズ](http://www.china-massage.work/) <br />@田無駅北口||||||||||||||
+|[癒しの天使](http://anntrizumu.xyz/) <br />@JR立川駅南口||||||||||||||
 
 
 
@@ -310,7 +310,6 @@ description: "キーワード別チャイエス嬢情報"
 |[ラベンダー](http://esthe-massage.in.net/) <br />@JR豊田駅北口|||||
 |[意](http://akishima.xyz/) <br />@JR昭島駅南口|||||
 |[美姫](http://www.miki-es.info) <br />@秋津駅南口|||||
-|[シャイニングエンジェル](http://www.spa-tckw.com/) <br />@JR立川駅南口|||||
 |[きらら](http://sln-heal.com/) <br />@ひばりヶ丘駅南口|||||
 |[太陽](http://www.tay184.info/) <br />@東久留米駅北口|||||
 |[楽癒](http://hi-msg.com/rakuyu/) <br />@JR八王子駅北口|||||
@@ -333,7 +332,7 @@ description: "キーワード別チャイエス嬢情報"
 |[Q-Flower ～キューフラワー～](http://www.qflower.esjp.info/) <br />@久米川駅南口|||||
 |[Seven恋](http://seven-love.xyz.mn/) <br />@ひばりヶ丘駅南口|||||
 |[香](http://kaori.me-es.com/) <br />@JR青梅駅|||||
-|[Dear](https://dear.tyo.cm/) <br />@JR八王子駅北口|[29](https://www.google.com/search?q=site%3Adear.tyo.cm/+セクシー)|[29](https://www.google.com/search?q=site%3Adear.tyo.cm/+乳)|||
+|[Dear](https://dear.tyo.cm/) <br />@JR八王子駅北口|[30](https://www.google.com/search?q=site%3Adear.tyo.cm/+セクシー)|[30](https://www.google.com/search?q=site%3Adear.tyo.cm/+乳)|||
 |[緑健康館](http://midori.este88.com/) <br />@東久留米駅北口|||||
 |[桃花](http://taipei-yoru.jpn.mn/) <br />@清瀬駅北口|||||
 |[Lucky Day](http://lucky-day.jpn.vin/) <br />@JR立川駅南口|||||
@@ -376,4 +375,5 @@ description: "キーワード別チャイエス嬢情報"
 |[BIOU・ビオウ](http://biou-massage.work/) <br />@東久留米駅北口|||||
 |[姫](http://jasmine-mizonokuti.xyz/) <br />@久米川駅南口|||||
 |[ローズ](http://www.china-massage.work/) <br />@田無駅北口|||||
+|[癒しの天使](http://anntrizumu.xyz/) <br />@JR立川駅南口|||||
 
