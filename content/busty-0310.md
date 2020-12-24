@@ -1,5 +1,5 @@
 ---
-date: 2020-12-23
+date: 2020-12-24
 title: "横浜・桜木町・関内・新横浜"
 cover: "https://unsplash.it/1152/300/?random?BirchintheRoses"
 categories:
@@ -24,7 +24,7 @@ description: "キーワード別チャイエス嬢情報"
 |店名|C|D|E|F|
 |:--|:---:|:---:|:---:|:---:|
 |[優雅～ゆうが～](http://yuga.estx.net/) <br />@JR中山駅|||||
-|[SRP](http://www.shine-es.info/) <br />@JR新横浜駅北口|[57](https://www.google.com/search?q=site%3Awww.shine-es.info/+C)|[36](https://www.google.com/search?q=site%3Awww.shine-es.info/+D)|[3](https://www.google.com/search?q=site%3Awww.shine-es.info/+E)||
+|[SRP](http://www.shine-es.info/) <br />@JR新横浜駅北口|[64](https://www.google.com/search?q=site%3Awww.shine-es.info/+C)|[37](https://www.google.com/search?q=site%3Awww.shine-es.info/+D)|[3](https://www.google.com/search?q=site%3Awww.shine-es.info/+E)||
 |[Rose Color～ローズカラー～](http://www.rose-color.info/) <br />@JR新横浜駅北口|[76](https://www.google.com/search?q=site%3Awww.rose-color.info/+C)|[24](https://www.google.com/search?q=site%3Awww.rose-color.info/+D)|[8](https://www.google.com/search?q=site%3Awww.rose-color.info/+E)|[4](https://www.google.com/search?q=site%3Awww.rose-color.info/+F)|
 |[花水木](http://est-hanamizuki.com/) <br />@JR東神奈川駅西口|||||
 |[Venus](http://es-kannai.link) <br />@JR関内駅南口|||||
@@ -47,7 +47,6 @@ description: "キーワード別チャイエス嬢情報"
 |[新台北](https://www.shin-taipei-massage.com/) <br />@桜木町駅南2番出口|||||
 |[SKY](http://hi-msg.com/sky/) <br />@JR関内駅北口|[1](https://www.google.com/search?q=site%3Ahi-msg.com/sky/+C)|[8](https://www.google.com/search?q=site%3Ahi-msg.com/sky/+D)|||
 |[チェリー](http://sh-riraku31.xyz/) <br />@JR横浜駅北西口|[11](https://www.google.com/search?q=site%3Ash-riraku31.xyz/+C)|[3](https://www.google.com/search?q=site%3Ash-riraku31.xyz/+D)|||
-|[Reposer -ルポゼ-](http://www.sh-riraku95.site/) <br />@JR東神奈川駅西口||[4](https://www.google.com/search?q=site%3Awww.sh-riraku95.site/+D)|||
 |[レインボー虹](http://www.sh-riraku113.xyz/) <br />@JR東神奈川駅|[14](https://www.google.com/search?q=site%3Awww.sh-riraku113.xyz/+C)||||
 |[未来](http://www.lavender.esjoho.com/) <br />@JR東神奈川駅西口||[11](https://www.google.com/search?q=site%3Awww.lavender.esjoho.com/+D)|[1](https://www.google.com/search?q=site%3Awww.lavender.esjoho.com/+E)||
 |[RelaCute リラキュート](http://relacute.ies.bz/) <br />@JR中山駅北口|[1](https://www.google.com/search?q=site%3Arelacute.ies.bz/+C)|[6](https://www.google.com/search?q=site%3Arelacute.ies.bz/+D)|||
@@ -89,6 +88,7 @@ description: "キーワード別チャイエス嬢情報"
 |[美少女学園](http://www.gakuen.relaxjp.info/) <br />@JR関内駅南口||[12](https://www.google.com/search?q=site%3Awww.gakuen.relaxjp.info/+D)|[4](https://www.google.com/search?q=site%3Awww.gakuen.relaxjp.info/+E)||
 |[舞・まい](http://www.sh-ymnhr.work/) <br />@JR関内駅北口|[2](https://www.google.com/search?q=site%3Awww.sh-ymnhr.work/+C)|[3](https://www.google.com/search?q=site%3Awww.sh-ymnhr.work/+D)|||
 |[恋](http://kys-sawayaka.work/) <br />@JR中山駅北口||[6](https://www.google.com/search?q=site%3Akys-sawayaka.work/+D)|[2](https://www.google.com/search?q=site%3Akys-sawayaka.work/+E)||
+|[Rose Girl -ローズガール-](http://www.rosegirl.mesthe.com/) <br />@JR東神奈川駅西口|[2](https://www.google.com/search?q=site%3Awww.rosegirl.mesthe.com/+C)|[2](https://www.google.com/search?q=site%3Awww.rosegirl.mesthe.com/+D)|[1](https://www.google.com/search?q=site%3Awww.rosegirl.mesthe.com/+E)||
 
 
 
@@ -100,7 +100,7 @@ description: "キーワード別チャイエス嬢情報"
 |店名|100|80|82|83|84|85|86|87|88|89|90|91|96|97|98|99|
 |:--|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |[優雅～ゆうが～](http://yuga.estx.net/) <br />@JR中山駅|||||||||||||||||
-|[SRP](http://www.shine-es.info/) <br />@JR新横浜駅北口||||[9](https://www.google.com/search?q=site%3Awww.shine-es.info/+83)|[13](https://www.google.com/search?q=site%3Awww.shine-es.info/+84)|[36](https://www.google.com/search?q=site%3Awww.shine-es.info/+85)|[32](https://www.google.com/search?q=site%3Awww.shine-es.info/+86)|[9](https://www.google.com/search?q=site%3Awww.shine-es.info/+87)|[3](https://www.google.com/search?q=site%3Awww.shine-es.info/+88)||||||||
+|[SRP](http://www.shine-es.info/) <br />@JR新横浜駅北口||||[10](https://www.google.com/search?q=site%3Awww.shine-es.info/+83)|[14](https://www.google.com/search?q=site%3Awww.shine-es.info/+84)|[37](https://www.google.com/search?q=site%3Awww.shine-es.info/+85)|[37](https://www.google.com/search?q=site%3Awww.shine-es.info/+86)|[9](https://www.google.com/search?q=site%3Awww.shine-es.info/+87)|[3](https://www.google.com/search?q=site%3Awww.shine-es.info/+88)||||||||
 |[Rose Color～ローズカラー～](http://www.rose-color.info/) <br />@JR新横浜駅北口||||||[16](https://www.google.com/search?q=site%3Awww.rose-color.info/+85)|[48](https://www.google.com/search?q=site%3Awww.rose-color.info/+86)|[40](https://www.google.com/search?q=site%3Awww.rose-color.info/+87)|[4](https://www.google.com/search?q=site%3Awww.rose-color.info/+88)|[4](https://www.google.com/search?q=site%3Awww.rose-color.info/+89)|||||||
 |[花水木](http://est-hanamizuki.com/) <br />@JR東神奈川駅西口|||||||||||||||||
 |[Venus](http://es-kannai.link) <br />@JR関内駅南口|||||||||||||||||
@@ -123,7 +123,6 @@ description: "キーワード別チャイエス嬢情報"
 |[新台北](https://www.shin-taipei-massage.com/) <br />@桜木町駅南2番出口|||||||||||||||||
 |[SKY](http://hi-msg.com/sky/) <br />@JR関内駅北口||||||||[1](https://www.google.com/search?q=site%3Ahi-msg.com/sky/+87)|[4](https://www.google.com/search?q=site%3Ahi-msg.com/sky/+88)||[3](https://www.google.com/search?q=site%3Ahi-msg.com/sky/+90)|[1](https://www.google.com/search?q=site%3Ahi-msg.com/sky/+91)|||||
 |[チェリー](http://sh-riraku31.xyz/) <br />@JR横浜駅北西口|||||[1](https://www.google.com/search?q=site%3Ash-riraku31.xyz/+84)|[2](https://www.google.com/search?q=site%3Ash-riraku31.xyz/+85)|[1](https://www.google.com/search?q=site%3Ash-riraku31.xyz/+86)||||||||||
-|[Reposer -ルポゼ-](http://www.sh-riraku95.site/) <br />@JR東神奈川駅西口||||||[2](https://www.google.com/search?q=site%3Awww.sh-riraku95.site/+85)|[2](https://www.google.com/search?q=site%3Awww.sh-riraku95.site/+86)||||||||||
 |[レインボー虹](http://www.sh-riraku113.xyz/) <br />@JR東神奈川駅|||||||||||||||||
 |[未来](http://www.lavender.esjoho.com/) <br />@JR東神奈川駅西口|||||||[4](https://www.google.com/search?q=site%3Awww.lavender.esjoho.com/+86)|[7](https://www.google.com/search?q=site%3Awww.lavender.esjoho.com/+87)|[1](https://www.google.com/search?q=site%3Awww.lavender.esjoho.com/+88)||||||||
 |[RelaCute リラキュート](http://relacute.ies.bz/) <br />@JR中山駅北口|||[1](https://www.google.com/search?q=site%3Arelacute.ies.bz/+82)|||[2](https://www.google.com/search?q=site%3Arelacute.ies.bz/+85)|[2](https://www.google.com/search?q=site%3Arelacute.ies.bz/+86)|[2](https://www.google.com/search?q=site%3Arelacute.ies.bz/+87)|||||||||
@@ -165,6 +164,7 @@ description: "キーワード別チャイエス嬢情報"
 |[美少女学園](http://www.gakuen.relaxjp.info/) <br />@JR関内駅南口||||||||[16](https://www.google.com/search?q=site%3Awww.gakuen.relaxjp.info/+87)|||||||||
 |[舞・まい](http://www.sh-ymnhr.work/) <br />@JR関内駅北口||[1](https://www.google.com/search?q=site%3Awww.sh-ymnhr.work/+80)|||[2](https://www.google.com/search?q=site%3Awww.sh-ymnhr.work/+84)|[2](https://www.google.com/search?q=site%3Awww.sh-ymnhr.work/+85)|[1](https://www.google.com/search?q=site%3Awww.sh-ymnhr.work/+86)||||[2](https://www.google.com/search?q=site%3Awww.sh-ymnhr.work/+90)||||||
 |[恋](http://kys-sawayaka.work/) <br />@JR中山駅北口||||||[2](https://www.google.com/search?q=site%3Akys-sawayaka.work/+85)|[4](https://www.google.com/search?q=site%3Akys-sawayaka.work/+86)|[2](https://www.google.com/search?q=site%3Akys-sawayaka.work/+87)|||||||||
+|[Rose Girl -ローズガール-](http://www.rosegirl.mesthe.com/) <br />@JR東神奈川駅西口|||||||[2](https://www.google.com/search?q=site%3Awww.rosegirl.mesthe.com/+86)|[2](https://www.google.com/search?q=site%3Awww.rosegirl.mesthe.com/+87)|[1](https://www.google.com/search?q=site%3Awww.rosegirl.mesthe.com/+88)||||||||
 
 
 
@@ -199,7 +199,6 @@ description: "キーワード別チャイエス嬢情報"
 |[新台北](https://www.shin-taipei-massage.com/) <br />@桜木町駅南2番出口||||
 |[SKY](http://hi-msg.com/sky/) <br />@JR関内駅北口||||
 |[チェリー](http://sh-riraku31.xyz/) <br />@JR横浜駅北西口||||
-|[Reposer -ルポゼ-](http://www.sh-riraku95.site/) <br />@JR東神奈川駅西口||||
 |[レインボー虹](http://www.sh-riraku113.xyz/) <br />@JR東神奈川駅||||
 |[未来](http://www.lavender.esjoho.com/) <br />@JR東神奈川駅西口|[1](https://www.google.com/search?q=site%3Awww.lavender.esjoho.com/+セクシー)|||
 |[RelaCute リラキュート](http://relacute.ies.bz/) <br />@JR中山駅北口||||
@@ -241,4 +240,5 @@ description: "キーワード別チャイエス嬢情報"
 |[美少女学園](http://www.gakuen.relaxjp.info/) <br />@JR関内駅南口||||
 |[舞・まい](http://www.sh-ymnhr.work/) <br />@JR関内駅北口||[1](https://www.google.com/search?q=site%3Awww.sh-ymnhr.work/+乳)||
 |[恋](http://kys-sawayaka.work/) <br />@JR中山駅北口||||
+|[Rose Girl -ローズガール-](http://www.rosegirl.mesthe.com/) <br />@JR東神奈川駅西口||||
 
