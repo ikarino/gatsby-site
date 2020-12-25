@@ -1,5 +1,5 @@
 ---
-date: 2020-12-24
+date: 2020-12-25
 title: "町田・相模原・厚木・大和"
 cover: "https://unsplash.it/1152/300/?random?BirchintheRoses"
 categories:
@@ -32,7 +32,7 @@ description: "キーワード別チャイエス嬢情報"
 |[らくらく](http://www.smile-es.info/) <br />@大和駅南口|[1](https://www.google.com/search?q=site%3Awww.smile-es.info/+C)|[2](https://www.google.com/search?q=site%3Awww.smile-es.info/+D)|[1](https://www.google.com/search?q=site%3Awww.smile-es.info/+E)||||
 |[ふわふわ](http://www.relax-fuwafuwa.cn/) <br />@小田急相模原駅南口|||[1](https://www.google.com/search?q=site%3Awww.relax-fuwafuwa.cn/+E)|[1](https://www.google.com/search?q=site%3Awww.relax-fuwafuwa.cn/+F)|||
 |[MINA](http://es-mina.com/) <br />@町田駅東口|[33](https://www.google.com/search?q=site%3Aes-mina.com/+C)||||||
-|[nana](http://sln-esthe.com/) <br />@さがみ野駅北口|[81](https://www.google.com/search?q=site%3Asln-esthe.com/+C)||||||
+|[nana](http://sln-esthe.com/) <br />@さがみ野駅北口|[80](https://www.google.com/search?q=site%3Asln-esthe.com/+C)||||||
 |[COCOCHI](http://in-esthe.com/cocochi/) <br />@JR淵野辺駅北口|[4](https://www.google.com/search?q=site%3Ain-esthe.com/cocochi/+C)|[11](https://www.google.com/search?q=site%3Ain-esthe.com/cocochi/+D)|[1](https://www.google.com/search?q=site%3Ain-esthe.com/cocochi/+E)||||
 |[ふれあい](http://a-relax.info) <br />@南林間駅西口|[8](https://www.google.com/search?q=site%3Aa-relax.info+C)|[6](https://www.google.com/search?q=site%3Aa-relax.info+D)|[1](https://www.google.com/search?q=site%3Aa-relax.info+E)|[1](https://www.google.com/search?q=site%3Aa-relax.info+F)|||
 |[コスモス](http://sagamiono.net/) <br />@相模大野駅北口|[1](https://www.google.com/search?q=site%3Asagamiono.net/+C)|[1](https://www.google.com/search?q=site%3Asagamiono.net/+D)|||||
