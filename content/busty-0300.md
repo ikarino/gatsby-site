@@ -1,5 +1,5 @@
 ---
-date: 2020-12-25
+date: 2020-12-26
 title: "神奈川地区"
 cover: "https://unsplash.it/1152/300/?random?BirchintheRoses"
 categories:
@@ -133,52 +133,52 @@ description: "キーワード別チャイエス嬢情報"
 
 ### 直接表記
 
-|店名|胸|
-|:--|:---:|
-|[リラクゼーション妹](http://www.imouto-esute2866.com/) <br />@JR平塚駅北口||
-|[yuyu-ゆうゆ-](http://www.cc-girl.work/) <br />@上大岡駅||
-|[椿](http://o-jp.com/tsubaki/) <br />@JR平塚駅西口||
-|[Fairy Ark](http://www.relax-fairyark.info/) <br />@JR藤沢駅南口||
-|[癒心園](http://yushinen.info/) <br />@JR藤沢駅南口||
-|[浜辺の恋](http://www.hamabei.com/) <br />@JR茅ヶ崎駅南口||
-|[さわやか](http://hiratsuka-est.com/) <br />@JR平塚駅北口||
-|[天使の恋](http://tenshinokoi.es-come.net/) <br />@茅ヶ崎駅南口||
-|[福縁](http://treat-rlx.com/) <br />@善行駅東口||
-|[ラベンダー](http://lavender-est.xyz/) <br />@JR藤沢駅南口||
-|[花の扉](http://hana-tobira.xyz/) <br />@JR藤沢駅南口||
-|[さくら](http://hoguraku.info/) <br />@JR大船駅東口||
-|[追浜マッサージ](http://oppama.iest.info/) <br />@追浜駅||
-|[麗](http://es-rei.work/) <br />@JR藤沢駅南口||
-|[バラ園](http://baraen.xyz/) <br />@JR藤沢駅南口||
-|[恵](http://megumi-est.xyz/) <br />@JR藤沢駅南口||
-|[ふよう](http://www.huyo.work/) <br />@JR平塚駅北口||
-|[憩](http://ikoi.esjp.xyz/) <br />@追浜駅||
-|[随縁](http://sui-en.work/) <br />@JR平塚駅北口||
-|[ハナビ](http://es-hanabi.xyz/) <br />@JR平塚駅西口||
-|[薫](http://f-kaori.work/) <br />@JR藤沢駅南口||
-|[花の恋](http://www.sh-riraku77.site/) <br />@JR新杉田駅西口||
-|[ミラボル](http://esbest.info/) <br />@JR東戸塚駅東口||
-|[湘南恋](http://izumi.ests.jp/) <br />@湘南台駅西口||
-|[悠楽](http://yu-raku.info/) <br />@JR大船駅東口||
-|[桃香](http://esthe-massage.pw/) <br />@JR平塚駅||
-|[美楽](http://biraku.est-u.com) <br />@新逗子駅北口1||
-|[夜蝶](http://yacho.est-u.com/) <br />@JR藤沢駅南口||
-|[キュート](http://onlyone-relax.xyz/) <br />@JR小田原駅西口||
-|[空澄 -あすみ-](https://asumi.estjp.info/) <br />@小田原駅東口||
-|[華蓮](http://karen.ies.fun/) <br />@JR茅ヶ崎駅北口||
-|[カノジョの部屋](https://kanojyo-room.jpn.cm/) <br />@上大岡駅||
-|[萌え](http://pretty-esthe.com/) <br />@JR戸塚駅東口||
-|[メイド](http://meido.est888.com/) <br />@JR東戸塚駅東口||
-|[アロエ](http://oil.abnavi.info/) <br />@鶴巻温泉駅北口||
-|[リブレス](http://es-libres.com/) <br />@JR東戸塚駅西口||
-|[元気モリモリ](http://www.genkimori.esjp.info/) <br />@JR戸塚駅||
-|[猫娘](http://www.nekomusume.masg.info/) <br />@JR藤沢駅南口||
-|[夢都美](http://www.airi-est.xyz/) <br />@JR小田原駅東口||
-|[魔法の女王](http://civebt.xyz/) <br />@湘南台駅西口||
-|[元気もりもり](http://genkimorimori.ies.bz/) <br />@秦野駅北口||
-|[桜](http://www.sakura.iesjp.com/) <br />@JR東戸塚駅東口||
-|[Best Love ～ベストラブ～](http://www.bestlove.iesjp.com/) <br />@JR平塚駅北口||
-|[美庵 -ビアン-](http://massage-relax.tokyo/) <br />@上永谷駅||
-|[縁](http://en.este88.com/) <br />@JR藤沢駅北口||
-|[天使](http://uintiop.tokyo/) <br />@JR藤沢駅南口|[2](https://www.google.com/search?q=site%3Auintiop.tokyo/+胸)|
+|店名||
+|:--|
+|[リラクゼーション妹](http://www.imouto-esute2866.com/) <br />@JR平塚駅北口|
+|[yuyu-ゆうゆ-](http://www.cc-girl.work/) <br />@上大岡駅|
+|[椿](http://o-jp.com/tsubaki/) <br />@JR平塚駅西口|
+|[Fairy Ark](http://www.relax-fairyark.info/) <br />@JR藤沢駅南口|
+|[癒心園](http://yushinen.info/) <br />@JR藤沢駅南口|
+|[浜辺の恋](http://www.hamabei.com/) <br />@JR茅ヶ崎駅南口|
+|[さわやか](http://hiratsuka-est.com/) <br />@JR平塚駅北口|
+|[天使の恋](http://tenshinokoi.es-come.net/) <br />@茅ヶ崎駅南口|
+|[福縁](http://treat-rlx.com/) <br />@善行駅東口|
+|[ラベンダー](http://lavender-est.xyz/) <br />@JR藤沢駅南口|
+|[花の扉](http://hana-tobira.xyz/) <br />@JR藤沢駅南口|
+|[さくら](http://hoguraku.info/) <br />@JR大船駅東口|
+|[追浜マッサージ](http://oppama.iest.info/) <br />@追浜駅|
+|[麗](http://es-rei.work/) <br />@JR藤沢駅南口|
+|[バラ園](http://baraen.xyz/) <br />@JR藤沢駅南口|
+|[恵](http://megumi-est.xyz/) <br />@JR藤沢駅南口|
+|[ふよう](http://www.huyo.work/) <br />@JR平塚駅北口|
+|[憩](http://ikoi.esjp.xyz/) <br />@追浜駅|
+|[随縁](http://sui-en.work/) <br />@JR平塚駅北口|
+|[ハナビ](http://es-hanabi.xyz/) <br />@JR平塚駅西口|
+|[薫](http://f-kaori.work/) <br />@JR藤沢駅南口|
+|[花の恋](http://www.sh-riraku77.site/) <br />@JR新杉田駅西口|
+|[ミラボル](http://esbest.info/) <br />@JR東戸塚駅東口|
+|[湘南恋](http://izumi.ests.jp/) <br />@湘南台駅西口|
+|[悠楽](http://yu-raku.info/) <br />@JR大船駅東口|
+|[桃香](http://esthe-massage.pw/) <br />@JR平塚駅|
+|[美楽](http://biraku.est-u.com) <br />@新逗子駅北口1|
+|[夜蝶](http://yacho.est-u.com/) <br />@JR藤沢駅南口|
+|[キュート](http://onlyone-relax.xyz/) <br />@JR小田原駅西口|
+|[空澄 -あすみ-](https://asumi.estjp.info/) <br />@小田原駅東口|
+|[華蓮](http://karen.ies.fun/) <br />@JR茅ヶ崎駅北口|
+|[カノジョの部屋](https://kanojyo-room.jpn.cm/) <br />@上大岡駅|
+|[萌え](http://pretty-esthe.com/) <br />@JR戸塚駅東口|
+|[メイド](http://meido.est888.com/) <br />@JR東戸塚駅東口|
+|[アロエ](http://oil.abnavi.info/) <br />@鶴巻温泉駅北口|
+|[リブレス](http://es-libres.com/) <br />@JR東戸塚駅西口|
+|[元気モリモリ](http://www.genkimori.esjp.info/) <br />@JR戸塚駅|
+|[猫娘](http://www.nekomusume.masg.info/) <br />@JR藤沢駅南口|
+|[夢都美](http://www.airi-est.xyz/) <br />@JR小田原駅東口|
+|[魔法の女王](http://civebt.xyz/) <br />@湘南台駅西口|
+|[元気もりもり](http://genkimorimori.ies.bz/) <br />@秦野駅北口|
+|[桜](http://www.sakura.iesjp.com/) <br />@JR東戸塚駅東口|
+|[Best Love ～ベストラブ～](http://www.bestlove.iesjp.com/) <br />@JR平塚駅北口|
+|[美庵 -ビアン-](http://massage-relax.tokyo/) <br />@上永谷駅|
+|[縁](http://en.este88.com/) <br />@JR藤沢駅北口|
+|[天使](http://uintiop.tokyo/) <br />@JR藤沢駅南口|
 

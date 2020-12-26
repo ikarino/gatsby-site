@@ -1,5 +1,5 @@
 ---
-date: 2020-12-25
+date: 2020-12-26
 title: "町田・相模原・厚木・大和"
 cover: "https://unsplash.it/1152/300/?random?BirchintheRoses"
 categories:
@@ -121,7 +121,7 @@ description: "キーワード別チャイエス嬢情報"
 |[Feeling Spa](http://feelingspa.jpest.net/) <br />@JR淵野辺駅南口|[6](https://www.google.com/search?q=site%3Afeelingspa.jpest.net/+C)||||||
 |[プレシャス](http://precious.estheya.com/) <br />@大和駅南口|[1](https://www.google.com/search?q=site%3Aprecious.estheya.com/+C)|[2](https://www.google.com/search?q=site%3Aprecious.estheya.com/+D)|||||
 |[夜の夢](http://dream.ebb.jp/) <br />@JR町田駅|[1](https://www.google.com/search?q=site%3Adream.ebb.jp/+C)||[1](https://www.google.com/search?q=site%3Adream.ebb.jp/+E)||||
-|[AROHA -アロハ-](https://aloha.estjp.info/) <br />@JR淵野辺駅北口|[1](https://www.google.com/search?q=site%3Aaloha.estjp.info/+C)|[2](https://www.google.com/search?q=site%3Aaloha.estjp.info/+D)|||||
+|[AROHA -アロハ-](https://aloha.estjp.info/) <br />@JR淵野辺駅北口|[1](https://www.google.com/search?q=site%3Aaloha.estjp.info/+C)|[3](https://www.google.com/search?q=site%3Aaloha.estjp.info/+D)|||||
 |[apple](http://www.binatsujiyamu.xyz/) <br />@町田駅|[7](https://www.google.com/search?q=site%3Awww.binatsujiyamu.xyz/+C)|[7](https://www.google.com/search?q=site%3Awww.binatsujiyamu.xyz/+D)|||||
 |[HIMAWARI](http://aroma-himawari.com/) <br />@JR町田駅北口|||||||
 |[ねこちゃん](http://esthe-japan.work/nekochan/) <br />@相模大野駅南口|||||||
@@ -242,7 +242,7 @@ description: "キーワード別チャイエス嬢情報"
 |[Feeling Spa](http://feelingspa.jpest.net/) <br />@JR淵野辺駅南口|||||||||||||||
 |[プレシャス](http://precious.estheya.com/) <br />@大和駅南口||||||[1](https://www.google.com/search?q=site%3Aprecious.estheya.com/+86)|||[2](https://www.google.com/search?q=site%3Aprecious.estheya.com/+89)||||||
 |[夜の夢](http://dream.ebb.jp/) <br />@JR町田駅||||[1](https://www.google.com/search?q=site%3Adream.ebb.jp/+84)||||[1](https://www.google.com/search?q=site%3Adream.ebb.jp/+88)|||||||
-|[AROHA -アロハ-](https://aloha.estjp.info/) <br />@JR淵野辺駅北口|||||||[1](https://www.google.com/search?q=site%3Aaloha.estjp.info/+87)||[2](https://www.google.com/search?q=site%3Aaloha.estjp.info/+89)||||||
+|[AROHA -アロハ-](https://aloha.estjp.info/) <br />@JR淵野辺駅北口|||||||[2](https://www.google.com/search?q=site%3Aaloha.estjp.info/+87)||[2](https://www.google.com/search?q=site%3Aaloha.estjp.info/+89)||||||
 |[apple](http://www.binatsujiyamu.xyz/) <br />@町田駅||||[1](https://www.google.com/search?q=site%3Awww.binatsujiyamu.xyz/+84)|[6](https://www.google.com/search?q=site%3Awww.binatsujiyamu.xyz/+85)|||[1](https://www.google.com/search?q=site%3Awww.binatsujiyamu.xyz/+88)|||||||
 |[HIMAWARI](http://aroma-himawari.com/) <br />@JR町田駅北口|||||||||||||||
 |[ねこちゃん](http://esthe-japan.work/nekochan/) <br />@相模大野駅南口|||||||||||||||
