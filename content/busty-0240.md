@@ -1,5 +1,5 @@
 ---
-date: 2020-12-26
+date: 2020-12-27
 title: "門前仲町・東陽町・葛西・南行徳"
 cover: "https://unsplash.it/1152/300/?random?BirchintheRoses"
 categories:
@@ -228,5 +228,5 @@ description: "キーワード別チャイエス嬢情報"
 |[Pinkie ～ピンキー～](http://aphrodite-est.xyz/) <br />@行徳駅南口|||||
 |[楽楽](http://www.rakulax.jp/) <br />@門前仲町駅3番出口|||||
 |[爽健](http://www.styleone.cf/sk/) <br />@葛西駅南口|||||
-|[ダイヤモンド](http://ikeibana.xyz/) <br />@西葛西駅南口||[8](https://www.google.com/search?q=site%3Aikeibana.xyz/+乳)|||
+|[ダイヤモンド](http://ikeibana.xyz/) <br />@西葛西駅南口||[6](https://www.google.com/search?q=site%3Aikeibana.xyz/+乳)|||
 
