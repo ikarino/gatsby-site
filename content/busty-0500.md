@@ -1,5 +1,5 @@
 ---
-date: 2020-12-28
+date: 2020-12-29
 title: "千葉地区"
 cover: "https://unsplash.it/1152/300/?random?BirchintheRoses"
 categories:
@@ -28,6 +28,7 @@ description: "キーワード別チャイエス嬢情報"
 |[リゾートMAX](http://resort-max.jpn.mn/) <br />@千葉中央駅東口|[2](https://www.google.com/search?q=site%3Aresort-max.jpn.mn/+C)|[10](https://www.google.com/search?q=site%3Aresort-max.jpn.mn/+D)|[6](https://www.google.com/search?q=site%3Aresort-max.jpn.mn/+E)|||
 |[Lover～ラヴァー～](http://www.lover-esthe.xyz/) <br />@JR千葉駅北口|[8](https://www.google.com/search?q=site%3Awww.lover-esthe.xyz/+C)|[32](https://www.google.com/search?q=site%3Awww.lover-esthe.xyz/+D)|[2](https://www.google.com/search?q=site%3Awww.lover-esthe.xyz/+E)|||
 |[おかえり](http://wureshii.tokyo/) <br />@JR津田沼駅北口|[30](https://www.google.com/search?q=site%3Awureshii.tokyo/+C)|||||
+|[cocosia ココシア](http://m-relax.net/cocosia/) <br />@千葉中央駅東口||||||
 |[with you](http://www.with-you.xyz/) <br />@JR千葉駅東口||||||
 |[ビューティータイム](https://beautytime.space/) <br />@北習志野駅||||||
 |[彩 あや](http://www.aya-esthe.xyz/) <br />@JR稲毛駅東口|[1](https://www.google.com/search?q=site%3Awww.aya-esthe.xyz/+C)|[5](https://www.google.com/search?q=site%3Awww.aya-esthe.xyz/+D)|[1](https://www.google.com/search?q=site%3Awww.aya-esthe.xyz/+E)|||
@@ -81,7 +82,7 @@ description: "キーワード別チャイエス嬢情報"
 |[美魔女](http://yureloyuli.xyz/) <br />@高根木戸駅北口|[4](https://www.google.com/search?q=site%3Ayureloyuli.xyz/+C)|[8](https://www.google.com/search?q=site%3Ayureloyuli.xyz/+D)||||
 |[ミント](http://www.mint.esjp.info/) <br />@習志野駅||[3](https://www.google.com/search?q=site%3Awww.mint.esjp.info/+D)||||
 |[PAREO・パレオ](http://pareo.ests.jp/) <br />@JR西千葉駅南口||[30](https://www.google.com/search?q=site%3Apareo.ests.jp/+D)||||
-|[Angel～エンジェル～](http://www.angel-esthe.xyz/) <br />@JR稲毛駅東口||[24](https://www.google.com/search?q=site%3Awww.angel-esthe.xyz/+D)||||
+|[Angel～エンジェル～](http://www.angel-esthe.xyz/) <br />@JR稲毛駅東口||[32](https://www.google.com/search?q=site%3Awww.angel-esthe.xyz/+D)||||
 |[天使楽園](http://sara.xyz.mn/) <br />@千葉中央駅|[1](https://www.google.com/search?q=site%3Asara.xyz.mn/+C)|[2](https://www.google.com/search?q=site%3Asara.xyz.mn/+D)|[2](https://www.google.com/search?q=site%3Asara.xyz.mn/+E)|||
 |[Happiness](http://happiness.jpn.vin/) <br />@八千代台駅西口|[12](https://www.google.com/search?q=site%3Ahappiness.jpn.vin/+C)|[30](https://www.google.com/search?q=site%3Ahappiness.jpn.vin/+D)||||
 |[秋月](http://www.akizu.esjoho.com/) <br />@八千代台駅西口|[3](https://www.google.com/search?q=site%3Awww.akizu.esjoho.com/+C)|[9](https://www.google.com/search?q=site%3Awww.akizu.esjoho.com/+D)||||
@@ -125,6 +126,7 @@ description: "キーワード別チャイエス嬢情報"
 |[HARU](https://www.harurelaxation.com/) <br />@JR茂原駅|[3](https://www.google.com/search?q=site%3Awww.harurelaxation.com/+C)|[15](https://www.google.com/search?q=site%3Awww.harurelaxation.com/+D)|[6](https://www.google.com/search?q=site%3Awww.harurelaxation.com/+E)|||
 |[オレンジ](http://www.orange-est.com/) <br />@JR茂原駅南口||||||
 |[秋桜・コスモス](http://soga.jpest.net/) <br />@JR蘇我駅東口||||||
+|[佳美](http://www.yoshimi.mensest.com/) <br />@勝田台駅南口|[3](https://www.google.com/search?q=site%3Awww.yoshimi.mensest.com/+C)|[6](https://www.google.com/search?q=site%3Awww.yoshimi.mensest.com/+D)||||
 
 
 
@@ -140,6 +142,7 @@ description: "キーワード別チャイエス嬢情報"
 |[リゾートMAX](http://resort-max.jpn.mn/) <br />@千葉中央駅東口||||||||[6](https://www.google.com/search?q=site%3Aresort-max.jpn.mn/+86)|[8](https://www.google.com/search?q=site%3Aresort-max.jpn.mn/+87)|[2](https://www.google.com/search?q=site%3Aresort-max.jpn.mn/+88)|[2](https://www.google.com/search?q=site%3Aresort-max.jpn.mn/+89)||||||
 |[Lover～ラヴァー～](http://www.lover-esthe.xyz/) <br />@JR千葉駅北口|||||[4](https://www.google.com/search?q=site%3Awww.lover-esthe.xyz/+83)|[2](https://www.google.com/search?q=site%3Awww.lover-esthe.xyz/+84)||[16](https://www.google.com/search?q=site%3Awww.lover-esthe.xyz/+86)|[18](https://www.google.com/search?q=site%3Awww.lover-esthe.xyz/+87)|[2](https://www.google.com/search?q=site%3Awww.lover-esthe.xyz/+88)|||||||
 |[おかえり](http://wureshii.tokyo/) <br />@JR津田沼駅北口|||||||||||||||||
+|[cocosia ココシア](http://m-relax.net/cocosia/) <br />@千葉中央駅東口|||||||||||||||||
 |[with you](http://www.with-you.xyz/) <br />@JR千葉駅東口|||||||||||||||||
 |[ビューティータイム](https://beautytime.space/) <br />@北習志野駅|||||||||||||||||
 |[彩 あや](http://www.aya-esthe.xyz/) <br />@JR稲毛駅東口|||||||[1](https://www.google.com/search?q=site%3Awww.aya-esthe.xyz/+85)|[1](https://www.google.com/search?q=site%3Awww.aya-esthe.xyz/+86)|[4](https://www.google.com/search?q=site%3Awww.aya-esthe.xyz/+87)||||||[2](https://www.google.com/search?q=site%3Awww.aya-esthe.xyz/+93)||
@@ -193,7 +196,7 @@ description: "キーワード別チャイエス嬢情報"
 |[美魔女](http://yureloyuli.xyz/) <br />@高根木戸駅北口||||||[3](https://www.google.com/search?q=site%3Ayureloyuli.xyz/+84)|[7](https://www.google.com/search?q=site%3Ayureloyuli.xyz/+85)|[2](https://www.google.com/search?q=site%3Ayureloyuli.xyz/+86)|||||||||
 |[ミント](http://www.mint.esjp.info/) <br />@習志野駅||||||||[1](https://www.google.com/search?q=site%3Awww.mint.esjp.info/+86)|[1](https://www.google.com/search?q=site%3Awww.mint.esjp.info/+87)|[1](https://www.google.com/search?q=site%3Awww.mint.esjp.info/+88)|||||||
 |[PAREO・パレオ](http://pareo.ests.jp/) <br />@JR西千葉駅南口||||||||[18](https://www.google.com/search?q=site%3Apareo.ests.jp/+86)|[12](https://www.google.com/search?q=site%3Apareo.ests.jp/+87)||||||||
-|[Angel～エンジェル～](http://www.angel-esthe.xyz/) <br />@JR稲毛駅東口||||||||[8](https://www.google.com/search?q=site%3Awww.angel-esthe.xyz/+86)|[8](https://www.google.com/search?q=site%3Awww.angel-esthe.xyz/+87)|[8](https://www.google.com/search?q=site%3Awww.angel-esthe.xyz/+88)|||||||
+|[Angel～エンジェル～](http://www.angel-esthe.xyz/) <br />@JR稲毛駅東口||||||||[8](https://www.google.com/search?q=site%3Awww.angel-esthe.xyz/+86)|[16](https://www.google.com/search?q=site%3Awww.angel-esthe.xyz/+87)|[8](https://www.google.com/search?q=site%3Awww.angel-esthe.xyz/+88)|||||||
 |[天使楽園](http://sara.xyz.mn/) <br />@千葉中央駅||||||||[2](https://www.google.com/search?q=site%3Asara.xyz.mn/+86)|[2](https://www.google.com/search?q=site%3Asara.xyz.mn/+87)|[1](https://www.google.com/search?q=site%3Asara.xyz.mn/+88)|||||||
 |[Happiness](http://happiness.jpn.vin/) <br />@八千代台駅西口|||||||[6](https://www.google.com/search?q=site%3Ahappiness.jpn.vin/+85)|[12](https://www.google.com/search?q=site%3Ahappiness.jpn.vin/+86)|[12](https://www.google.com/search?q=site%3Ahappiness.jpn.vin/+87)||||||||
 |[秋月](http://www.akizu.esjoho.com/) <br />@八千代台駅西口||||||||[9](https://www.google.com/search?q=site%3Awww.akizu.esjoho.com/+86)||[3](https://www.google.com/search?q=site%3Awww.akizu.esjoho.com/+88)|||||||
@@ -237,6 +240,7 @@ description: "キーワード別チャイエス嬢情報"
 |[HARU](https://www.harurelaxation.com/) <br />@JR茂原駅||||[12](https://www.google.com/search?q=site%3Awww.harurelaxation.com/+82)|[6](https://www.google.com/search?q=site%3Awww.harurelaxation.com/+83)|[3](https://www.google.com/search?q=site%3Awww.harurelaxation.com/+84)|[3](https://www.google.com/search?q=site%3Awww.harurelaxation.com/+85)||||||||||
 |[オレンジ](http://www.orange-est.com/) <br />@JR茂原駅南口|||||||||||||||||
 |[秋桜・コスモス](http://soga.jpest.net/) <br />@JR蘇我駅東口|||||||||||||||||
+|[佳美](http://www.yoshimi.mensest.com/) <br />@勝田台駅南口||||||||[6](https://www.google.com/search?q=site%3Awww.yoshimi.mensest.com/+86)|[3](https://www.google.com/search?q=site%3Awww.yoshimi.mensest.com/+87)||||||||
 
 
 
@@ -252,6 +256,7 @@ description: "キーワード別チャイエス嬢情報"
 |[リゾートMAX](http://resort-max.jpn.mn/) <br />@千葉中央駅東口|||||
 |[Lover～ラヴァー～](http://www.lover-esthe.xyz/) <br />@JR千葉駅北口|||||
 |[おかえり](http://wureshii.tokyo/) <br />@JR津田沼駅北口|||||
+|[cocosia ココシア](http://m-relax.net/cocosia/) <br />@千葉中央駅東口|||||
 |[with you](http://www.with-you.xyz/) <br />@JR千葉駅東口||[3](https://www.google.com/search?q=site%3Awww.with-you.xyz/+乳)|||
 |[ビューティータイム](https://beautytime.space/) <br />@北習志野駅|||||
 |[彩 あや](http://www.aya-esthe.xyz/) <br />@JR稲毛駅東口|||||
@@ -349,4 +354,5 @@ description: "キーワード別チャイエス嬢情報"
 |[HARU](https://www.harurelaxation.com/) <br />@JR茂原駅||||[2](https://www.google.com/search?q=site%3Awww.harurelaxation.com/+胸)|
 |[オレンジ](http://www.orange-est.com/) <br />@JR茂原駅南口|||||
 |[秋桜・コスモス](http://soga.jpest.net/) <br />@JR蘇我駅東口|||||
+|[佳美](http://www.yoshimi.mensest.com/) <br />@勝田台駅南口|||||
 
