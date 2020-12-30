@@ -1,5 +1,5 @@
 ---
-date: 2020-12-29
+date: 2020-12-30
 title: "飯田橋・水道橋・御茶ノ水"
 cover: "https://unsplash.it/1152/300/?random?BirchintheRoses"
 categories:
@@ -23,7 +23,7 @@ description: "キーワード別チャイエス嬢情報"
 
 |店名|C|D|E|F|G|
 |:--|:---:|:---:|:---:|:---:|:---:|
-|[癒しの泉](https://izumi-esthe.tokyo/) <br />@小川町駅B5出口|[18](https://www.google.com/search?q=site%3Aizumi-esthe.tokyo/+C)|[66](https://www.google.com/search?q=site%3Aizumi-esthe.tokyo/+D)|[26](https://www.google.com/search?q=site%3Aizumi-esthe.tokyo/+E)||[4](https://www.google.com/search?q=site%3Aizumi-esthe.tokyo/+G)|
+|[癒しの泉](https://izumi-esthe.tokyo/) <br />@小川町駅B5出口|[18](https://www.google.com/search?q=site%3Aizumi-esthe.tokyo/+C)|[68](https://www.google.com/search?q=site%3Aizumi-esthe.tokyo/+D)|[26](https://www.google.com/search?q=site%3Aizumi-esthe.tokyo/+E)||[4](https://www.google.com/search?q=site%3Aizumi-esthe.tokyo/+G)|
 |[Lime](http://sln-relax.com/) <br />@JR水道橋駅西口|[17](https://www.google.com/search?q=site%3Asln-relax.com/+C)|||||
 |[はなび](http://jinbocho.xyz/) <br />@神保町駅A5出口||||||
 |[アロマラッキー](http://aromalucky.xyz/) <br />@小川町駅B4||||||
