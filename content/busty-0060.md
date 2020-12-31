@@ -1,5 +1,5 @@
 ---
-date: 2020-12-30
+date: 2020-12-31
 title: "西日暮里・日暮里・鶯谷"
 cover: "https://unsplash.it/1152/300/?random?BirchintheRoses"
 categories:
@@ -84,7 +84,7 @@ description: "キーワード別チャイエス嬢情報"
 |[温馨港-おんきょうこう-](http://onkyoukou.tyo.cm/) <br />@JR西日暮里駅|||
 |[鈴-すず-](http://www.suzu.esjp.info/) <br />@JR西日暮里駅|||
 |[未来](http://www.relax-mirai.info/) <br />@日暮里駅東口|||
-|[ソフィア](https://www.sofia-est.com/) <br />@JR日暮里駅南口|[29](https://www.google.com/search?q=site%3Awww.sofia-est.com/+セクシー)|[3](https://www.google.com/search?q=site%3Awww.sofia-est.com/+ダイナマイト)|
+|[ソフィア](https://www.sofia-est.com/) <br />@JR日暮里駅南口|[29](https://www.google.com/search?q=site%3Awww.sofia-est.com/+セクシー)|[1](https://www.google.com/search?q=site%3Awww.sofia-est.com/+ダイナマイト)|
 |[みなみ](http://es-minami.com/) <br />@JR日暮里駅東口|||
 |[ほほえみ](http://www.hohoemi.es-relax.info/) <br />@JR西日暮里駅|||
 |[はたち](http://www.mac-riraku106.xyz/) <br />@JR日暮里駅南口|||
