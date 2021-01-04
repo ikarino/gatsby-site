@@ -1,5 +1,5 @@
 ---
-date: 2021-01-01
+date: 2021-01-04
 title: "錦糸町・亀戸・新小岩"
 cover: "https://unsplash.it/1152/300/?random?BirchintheRoses"
 categories:
@@ -37,7 +37,7 @@ description: "キーワード別チャイエス嬢情報"
 |[スマイル](http://kinshicho-es.xyz/) <br />@JR錦糸町駅北口|[7](https://www.google.com/search?q=site%3Akinshicho-es.xyz/+C)|||||
 |[癒しの泉](https://iyashinoizumi.com/) <br />@JR錦糸町駅北口||||||
 |[萬生楼](https://kameido-massage.com/) <br />@JR亀戸駅北口||||||
-|[パタヤ](http://thaipataya.chm.jp/) <br />@JR小岩駅南口|[5](https://www.google.com/search?q=site%3Athaipataya.chm.jp/+C)|||||
+|[パタヤ](http://thaipataya.chm.jp/) <br />@JR小岩駅南口|[6](https://www.google.com/search?q=site%3Athaipataya.chm.jp/+C)|||||
 |[蜜花](http://hani-est.xyz/) <br />@西大島駅A1出口|[56](https://www.google.com/search?q=site%3Ahani-est.xyz/+C)||[14](https://www.google.com/search?q=site%3Ahani-est.xyz/+E)|||
 |[KIRARA](https://kinshicho-mensesthe.net/) <br />@JR錦糸町駅北口|[75](https://www.google.com/search?q=site%3Akinshicho-mensesthe.net/+C)|[135](https://www.google.com/search?q=site%3Akinshicho-mensesthe.net/+D)|[15](https://www.google.com/search?q=site%3Akinshicho-mensesthe.net/+E)|||
 |[Piano](https://piano.sweet-relaxation.com/) <br />@JR新小岩駅南口||||||
