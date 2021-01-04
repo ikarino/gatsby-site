@@ -1,5 +1,5 @@
 ---
-date: 2021-01-01
+date: 2021-01-04
 title: "横浜・桜木町・関内・新横浜"
 cover: "https://unsplash.it/1152/300/?random?BirchintheRoses"
 categories:
@@ -24,7 +24,7 @@ description: "キーワード別チャイエス嬢情報"
 |店名|C|D|E|F|
 |:--|:---:|:---:|:---:|:---:|
 |[優雅～ゆうが～](http://yuga.estx.net/) <br />@JR中山駅|||||
-|[SRP](http://www.shine-es.info/) <br />@JR新横浜駅北口|[52](https://www.google.com/search?q=site%3Awww.shine-es.info/+C)|[29](https://www.google.com/search?q=site%3Awww.shine-es.info/+D)|[3](https://www.google.com/search?q=site%3Awww.shine-es.info/+E)||
+|[SRP](http://www.shine-es.info/) <br />@JR新横浜駅北口|[56](https://www.google.com/search?q=site%3Awww.shine-es.info/+C)|[31](https://www.google.com/search?q=site%3Awww.shine-es.info/+D)|[3](https://www.google.com/search?q=site%3Awww.shine-es.info/+E)||
 |[Rose Color～ローズカラー～](http://www.rose-color.info/) <br />@JR新横浜駅北口|[76](https://www.google.com/search?q=site%3Awww.rose-color.info/+C)|[24](https://www.google.com/search?q=site%3Awww.rose-color.info/+D)|[8](https://www.google.com/search?q=site%3Awww.rose-color.info/+E)|[4](https://www.google.com/search?q=site%3Awww.rose-color.info/+F)|
 |[花水木](http://est-hanamizuki.com/) <br />@JR東神奈川駅西口|||||
 |[Venus](http://es-kannai.link) <br />@JR関内駅南口|||||
@@ -63,7 +63,7 @@ description: "キーワード別チャイエス嬢情報"
 |[楽楽](http://www.rakuraku.esjoho.com/) <br />@東白楽駅|[24](https://www.google.com/search?q=site%3Awww.rakuraku.esjoho.com/+C)|[4](https://www.google.com/search?q=site%3Awww.rakuraku.esjoho.com/+D)|||
 |[カラフルリゾート](https://color.uouono.com/) <br />@JR横浜駅相鉄口||[29](https://www.google.com/search?q=site%3Acolor.uouono.com/+D)|[13](https://www.google.com/search?q=site%3Acolor.uouono.com/+E)||
 |[マイマリヤ](http://r-relax.info/) <br />@JR新横浜駅|||||
-|[Dear](https://dear.xyz.mn/) <br />@JR関内駅北口|[26](https://www.google.com/search?q=site%3Adear.xyz.mn/+C)|[30](https://www.google.com/search?q=site%3Adear.xyz.mn/+D)|[6](https://www.google.com/search?q=site%3Adear.xyz.mn/+E)||
+|[Dear](https://dear.xyz.mn/) <br />@JR関内駅北口|[34](https://www.google.com/search?q=site%3Adear.xyz.mn/+C)|[36](https://www.google.com/search?q=site%3Adear.xyz.mn/+D)|[6](https://www.google.com/search?q=site%3Adear.xyz.mn/+E)||
 |[癒しの手](https://iyashinote.xyz.mn/) <br />@JR横浜駅西口||[54](https://www.google.com/search?q=site%3Aiyashinote.xyz.mn/+D)|[18](https://www.google.com/search?q=site%3Aiyashinote.xyz.mn/+E)||
 |[Lolita～ロリータ～](http://www.lolita.mesjp.com/) <br />@JR横浜駅北西口|[6](https://www.google.com/search?q=site%3Awww.lolita.mesjp.com/+C)|[60](https://www.google.com/search?q=site%3Awww.lolita.mesjp.com/+D)|||
 |[可愛い猫](https://neko.iest.info/) <br />@JR横浜駅西口|[9](https://www.google.com/search?q=site%3Aneko.iest.info/+C)|[54](https://www.google.com/search?q=site%3Aneko.iest.info/+D)|[9](https://www.google.com/search?q=site%3Aneko.iest.info/+E)||
@@ -98,7 +98,7 @@ description: "キーワード別チャイエス嬢情報"
 |店名|100|80|82|83|84|85|86|87|88|89|90|91|96|97|98|99|
 |:--|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |[優雅～ゆうが～](http://yuga.estx.net/) <br />@JR中山駅|||||||||||||||||
-|[SRP](http://www.shine-es.info/) <br />@JR新横浜駅北口||||[10](https://www.google.com/search?q=site%3Awww.shine-es.info/+83)|[14](https://www.google.com/search?q=site%3Awww.shine-es.info/+84)|[29](https://www.google.com/search?q=site%3Awww.shine-es.info/+85)|[25](https://www.google.com/search?q=site%3Awww.shine-es.info/+86)|[9](https://www.google.com/search?q=site%3Awww.shine-es.info/+87)|[3](https://www.google.com/search?q=site%3Awww.shine-es.info/+88)||||||||
+|[SRP](http://www.shine-es.info/) <br />@JR新横浜駅北口||||[9](https://www.google.com/search?q=site%3Awww.shine-es.info/+83)|[13](https://www.google.com/search?q=site%3Awww.shine-es.info/+84)|[31](https://www.google.com/search?q=site%3Awww.shine-es.info/+85)|[31](https://www.google.com/search?q=site%3Awww.shine-es.info/+86)|[9](https://www.google.com/search?q=site%3Awww.shine-es.info/+87)|[3](https://www.google.com/search?q=site%3Awww.shine-es.info/+88)||||||||
 |[Rose Color～ローズカラー～](http://www.rose-color.info/) <br />@JR新横浜駅北口||||||[16](https://www.google.com/search?q=site%3Awww.rose-color.info/+85)|[48](https://www.google.com/search?q=site%3Awww.rose-color.info/+86)|[40](https://www.google.com/search?q=site%3Awww.rose-color.info/+87)|[4](https://www.google.com/search?q=site%3Awww.rose-color.info/+88)|[4](https://www.google.com/search?q=site%3Awww.rose-color.info/+89)|||||||
 |[花水木](http://est-hanamizuki.com/) <br />@JR東神奈川駅西口|||||||||||||||||
 |[Venus](http://es-kannai.link) <br />@JR関内駅南口|||||||||||||||||
@@ -137,7 +137,7 @@ description: "キーワード別チャイエス嬢情報"
 |[楽楽](http://www.rakuraku.esjoho.com/) <br />@東白楽駅|||||||[8](https://www.google.com/search?q=site%3Awww.rakuraku.esjoho.com/+86)|[8](https://www.google.com/search?q=site%3Awww.rakuraku.esjoho.com/+87)|||||||||
 |[カラフルリゾート](https://color.uouono.com/) <br />@JR横浜駅相鉄口|||||||||||||||||
 |[マイマリヤ](http://r-relax.info/) <br />@JR新横浜駅|||||||||||||||||
-|[Dear](https://dear.xyz.mn/) <br />@JR関内駅北口||||||[6](https://www.google.com/search?q=site%3Adear.xyz.mn/+85)|[30](https://www.google.com/search?q=site%3Adear.xyz.mn/+86)|[12](https://www.google.com/search?q=site%3Adear.xyz.mn/+87)|||||||||
+|[Dear](https://dear.xyz.mn/) <br />@JR関内駅北口||||||[6](https://www.google.com/search?q=site%3Adear.xyz.mn/+85)|[42](https://www.google.com/search?q=site%3Adear.xyz.mn/+86)|[12](https://www.google.com/search?q=site%3Adear.xyz.mn/+87)|||||||||
 |[癒しの手](https://iyashinote.xyz.mn/) <br />@JR横浜駅西口|||||[18](https://www.google.com/search?q=site%3Aiyashinote.xyz.mn/+84)||[27](https://www.google.com/search?q=site%3Aiyashinote.xyz.mn/+86)|[18](https://www.google.com/search?q=site%3Aiyashinote.xyz.mn/+87)|[9](https://www.google.com/search?q=site%3Aiyashinote.xyz.mn/+88)||||||||
 |[Lolita～ロリータ～](http://www.lolita.mesjp.com/) <br />@JR横浜駅北西口|||||||[6](https://www.google.com/search?q=site%3Awww.lolita.mesjp.com/+86)|[60](https://www.google.com/search?q=site%3Awww.lolita.mesjp.com/+87)|||||||||
 |[可愛い猫](https://neko.iest.info/) <br />@JR横浜駅西口|||||[9](https://www.google.com/search?q=site%3Aneko.iest.info/+84)|[45](https://www.google.com/search?q=site%3Aneko.iest.info/+85)|[9](https://www.google.com/search?q=site%3Aneko.iest.info/+86)|[9](https://www.google.com/search?q=site%3Aneko.iest.info/+87)|||||||||

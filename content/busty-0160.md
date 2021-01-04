@@ -1,5 +1,5 @@
 ---
-date: 2021-01-01
+date: 2021-01-04
 title: "飯田橋・水道橋・御茶ノ水"
 cover: "https://unsplash.it/1152/300/?random?BirchintheRoses"
 categories:
@@ -23,12 +23,12 @@ description: "キーワード別チャイエス嬢情報"
 
 |店名|C|D|E|F|G|
 |:--|:---:|:---:|:---:|:---:|:---:|
-|[癒しの泉](https://izumi-esthe.tokyo/) <br />@小川町駅B5出口|[18](https://www.google.com/search?q=site%3Aizumi-esthe.tokyo/+C)|[68](https://www.google.com/search?q=site%3Aizumi-esthe.tokyo/+D)|[26](https://www.google.com/search?q=site%3Aizumi-esthe.tokyo/+E)||[4](https://www.google.com/search?q=site%3Aizumi-esthe.tokyo/+G)|
+|[癒しの泉](https://izumi-esthe.tokyo/) <br />@小川町駅B5出口|[18](https://www.google.com/search?q=site%3Aizumi-esthe.tokyo/+C)|[66](https://www.google.com/search?q=site%3Aizumi-esthe.tokyo/+D)|[22](https://www.google.com/search?q=site%3Aizumi-esthe.tokyo/+E)||[4](https://www.google.com/search?q=site%3Aizumi-esthe.tokyo/+G)|
 |[Lime](http://sln-relax.com/) <br />@JR水道橋駅西口|[17](https://www.google.com/search?q=site%3Asln-relax.com/+C)|||||
 |[はなび](http://jinbocho.xyz/) <br />@神保町駅A5出口||||||
 |[アロマラッキー](http://aromalucky.xyz/) <br />@小川町駅B4||||||
 |[ラピス](http://rapisu.tokyo/) <br />@神保町駅A7出口|[7](https://www.google.com/search?q=site%3Arapisu.tokyo/+C)|||||
-|[楽楽](https://raku-relax.tokyo/) <br />@牛込神楽坂駅A2出口|[17](https://www.google.com/search?q=site%3Araku-relax.tokyo/+C)|[13](https://www.google.com/search?q=site%3Araku-relax.tokyo/+D)|[3](https://www.google.com/search?q=site%3Araku-relax.tokyo/+E)|||
+|[楽楽](https://raku-relax.tokyo/) <br />@牛込神楽坂駅A2出口|[16](https://www.google.com/search?q=site%3Araku-relax.tokyo/+C)|[13](https://www.google.com/search?q=site%3Araku-relax.tokyo/+D)|[8](https://www.google.com/search?q=site%3Araku-relax.tokyo/+E)|||
 |[悠 ゆう](http://yu.xyz.mn/) <br />@JR水道橋駅西口|[18](https://www.google.com/search?q=site%3Ayu.xyz.mn/+C)|[24](https://www.google.com/search?q=site%3Ayu.xyz.mn/+D)||||
 |[プリン](https://suidobashi-mensesthe.com/) <br />@JR水道橋駅西口||||||
 |[Lucky Aroma](https://happy-aroma.eei.jp/) <br />@小川町駅A7出口||||||
