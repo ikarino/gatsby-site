@@ -1,5 +1,5 @@
 ---
-date: 2021-01-01
+date: 2021-01-04
 title: "赤羽・東十条・王子・板橋"
 cover: "https://unsplash.it/1152/300/?random?BirchintheRoses"
 categories:
@@ -43,7 +43,7 @@ description: "キーワード別チャイエス嬢情報"
 |[Cocosia ～ココシア～](http://www.cocosia.work/) <br />@JR赤羽駅西口|[15](https://www.google.com/search?q=site%3Awww.cocosia.work/+C)|[10](https://www.google.com/search?q=site%3Awww.cocosia.work/+D)|[6](https://www.google.com/search?q=site%3Awww.cocosia.work/+E)|
 |[Aroma Dream ～アロマドリーム～](https://dream.ests.jp/) <br />@JR赤羽駅東口|[16](https://www.google.com/search?q=site%3Adream.ests.jp/+C)|[8](https://www.google.com/search?q=site%3Adream.ests.jp/+D)|[2](https://www.google.com/search?q=site%3Adream.ests.jp/+E)|
 |[Love Sea](https://higashijujo-mensesthe.com/) <br />@JR東十条駅北口||||
-|[ACEアロマ](http://ace-esthe.com/) <br />@JR赤羽駅東口|[18](https://www.google.com/search?q=site%3Aace-esthe.com/+C)|||
+|[ACEアロマ](http://ace-esthe.com/) <br />@JR赤羽駅東口||||
 |[夢ご](https://yumego.tyo.cm/) <br />@JR十条駅南口||[36](https://www.google.com/search?q=site%3Ayumego.tyo.cm/+D)||
 |[GOOD TIME](http://www.goodtime.iesjp.com/) <br />@赤羽岩淵駅2番出口|[2](https://www.google.com/search?q=site%3Awww.goodtime.iesjp.com/+C)|[6](https://www.google.com/search?q=site%3Awww.goodtime.iesjp.com/+D)||
 |[For you](http://akabaneforyou.xyz/) <br />@JR赤羽駅東口|[2](https://www.google.com/search?q=site%3Aakabaneforyou.xyz/+C)|[10](https://www.google.com/search?q=site%3Aakabaneforyou.xyz/+D)||
